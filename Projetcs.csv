@@ -1,0 +1,1001 @@
+id,user_id,skill_id,projectName,projectDescription,projectExperience,role,create_at,status
+1,155,592,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Quality Assurance (QA) Engineer,2/12/2024,Not Approved
+2,662,550,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Project Manager,7/22/2023,pending
+3,926,433,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 years,Subject Matter Expert (SME),11/6/2023,Not Approved
+4,633,67,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,6 months,Developer/Programmer,12/29/2023,Approved
+5,911,975,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 years,Developer/Programmer,8/26/2023,pending
+6,360,494,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,5 months,Quality Assurance (QA) Engineer,4/6/2024,pending
+7,288,408,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,5 years,Project Manager,10/5/2023,Approved
+8,947,88,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Subject Matter Expert (SME),4/30/2023,Not Approved
+9,842,756,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,8 months,Project Manager,9/23/2023,pending
+10,278,211,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Team Lead,1/10/2024,Approved
+11,741,195,PHP Forum Integration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,3 months,Subject Matter Expert (SME),3/5/2024,Approved
+12,97,122,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Quality Assurance (QA) Engineer,2/21/2024,Not Approved
+13,493,268,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,4 years,Subject Matter Expert (SME),11/25/2023,Approved
+14,992,325,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Quality Assurance (QA) Engineer,7/31/2023,pending
+15,990,601,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,8 months,Designer,11/17/2023,Not Approved
+16,450,990,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 years,Business Analyst,9/26/2023,Not Approved
+17,539,408,PHP Forum Integration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Subject Matter Expert (SME),12/9/2023,pending
+18,133,401,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,10 years,Subject Matter Expert (SME),8/20/2023,Not Approved
+19,407,323,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,2 years,Designer,1/4/2024,Not Approved
+20,567,677,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 months,Subject Matter Expert (SME),3/18/2024,Not Approved
+21,60,484,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,1 month,Subject Matter Expert (SME),7/18/2023,Not Approved
+22,486,413,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 years,Team Lead,9/20/2023,pending
+23,311,470,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Designer,8/21/2023,pending
+24,199,679,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,7 months,Developer/Programmer,11/12/2023,Not Approved
+25,984,570,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,2 months,Subject Matter Expert (SME),7/18/2023,Not Approved
+26,847,838,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 years,Team Lead,10/29/2023,Not Approved
+27,408,273,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 months,Subject Matter Expert (SME),2/24/2024,pending
+28,611,328,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,7 years,Project Manager,12/16/2023,Not Approved
+29,879,79,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Quality Assurance (QA) Engineer,5/29/2023,Not Approved
+30,64,25,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,3 months,Designer,5/2/2023,pending
+31,191,853,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,3 months,Quality Assurance (QA) Engineer,1/3/2024,Approved
+32,863,899,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 months,Quality Assurance (QA) Engineer,6/24/2023,pending
+33,544,32,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Team Lead,10/29/2023,Not Approved
+34,19,654,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,2 years,Team Lead,1/16/2024,Not Approved
+35,448,368,Project Management Tool Implementation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 month,Developer/Programmer,1/28/2024,Not Approved
+36,602,350,Snowflake Data Warehouse Migration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,6 months,Developer/Programmer,7/13/2023,pending
+37,368,713,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,5 months,Quality Assurance (QA) Engineer,2/11/2024,pending
+38,328,842,Snowflake Data Warehouse Migration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 month,Team Lead,10/11/2023,Approved
+39,265,42,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 years,Team Lead,10/21/2023,Approved
+40,14,510,Snowflake Data Warehouse Migration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Developer/Programmer,1/29/2024,Not Approved
+41,878,263,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Business Analyst,12/8/2023,Not Approved
+42,948,597,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Project Manager,11/30/2023,Approved
+43,748,476,Project Management Tool Implementation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Project Manager,8/20/2023,Not Approved
+44,732,791,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 years,Subject Matter Expert (SME),11/23/2023,Not Approved
+45,960,715,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Business Analyst,11/27/2023,Approved
+46,921,543,Snowflake Data Warehouse Migration,Develop a scalable and responsive web application using React for improved user experience.,9 months,Designer,4/25/2023,Approved
+47,590,219,Slides Template Redesign,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 years,Business Analyst,6/30/2023,Not Approved
+48,142,736,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Business Analyst,2/29/2024,Not Approved
+49,34,499,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 months,Quality Assurance (QA) Engineer,11/28/2023,Not Approved
+50,129,335,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Team Lead,7/23/2023,Approved
+51,617,629,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Business Analyst,7/18/2023,pending
+52,642,546,Project Management Tool Implementation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 months,Quality Assurance (QA) Engineer,3/25/2024,Approved
+53,336,87,Java Enterprise Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,1 month,Business Analyst,11/29/2023,Approved
+54,514,540,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Team Lead,7/28/2023,Approved
+55,47,681,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 years,Quality Assurance (QA) Engineer,3/16/2024,Not Approved
+56,466,584,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 months,Project Manager,1/21/2024,Not Approved
+57,836,265,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,6 months,Developer/Programmer,3/2/2024,Not Approved
+58,477,242,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Subject Matter Expert (SME),8/11/2023,pending
+59,637,180,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,2 years,Team Lead,6/12/2023,Approved
+60,682,70,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,6 months,Designer,10/4/2023,Approved
+61,341,585,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Developer/Programmer,8/26/2023,Not Approved
+62,864,71,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Subject Matter Expert (SME),2/22/2024,Approved
+63,365,739,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Designer,12/6/2023,pending
+64,645,446,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Business Analyst,10/23/2023,pending
+65,16,978,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,6 months,Quality Assurance (QA) Engineer,2/18/2024,pending
+66,411,967,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Team Lead,5/24/2023,pending
+67,835,727,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 years,Developer/Programmer,5/26/2023,Approved
+68,622,517,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Subject Matter Expert (SME),5/4/2023,Not Approved
+69,274,959,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Quality Assurance (QA) Engineer,4/8/2023,Not Approved
+70,260,437,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 months,Team Lead,2/7/2024,Not Approved
+71,416,672,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Team Lead,5/31/2023,Not Approved
+72,385,498,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 months,Quality Assurance (QA) Engineer,4/25/2023,Approved
+73,614,373,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Project Manager,1/16/2024,pending
+74,35,513,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Developer/Programmer,4/13/2023,Not Approved
+75,98,249,Python Data Analysis Automation,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Project Manager,12/24/2023,Not Approved
+76,425,61,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Business Analyst,9/13/2023,pending
+77,714,618,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Project Manager,8/17/2023,Not Approved
+78,81,435,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,8 months,Quality Assurance (QA) Engineer,8/31/2023,Not Approved
+79,273,453,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Subject Matter Expert (SME),11/27/2023,pending
+80,10,386,Slides Template Redesign,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 months,Quality Assurance (QA) Engineer,2/20/2024,pending
+81,173,623,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,8 months,Subject Matter Expert (SME),5/11/2023,Not Approved
+82,480,666,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,9 months,Designer,3/11/2024,Approved
+83,759,584,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,1 month,Developer/Programmer,1/5/2024,pending
+84,674,4,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Project Manager,5/28/2023,Approved
+85,556,692,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 month,Subject Matter Expert (SME),4/20/2023,Approved
+86,808,193,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Business Analyst,8/21/2023,Not Approved
+87,6,681,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,10 years,Quality Assurance (QA) Engineer,5/20/2023,pending
+88,437,28,PHP Forum Integration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,2 months,Quality Assurance (QA) Engineer,11/26/2023,Not Approved
+89,793,277,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 years,Subject Matter Expert (SME),7/28/2023,Approved
+90,714,105,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 months,Business Analyst,5/15/2023,Approved
+91,437,609,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Subject Matter Expert (SME),8/3/2023,Approved
+92,83,664,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 month,Business Analyst,9/6/2023,pending
+93,918,426,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,7 years,Subject Matter Expert (SME),5/13/2023,Not Approved
+94,624,700,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 years,Team Lead,3/24/2024,Not Approved
+95,538,684,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Team Lead,8/14/2023,pending
+96,278,910,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Developer/Programmer,11/23/2023,Not Approved
+97,916,604,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Project Manager,4/16/2023,Not Approved
+98,380,768,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 years,Business Analyst,1/9/2024,Not Approved
+99,193,576,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Business Analyst,3/16/2024,pending
+100,747,135,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Subject Matter Expert (SME),12/12/2023,Approved
+101,344,614,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Designer,2/11/2024,pending
+102,508,655,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 months,Designer,11/22/2023,Not Approved
+103,769,115,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,5 years,Designer,7/11/2023,pending
+104,499,741,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Team Lead,11/12/2023,Approved
+105,229,509,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 years,Team Lead,3/6/2024,Not Approved
+106,793,905,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,7 years,Designer,7/11/2023,pending
+107,63,694,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Designer,11/5/2023,Approved
+108,763,651,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Team Lead,7/11/2023,pending
+109,499,865,SQL Database Optimization Project,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 months,Subject Matter Expert (SME),7/28/2023,Not Approved
+110,974,560,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Business Analyst,9/25/2023,pending
+111,917,881,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Developer/Programmer,10/11/2023,Approved
+112,27,694,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,4 months,Business Analyst,1/6/2024,Approved
+113,794,807,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Business Analyst,4/29/2023,Approved
+114,188,410,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Team Lead,10/28/2023,Not Approved
+115,691,566,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,6 months,Project Manager,3/19/2024,pending
+116,700,412,Project Management Tool Implementation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Developer/Programmer,11/27/2023,Approved
+117,543,66,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Developer/Programmer,5/7/2023,Approved
+118,345,373,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,4 years,Business Analyst,8/6/2023,Not Approved
+119,81,307,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 months,Designer,9/9/2023,pending
+120,506,851,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Team Lead,1/24/2024,pending
+121,17,606,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Subject Matter Expert (SME),10/4/2023,Not Approved
+122,659,228,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 months,Designer,6/15/2023,Approved
+123,171,842,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,9 months,Developer/Programmer,5/18/2023,Not Approved
+124,907,885,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 years,Developer/Programmer,10/3/2023,Approved
+125,868,604,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 months,Project Manager,3/8/2024,Not Approved
+126,74,154,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Project Manager,2/16/2024,Approved
+127,735,954,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Developer/Programmer,1/29/2024,Approved
+128,794,645,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Subject Matter Expert (SME),4/1/2024,Approved
+129,658,27,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 months,Team Lead,3/14/2024,Not Approved
+130,598,100,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Quality Assurance (QA) Engineer,6/18/2023,pending
+131,931,610,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 years,Team Lead,8/8/2023,Not Approved
+132,670,607,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 years,Designer,8/6/2023,pending
+133,26,219,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 years,Developer/Programmer,7/26/2023,pending
+134,161,831,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 months,Quality Assurance (QA) Engineer,8/10/2023,pending
+135,296,532,Java Enterprise Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,6 months,Project Manager,5/27/2023,pending
+136,450,555,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 years,Quality Assurance (QA) Engineer,4/13/2023,Not Approved
+137,833,240,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Team Lead,1/16/2024,Not Approved
+138,387,784,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,6 months,Developer/Programmer,5/19/2023,Not Approved
+139,147,256,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,8 months,Subject Matter Expert (SME),1/9/2024,pending
+140,806,970,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,4 years,Subject Matter Expert (SME),4/6/2024,Approved
+141,418,703,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,3 months,Quality Assurance (QA) Engineer,8/13/2023,pending
+142,1000,288,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Developer/Programmer,2/5/2024,Not Approved
+143,622,424,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Designer,5/22/2023,Not Approved
+144,580,719,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 month,Developer/Programmer,1/7/2024,pending
+145,499,3,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 years,Quality Assurance (QA) Engineer,3/31/2024,pending
+146,963,901,SQL Database Optimization Project,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Business Analyst,2/23/2024,Not Approved
+147,149,762,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Subject Matter Expert (SME),2/10/2024,Approved
+148,886,595,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 years,Quality Assurance (QA) Engineer,5/14/2023,pending
+149,923,692,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,8 months,Designer,7/10/2023,Not Approved
+150,982,675,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,7 months,Subject Matter Expert (SME),4/14/2023,pending
+151,38,96,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 month,Team Lead,4/21/2023,pending
+152,764,984,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Developer/Programmer,3/13/2024,Not Approved
+153,368,362,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,8 months,Quality Assurance (QA) Engineer,1/13/2024,Not Approved
+154,36,891,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Quality Assurance (QA) Engineer,6/18/2023,Approved
+155,718,239,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,6 months,Project Manager,1/15/2024,Approved
+156,45,543,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,8 months,Subject Matter Expert (SME),12/6/2023,pending
+157,122,184,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,1 month,Quality Assurance (QA) Engineer,10/20/2023,pending
+158,935,47,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,10 months,Project Manager,3/20/2024,Approved
+159,909,331,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 months,Team Lead,11/4/2023,pending
+160,675,5,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Project Manager,10/11/2023,pending
+161,276,933,Power BI Dashboard Enhancement,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Subject Matter Expert (SME),2/13/2024,Approved
+162,945,885,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 years,Designer,10/20/2023,Approved
+163,312,512,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 months,Project Manager,5/19/2023,pending
+164,774,597,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,3 months,Developer/Programmer,8/6/2023,pending
+165,818,647,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Team Lead,9/24/2023,Approved
+166,542,754,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 years,Subject Matter Expert (SME),7/16/2023,pending
+167,461,402,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Quality Assurance (QA) Engineer,2/9/2024,Approved
+168,404,890,PHP Forum Integration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Subject Matter Expert (SME),1/16/2024,Not Approved
+169,278,645,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,9 months,Subject Matter Expert (SME),6/10/2023,pending
+170,639,48,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Designer,7/30/2023,Not Approved
+171,215,71,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Designer,7/19/2023,pending
+172,703,31,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Quality Assurance (QA) Engineer,6/23/2023,Approved
+173,930,898,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Quality Assurance (QA) Engineer,6/20/2023,pending
+174,430,898,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 years,Quality Assurance (QA) Engineer,5/15/2023,Not Approved
+175,398,192,Slides Template Redesign,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 years,Developer/Programmer,6/11/2023,Not Approved
+176,952,381,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Developer/Programmer,7/13/2023,Approved
+177,994,698,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 years,Project Manager,9/8/2023,Approved
+178,164,191,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,4 years,Subject Matter Expert (SME),4/9/2023,pending
+179,122,648,Python Data Analysis Automation,Redesign presentation slides template to modernize branding and improve visual appeal.,5 months,Subject Matter Expert (SME),10/22/2023,pending
+180,952,580,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,4 months,Subject Matter Expert (SME),8/9/2023,Not Approved
+181,49,382,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 years,Business Analyst,1/4/2024,Not Approved
+182,749,256,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,5 months,Developer/Programmer,11/28/2023,pending
+183,881,622,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Quality Assurance (QA) Engineer,4/14/2023,Not Approved
+184,534,769,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,4 months,Team Lead,6/27/2023,Not Approved
+185,636,866,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,8 months,Quality Assurance (QA) Engineer,5/14/2023,Approved
+186,868,818,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,3 months,Team Lead,11/21/2023,pending
+187,52,93,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 months,Project Manager,6/30/2023,Not Approved
+188,143,27,Java Enterprise Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 months,Quality Assurance (QA) Engineer,4/22/2023,pending
+189,984,838,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 years,Quality Assurance (QA) Engineer,3/2/2024,Approved
+190,723,214,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,7 years,Developer/Programmer,9/24/2023,pending
+191,280,6,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,8 months,Developer/Programmer,12/24/2023,pending
+192,956,237,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Developer/Programmer,5/17/2023,Not Approved
+193,325,378,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,1 years,Developer/Programmer,8/25/2023,pending
+194,685,653,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,2 years,Quality Assurance (QA) Engineer,8/14/2023,Approved
+195,180,477,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 years,Quality Assurance (QA) Engineer,8/27/2023,Not Approved
+196,935,685,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 months,Developer/Programmer,6/15/2023,Not Approved
+197,591,848,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Developer/Programmer,5/5/2023,pending
+198,239,989,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Project Manager,6/5/2023,Not Approved
+199,354,785,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Developer/Programmer,8/1/2023,Not Approved
+200,185,504,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Subject Matter Expert (SME),9/20/2023,pending
+201,672,709,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Designer,11/5/2023,Approved
+202,389,434,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Designer,10/3/2023,Approved
+203,901,125,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 months,Team Lead,5/24/2023,Not Approved
+204,938,104,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,2 years,Team Lead,12/21/2023,pending
+205,835,428,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Project Manager,1/13/2024,Not Approved
+206,508,996,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Business Analyst,3/28/2024,pending
+207,608,984,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Project Manager,2/25/2024,Approved
+208,39,978,Snowflake Data Warehouse Migration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Developer/Programmer,4/16/2023,Approved
+209,449,709,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,10 months,Designer,3/4/2024,pending
+210,386,465,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Developer/Programmer,3/22/2024,Approved
+211,903,985,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 years,Business Analyst,7/1/2023,pending
+212,1,972,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,8 months,Quality Assurance (QA) Engineer,11/24/2023,pending
+213,337,668,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,10 months,Designer,7/8/2023,Not Approved
+214,387,480,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Designer,11/18/2023,Approved
+215,671,682,Presenting Skills Workshop Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Team Lead,12/15/2023,pending
+216,424,818,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Business Analyst,3/15/2024,pending
+217,313,881,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Team Lead,6/17/2023,Not Approved
+218,988,250,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,3 months,Business Analyst,3/6/2024,pending
+219,533,148,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 months,Developer/Programmer,6/15/2023,pending
+220,189,91,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 month,Business Analyst,1/26/2024,Approved
+221,373,23,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Team Lead,6/11/2023,Not Approved
+222,490,471,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 months,Team Lead,2/16/2024,Not Approved
+223,466,689,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 months,Subject Matter Expert (SME),5/29/2023,Approved
+224,62,685,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Developer/Programmer,5/23/2023,Approved
+225,303,258,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Subject Matter Expert (SME),7/2/2023,pending
+226,152,764,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Quality Assurance (QA) Engineer,6/28/2023,pending
+227,388,750,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 months,Project Manager,4/28/2023,Not Approved
+228,106,73,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Business Analyst,2/1/2024,pending
+229,829,987,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Designer,5/25/2023,Approved
+230,740,809,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 months,Subject Matter Expert (SME),8/17/2023,Approved
+231,326,47,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 years,Project Manager,10/7/2023,pending
+232,111,249,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Developer/Programmer,4/8/2023,pending
+233,453,805,SQL Database Optimization Project,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 years,Project Manager,8/31/2023,Not Approved
+234,744,704,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Subject Matter Expert (SME),4/22/2023,pending
+235,874,429,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 years,Quality Assurance (QA) Engineer,7/11/2023,pending
+236,671,269,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 years,Team Lead,3/24/2024,Not Approved
+237,842,934,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 years,Quality Assurance (QA) Engineer,12/30/2023,Not Approved
+238,474,770,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Quality Assurance (QA) Engineer,7/7/2023,Not Approved
+239,765,402,SQL Database Optimization Project,Redesign presentation slides template to modernize branding and improve visual appeal.,1 month,Subject Matter Expert (SME),4/26/2023,Approved
+240,726,682,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,7 years,Designer,4/22/2023,Not Approved
+241,714,529,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,5 years,Project Manager,4/12/2023,Not Approved
+242,546,352,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 month,Quality Assurance (QA) Engineer,1/7/2024,Not Approved
+243,44,806,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 years,Subject Matter Expert (SME),1/21/2024,Not Approved
+244,304,759,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 years,Subject Matter Expert (SME),12/25/2023,Approved
+245,558,85,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 years,Developer/Programmer,10/11/2023,Not Approved
+246,906,911,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,7 months,Business Analyst,4/11/2023,Approved
+247,58,489,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 months,Subject Matter Expert (SME),12/20/2023,Not Approved
+248,328,53,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,3 months,Team Lead,10/1/2023,Not Approved
+249,45,15,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 months,Developer/Programmer,12/6/2023,Not Approved
+250,613,944,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 years,Quality Assurance (QA) Engineer,6/2/2023,pending
+251,504,924,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 months,Business Analyst,4/9/2023,Approved
+252,94,39,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Team Lead,4/26/2023,Approved
+253,534,691,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,4 years,Business Analyst,10/1/2023,pending
+254,387,913,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Developer/Programmer,10/12/2023,Not Approved
+255,259,23,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,9 months,Designer,6/13/2023,Not Approved
+256,607,808,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 month,Business Analyst,11/21/2023,Approved
+257,933,132,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,6 months,Designer,1/12/2024,Approved
+258,411,170,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,6 months,Team Lead,10/5/2023,Approved
+259,572,157,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 years,Project Manager,7/18/2023,pending
+260,746,210,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,6 months,Developer/Programmer,1/30/2024,pending
+261,227,86,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,7 months,Designer,11/2/2023,Approved
+262,320,202,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 months,Developer/Programmer,12/22/2023,Not Approved
+263,461,430,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,5 years,Designer,11/26/2023,Approved
+264,196,787,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,6 months,Team Lead,2/7/2024,pending
+265,337,535,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,2 months,Subject Matter Expert (SME),12/4/2023,pending
+266,322,174,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Designer,8/11/2023,Not Approved
+267,433,13,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Team Lead,6/10/2023,Approved
+268,477,284,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Project Manager,3/29/2024,Approved
+269,504,702,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 months,Project Manager,7/19/2023,Approved
+270,83,497,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Business Analyst,9/28/2023,Approved
+271,37,518,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 years,Subject Matter Expert (SME),7/21/2023,pending
+272,679,446,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 years,Designer,8/28/2023,Not Approved
+273,694,990,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 years,Project Manager,10/27/2023,pending
+274,69,511,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 months,Business Analyst,11/8/2023,Approved
+275,326,992,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Designer,4/21/2023,pending
+276,110,160,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Project Manager,1/23/2024,pending
+277,579,511,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,5 months,Designer,3/28/2024,pending
+278,468,760,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Team Lead,8/26/2023,Approved
+279,447,884,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Project Manager,7/14/2023,pending
+280,862,691,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 months,Team Lead,9/17/2023,pending
+281,185,992,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Team Lead,3/22/2024,Not Approved
+282,589,267,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Quality Assurance (QA) Engineer,2/25/2024,pending
+283,356,988,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Business Analyst,12/9/2023,Approved
+284,847,184,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 months,Business Analyst,8/14/2023,Approved
+285,684,510,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,7 years,Quality Assurance (QA) Engineer,12/29/2023,Not Approved
+286,754,263,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Team Lead,9/16/2023,Approved
+287,252,932,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Business Analyst,3/28/2024,Approved
+288,193,823,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,8 months,Business Analyst,4/13/2023,Not Approved
+289,473,459,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 years,Team Lead,6/12/2023,Not Approved
+290,344,19,Snowflake Data Warehouse Migration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Quality Assurance (QA) Engineer,4/29/2023,Approved
+291,418,46,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,2 months,Team Lead,2/3/2024,Not Approved
+292,904,153,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Business Analyst,11/9/2023,Not Approved
+293,771,270,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,4 years,Subject Matter Expert (SME),10/23/2023,Not Approved
+294,701,799,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,7 years,Business Analyst,12/17/2023,Not Approved
+295,475,42,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 years,Business Analyst,12/27/2023,pending
+296,577,326,SQL Database Optimization Project,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Designer,12/12/2023,Not Approved
+297,555,493,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Project Manager,6/29/2023,Not Approved
+298,258,856,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Quality Assurance (QA) Engineer,5/19/2023,Not Approved
+299,931,976,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Quality Assurance (QA) Engineer,10/12/2023,Approved
+300,601,336,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,9 months,Project Manager,6/12/2023,Not Approved
+301,3,250,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Project Manager,1/14/2024,pending
+302,312,780,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,8 months,Team Lead,2/1/2024,pending
+303,2,342,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,1 month,Project Manager,1/16/2024,Not Approved
+304,862,722,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 years,Subject Matter Expert (SME),7/16/2023,Not Approved
+305,479,923,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Quality Assurance (QA) Engineer,5/31/2023,pending
+306,489,474,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 month,Subject Matter Expert (SME),1/14/2024,Approved
+307,394,262,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,6 months,Subject Matter Expert (SME),7/14/2023,Not Approved
+308,599,961,Snowflake Data Warehouse Migration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,9 months,Team Lead,9/7/2023,Approved
+309,975,182,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Team Lead,9/25/2023,Approved
+310,897,933,SQL Database Optimization Project,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 months,Subject Matter Expert (SME),11/25/2023,pending
+311,726,271,PHP Forum Integration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Subject Matter Expert (SME),11/18/2023,Approved
+312,44,995,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Business Analyst,10/27/2023,pending
+313,130,929,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,6 months,Subject Matter Expert (SME),3/23/2024,pending
+314,13,453,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,7 months,Quality Assurance (QA) Engineer,6/29/2023,Approved
+315,989,709,Presenting Skills Workshop Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Developer/Programmer,6/25/2023,pending
+316,9,802,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 months,Business Analyst,9/27/2023,Not Approved
+317,897,463,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 months,Business Analyst,12/9/2023,pending
+318,451,582,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 months,Project Manager,12/22/2023,Not Approved
+319,43,931,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Business Analyst,1/12/2024,pending
+320,482,216,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,4 years,Subject Matter Expert (SME),11/29/2023,Not Approved
+321,304,377,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,8 months,Business Analyst,7/21/2023,pending
+322,388,888,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Project Manager,4/28/2023,pending
+323,459,156,Python Data Analysis Automation,Redesign presentation slides template to modernize branding and improve visual appeal.,1 month,Subject Matter Expert (SME),7/11/2023,pending
+324,902,600,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 months,Developer/Programmer,1/22/2024,Approved
+325,143,36,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,5 years,Subject Matter Expert (SME),11/2/2023,Not Approved
+326,525,891,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 months,Business Analyst,9/22/2023,pending
+327,791,133,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Business Analyst,12/21/2023,pending
+328,367,134,Power BI Dashboard Enhancement,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Quality Assurance (QA) Engineer,2/27/2024,Approved
+329,380,274,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Team Lead,9/9/2023,Not Approved
+330,614,100,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Designer,4/8/2023,Approved
+331,414,100,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Quality Assurance (QA) Engineer,5/13/2023,pending
+332,786,878,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,9 months,Project Manager,8/16/2023,Not Approved
+333,939,776,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Business Analyst,5/12/2023,Not Approved
+334,372,387,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Developer/Programmer,3/9/2024,pending
+335,739,197,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 years,Developer/Programmer,5/17/2023,pending
+336,145,678,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Quality Assurance (QA) Engineer,1/6/2024,Approved
+337,602,722,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,8 months,Project Manager,4/30/2023,Not Approved
+338,893,866,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,3 months,Business Analyst,3/1/2024,Not Approved
+339,389,234,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 months,Business Analyst,5/29/2023,pending
+340,118,46,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,3 months,Team Lead,7/24/2023,Not Approved
+341,865,373,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Business Analyst,5/1/2023,pending
+342,693,48,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Subject Matter Expert (SME),11/4/2023,Approved
+343,722,390,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,9 months,Business Analyst,9/3/2023,Not Approved
+344,796,593,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Quality Assurance (QA) Engineer,10/5/2023,Not Approved
+345,138,683,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 years,Project Manager,7/31/2023,Not Approved
+346,668,437,PHP Forum Integration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 months,Designer,7/1/2023,Approved
+347,945,519,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,9 months,Team Lead,7/22/2023,pending
+348,328,909,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 months,Designer,8/13/2023,Approved
+349,312,859,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 years,Quality Assurance (QA) Engineer,4/10/2023,Approved
+350,988,123,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,5 years,Project Manager,3/1/2024,pending
+351,589,98,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Designer,3/15/2024,Not Approved
+352,843,974,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Business Analyst,9/13/2023,pending
+353,531,198,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Designer,2/13/2024,Approved
+354,699,869,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 month,Project Manager,10/14/2023,pending
+355,466,590,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,8 months,Designer,9/20/2023,Approved
+356,687,523,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,2 years,Project Manager,6/20/2023,Not Approved
+357,695,947,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 months,Subject Matter Expert (SME),2/24/2024,Approved
+358,399,785,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 month,Project Manager,9/3/2023,pending
+359,990,672,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,8 months,Developer/Programmer,6/3/2023,Not Approved
+360,334,763,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Subject Matter Expert (SME),12/8/2023,pending
+361,662,1000,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Designer,7/9/2023,Approved
+362,323,616,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 months,Developer/Programmer,6/9/2023,pending
+363,320,857,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 months,Project Manager,7/21/2023,Approved
+364,996,115,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,8 months,Designer,8/5/2023,Approved
+365,414,69,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,4 years,Business Analyst,2/13/2024,Not Approved
+366,539,486,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Subject Matter Expert (SME),7/30/2023,Approved
+367,850,398,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,7 months,Business Analyst,9/27/2023,pending
+368,405,34,Project Management Tool Implementation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Quality Assurance (QA) Engineer,9/17/2023,Approved
+369,532,19,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 months,Quality Assurance (QA) Engineer,8/16/2023,pending
+370,52,585,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 months,Designer,9/25/2023,Approved
+371,541,917,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Quality Assurance (QA) Engineer,3/10/2024,Approved
+372,310,85,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,5 months,Project Manager,11/17/2023,Not Approved
+373,898,349,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,3 months,Developer/Programmer,9/15/2023,Not Approved
+374,771,889,Slides Template Redesign,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Designer,7/10/2023,pending
+375,651,936,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 years,Subject Matter Expert (SME),11/13/2023,Approved
+376,651,817,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Designer,6/7/2023,Not Approved
+377,1000,732,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Team Lead,1/19/2024,Not Approved
+378,897,721,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,5 years,Subject Matter Expert (SME),10/13/2023,Not Approved
+379,215,309,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Developer/Programmer,3/30/2024,Not Approved
+380,542,434,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 years,Team Lead,7/3/2023,Approved
+381,452,67,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,7 years,Team Lead,11/29/2023,Not Approved
+382,784,528,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 years,Developer/Programmer,10/14/2023,pending
+383,750,460,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 months,Quality Assurance (QA) Engineer,5/3/2023,Approved
+384,61,307,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Project Manager,11/23/2023,pending
+385,493,903,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Designer,7/21/2023,Not Approved
+386,507,989,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 months,Quality Assurance (QA) Engineer,1/28/2024,pending
+387,616,105,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Business Analyst,7/28/2023,Not Approved
+388,588,139,Java Enterprise Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 months,Quality Assurance (QA) Engineer,3/1/2024,Approved
+389,651,462,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Project Manager,1/27/2024,Approved
+390,466,32,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Quality Assurance (QA) Engineer,3/20/2024,Approved
+391,888,415,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 months,Project Manager,4/1/2024,Not Approved
+392,318,361,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,4 months,Team Lead,4/18/2023,Not Approved
+393,581,268,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Developer/Programmer,9/3/2023,Approved
+394,600,928,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,2 years,Subject Matter Expert (SME),5/22/2023,Not Approved
+395,324,569,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,10 months,Subject Matter Expert (SME),10/14/2023,Not Approved
+396,341,603,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 months,Quality Assurance (QA) Engineer,12/22/2023,Approved
+397,768,417,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 years,Developer/Programmer,6/28/2023,pending
+398,147,994,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 years,Developer/Programmer,5/27/2023,pending
+399,28,824,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,3 months,Team Lead,10/26/2023,Approved
+400,931,636,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,2 months,Project Manager,1/23/2024,Not Approved
+401,893,750,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 years,Subject Matter Expert (SME),1/9/2024,Approved
+402,712,737,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 months,Subject Matter Expert (SME),7/8/2023,Not Approved
+403,223,55,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Designer,6/26/2023,Approved
+404,549,160,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,9 months,Team Lead,10/11/2023,Not Approved
+405,197,426,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 months,Subject Matter Expert (SME),11/23/2023,pending
+406,80,732,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 years,Subject Matter Expert (SME),2/17/2024,Not Approved
+407,460,737,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 years,Developer/Programmer,5/12/2023,Approved
+408,372,201,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Business Analyst,5/24/2023,pending
+409,22,820,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Subject Matter Expert (SME),2/1/2024,Approved
+410,727,377,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,6 months,Subject Matter Expert (SME),2/24/2024,pending
+411,39,616,Snowflake Data Warehouse Migration,Develop a scalable and responsive web application using React for improved user experience.,3 months,Project Manager,9/23/2023,Not Approved
+412,703,772,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Project Manager,11/27/2023,Not Approved
+413,179,988,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Subject Matter Expert (SME),8/26/2023,Approved
+414,692,621,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Quality Assurance (QA) Engineer,5/26/2023,pending
+415,582,83,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,8 months,Developer/Programmer,10/6/2023,Not Approved
+416,948,982,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 years,Team Lead,8/26/2023,pending
+417,195,628,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Developer/Programmer,9/16/2023,Approved
+418,595,665,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,8 months,Project Manager,8/11/2023,Approved
+419,249,931,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 months,Subject Matter Expert (SME),8/28/2023,pending
+420,843,878,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Quality Assurance (QA) Engineer,4/23/2023,Not Approved
+421,596,689,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,9 months,Business Analyst,8/11/2023,pending
+422,300,232,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Designer,6/25/2023,Approved
+423,492,468,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,7 months,Developer/Programmer,8/31/2023,Not Approved
+424,958,494,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,5 years,Designer,4/27/2023,pending
+425,184,871,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Project Manager,9/13/2023,Not Approved
+426,854,16,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Subject Matter Expert (SME),12/29/2023,Approved
+427,56,407,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Business Analyst,4/15/2023,Not Approved
+428,939,269,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Designer,3/11/2024,Not Approved
+429,159,313,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Designer,9/27/2023,Not Approved
+430,464,548,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Quality Assurance (QA) Engineer,2/17/2024,Approved
+431,375,311,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 years,Team Lead,3/29/2024,pending
+432,834,249,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Subject Matter Expert (SME),6/1/2023,pending
+433,968,122,Python Data Analysis Automation,Redesign presentation slides template to modernize branding and improve visual appeal.,5 months,Developer/Programmer,1/15/2024,Approved
+434,750,304,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,7 months,Designer,1/7/2024,Approved
+435,436,90,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 years,Developer/Programmer,8/6/2023,pending
+436,844,412,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Subject Matter Expert (SME),5/6/2023,pending
+437,299,446,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Subject Matter Expert (SME),9/9/2023,pending
+438,473,32,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,6 months,Business Analyst,7/30/2023,Not Approved
+439,747,324,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Team Lead,10/9/2023,pending
+440,524,612,Python Data Analysis Automation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 months,Developer/Programmer,5/14/2023,Not Approved
+441,254,25,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Business Analyst,6/9/2023,Not Approved
+442,64,431,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Project Manager,6/22/2023,pending
+443,296,682,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Developer/Programmer,4/5/2024,Not Approved
+444,395,570,Project Management Tool Implementation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Developer/Programmer,1/2/2024,Approved
+445,558,514,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Quality Assurance (QA) Engineer,1/26/2024,pending
+446,605,257,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Business Analyst,2/1/2024,pending
+447,840,159,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Quality Assurance (QA) Engineer,8/12/2023,pending
+448,812,219,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Team Lead,9/8/2023,pending
+449,224,868,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 years,Team Lead,1/27/2024,Approved
+450,728,519,Snowflake Data Warehouse Migration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 years,Team Lead,1/27/2024,Not Approved
+451,603,556,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Subject Matter Expert (SME),5/30/2023,Not Approved
+452,24,47,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Quality Assurance (QA) Engineer,8/22/2023,Approved
+453,248,440,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 years,Quality Assurance (QA) Engineer,7/15/2023,Not Approved
+454,886,135,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 months,Developer/Programmer,2/10/2024,Approved
+455,290,531,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Quality Assurance (QA) Engineer,8/30/2023,Not Approved
+456,61,857,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Developer/Programmer,4/24/2023,Not Approved
+457,300,321,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 months,Business Analyst,4/17/2023,Approved
+458,421,255,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Designer,4/20/2023,pending
+459,545,711,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 months,Developer/Programmer,5/15/2023,pending
+460,846,912,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Designer,4/9/2023,pending
+461,625,753,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,7 months,Subject Matter Expert (SME),2/1/2024,Approved
+462,441,959,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Subject Matter Expert (SME),6/15/2023,Approved
+463,966,160,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Subject Matter Expert (SME),2/27/2024,pending
+464,712,434,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 years,Designer,5/9/2023,Approved
+465,548,530,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,2 years,Business Analyst,1/17/2024,Not Approved
+466,534,680,Python Data Analysis Automation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 years,Subject Matter Expert (SME),1/8/2024,Not Approved
+467,716,46,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Designer,4/23/2023,pending
+468,67,768,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,4 years,Designer,10/28/2023,pending
+469,672,433,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 month,Project Manager,5/17/2023,Approved
+470,805,639,Project Management Tool Implementation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 years,Project Manager,1/6/2024,Approved
+471,890,763,Java Enterprise Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Team Lead,1/31/2024,Approved
+472,832,183,Python Data Analysis Automation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 month,Subject Matter Expert (SME),8/22/2023,Approved
+473,925,511,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Project Manager,5/31/2023,Approved
+474,633,20,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 months,Quality Assurance (QA) Engineer,12/18/2023,pending
+475,905,643,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Designer,8/9/2023,Not Approved
+476,484,635,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Designer,10/6/2023,pending
+477,638,585,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,5 years,Project Manager,2/9/2024,Approved
+478,856,763,SQL Database Optimization Project,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Team Lead,7/1/2023,pending
+479,387,390,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,8 months,Quality Assurance (QA) Engineer,11/24/2023,Approved
+480,104,411,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Developer/Programmer,6/25/2023,pending
+481,966,520,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 years,Quality Assurance (QA) Engineer,10/13/2023,Not Approved
+482,73,958,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 years,Team Lead,2/11/2024,Not Approved
+483,403,495,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Business Analyst,10/18/2023,Not Approved
+484,999,486,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 years,Developer/Programmer,3/29/2024,pending
+485,279,994,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,7 years,Developer/Programmer,8/12/2023,Not Approved
+486,320,21,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Developer/Programmer,1/24/2024,pending
+487,273,979,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Subject Matter Expert (SME),6/10/2023,pending
+488,614,50,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Subject Matter Expert (SME),12/10/2023,Not Approved
+489,429,795,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,4 years,Developer/Programmer,4/1/2024,pending
+490,592,61,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,9 months,Business Analyst,9/7/2023,Not Approved
+491,935,279,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Team Lead,9/8/2023,pending
+492,875,149,Slides Template Redesign,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Team Lead,3/19/2024,Approved
+493,253,834,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Quality Assurance (QA) Engineer,12/19/2023,pending
+494,922,790,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Project Manager,10/16/2023,Not Approved
+495,892,248,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 month,Quality Assurance (QA) Engineer,1/4/2024,Not Approved
+496,760,82,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Business Analyst,6/18/2023,Approved
+497,787,967,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 months,Developer/Programmer,12/30/2023,Approved
+498,96,368,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,6 months,Subject Matter Expert (SME),4/17/2023,Approved
+499,252,190,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Designer,6/20/2023,pending
+500,193,32,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 years,Team Lead,2/10/2024,Not Approved
+501,318,120,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 months,Project Manager,1/14/2024,Approved
+502,593,621,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,9 months,Business Analyst,3/25/2024,Approved
+503,30,925,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 months,Team Lead,12/29/2023,Approved
+504,109,28,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 years,Team Lead,11/10/2023,Approved
+505,928,35,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 months,Quality Assurance (QA) Engineer,5/18/2023,Not Approved
+506,59,120,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Project Manager,1/13/2024,pending
+507,176,342,Presenting Skills Workshop Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Quality Assurance (QA) Engineer,7/30/2023,pending
+508,8,935,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Business Analyst,10/30/2023,pending
+509,736,625,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Designer,3/21/2024,Not Approved
+510,312,855,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Subject Matter Expert (SME),3/2/2024,Approved
+511,424,851,Java Enterprise Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 months,Business Analyst,9/7/2023,pending
+512,513,454,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,9 months,Subject Matter Expert (SME),2/9/2024,pending
+513,759,97,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 months,Developer/Programmer,8/24/2023,Not Approved
+514,635,234,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Team Lead,2/21/2024,Not Approved
+515,893,663,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Developer/Programmer,7/26/2023,Not Approved
+516,196,841,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,9 months,Business Analyst,4/7/2024,Not Approved
+517,340,895,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Team Lead,3/13/2024,Approved
+518,58,317,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Project Manager,3/25/2024,pending
+519,593,792,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 years,Designer,10/20/2023,Not Approved
+520,117,317,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Team Lead,3/15/2024,Not Approved
+521,962,470,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,4 years,Subject Matter Expert (SME),9/26/2023,pending
+522,284,656,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,2 months,Team Lead,1/28/2024,Approved
+523,597,751,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 years,Quality Assurance (QA) Engineer,8/20/2023,Approved
+524,411,721,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Subject Matter Expert (SME),3/3/2024,Approved
+525,75,699,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,4 years,Designer,8/28/2023,Approved
+526,32,97,PHP Forum Integration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,9 months,Quality Assurance (QA) Engineer,11/26/2023,Not Approved
+527,835,148,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Team Lead,10/24/2023,Not Approved
+528,493,204,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Business Analyst,8/22/2023,pending
+529,919,198,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Team Lead,8/31/2023,Approved
+530,520,359,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Designer,9/19/2023,Approved
+531,447,99,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Designer,7/19/2023,Approved
+532,502,18,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,2 years,Quality Assurance (QA) Engineer,11/1/2023,Approved
+533,364,409,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 months,Business Analyst,10/30/2023,pending
+534,871,348,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,6 months,Project Manager,7/5/2023,Not Approved
+535,436,572,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,5 months,Subject Matter Expert (SME),7/22/2023,Not Approved
+536,267,650,Java Enterprise Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,2 months,Developer/Programmer,8/18/2023,Approved
+537,769,530,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 months,Team Lead,1/10/2024,pending
+538,150,291,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Business Analyst,3/23/2024,pending
+539,238,128,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Subject Matter Expert (SME),3/27/2024,pending
+540,630,13,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Developer/Programmer,9/28/2023,Not Approved
+541,977,758,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,1 years,Project Manager,12/5/2023,pending
+542,672,449,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,9 months,Quality Assurance (QA) Engineer,7/4/2023,Approved
+543,158,16,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 months,Team Lead,7/2/2023,Approved
+544,874,415,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 years,Project Manager,8/15/2023,Not Approved
+545,569,443,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 months,Quality Assurance (QA) Engineer,11/14/2023,Not Approved
+546,788,862,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,8 months,Subject Matter Expert (SME),12/10/2023,pending
+547,641,247,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Subject Matter Expert (SME),7/19/2023,Approved
+548,911,24,Project Management Tool Implementation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,7 months,Business Analyst,12/16/2023,Approved
+549,863,449,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,7 years,Designer,4/8/2023,pending
+550,842,51,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Developer/Programmer,3/24/2024,pending
+551,835,575,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,9 months,Designer,3/26/2024,Approved
+552,710,944,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Quality Assurance (QA) Engineer,2/21/2024,Not Approved
+553,866,120,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Subject Matter Expert (SME),1/24/2024,pending
+554,690,772,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 months,Project Manager,8/26/2023,pending
+555,952,388,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,5 years,Developer/Programmer,12/20/2023,Not Approved
+556,838,90,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Quality Assurance (QA) Engineer,9/30/2023,Approved
+557,254,589,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,6 months,Subject Matter Expert (SME),8/18/2023,Approved
+558,178,992,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 years,Subject Matter Expert (SME),2/15/2024,Approved
+559,111,175,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,6 months,Developer/Programmer,10/18/2023,Approved
+560,440,8,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Team Lead,9/6/2023,Approved
+561,529,729,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 months,Team Lead,1/27/2024,pending
+562,863,870,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 years,Designer,2/16/2024,Not Approved
+563,202,107,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 years,Project Manager,2/17/2024,pending
+564,671,908,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Subject Matter Expert (SME),11/17/2023,pending
+565,323,639,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,7 months,Subject Matter Expert (SME),6/8/2023,Approved
+566,109,2,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 years,Quality Assurance (QA) Engineer,1/11/2024,Approved
+567,297,697,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,7 months,Team Lead,8/3/2023,pending
+568,684,653,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Quality Assurance (QA) Engineer,5/16/2023,pending
+569,476,750,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,7 years,Team Lead,10/5/2023,Approved
+570,777,618,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Designer,3/17/2024,Not Approved
+571,74,68,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Designer,5/29/2023,Approved
+572,91,360,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 years,Project Manager,5/12/2023,Approved
+573,616,979,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,5 years,Business Analyst,1/15/2024,pending
+574,373,22,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 months,Team Lead,5/4/2023,Not Approved
+575,3,605,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Subject Matter Expert (SME),7/4/2023,pending
+576,556,863,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 years,Subject Matter Expert (SME),6/20/2023,Not Approved
+577,746,456,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Designer,11/16/2023,Approved
+578,131,345,Java Enterprise Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,6 months,Quality Assurance (QA) Engineer,5/6/2023,Approved
+579,927,20,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 years,Project Manager,7/23/2023,Approved
+580,682,117,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 years,Designer,8/12/2023,Approved
+581,396,268,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Designer,3/23/2024,pending
+582,658,99,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,8 months,Business Analyst,10/25/2023,Approved
+583,79,317,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Designer,6/11/2023,Approved
+584,556,248,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,8 months,Quality Assurance (QA) Engineer,4/18/2023,Not Approved
+585,382,712,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,7 months,Business Analyst,10/23/2023,pending
+586,133,120,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 years,Team Lead,7/25/2023,Not Approved
+587,53,757,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,10 months,Designer,3/10/2024,Approved
+588,906,950,Slides Template Redesign,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Team Lead,7/17/2023,Not Approved
+589,708,563,Java Enterprise Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,4 months,Business Analyst,9/23/2023,pending
+590,846,529,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,9 months,Project Manager,7/21/2023,Approved
+591,144,969,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,10 years,Project Manager,8/9/2023,Approved
+592,121,357,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Team Lead,10/27/2023,Not Approved
+593,960,252,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,3 months,Project Manager,5/22/2023,Approved
+594,497,437,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Team Lead,10/12/2023,pending
+595,385,736,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,5 months,Developer/Programmer,8/3/2023,pending
+596,652,146,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 months,Business Analyst,3/10/2024,Not Approved
+597,271,727,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 years,Team Lead,10/31/2023,Approved
+598,147,139,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,9 months,Quality Assurance (QA) Engineer,5/4/2023,pending
+599,933,358,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 years,Designer,7/18/2023,Not Approved
+600,855,762,Slides Template Redesign,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 months,Quality Assurance (QA) Engineer,5/24/2023,Approved
+601,650,800,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Team Lead,7/6/2023,Approved
+602,481,877,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Business Analyst,4/16/2023,pending
+603,906,957,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Developer/Programmer,4/3/2024,Approved
+604,67,424,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Designer,9/28/2023,pending
+605,292,262,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,5 months,Business Analyst,1/12/2024,pending
+606,525,745,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 months,Designer,5/24/2023,Not Approved
+607,551,119,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,4 months,Quality Assurance (QA) Engineer,3/15/2024,Not Approved
+608,230,624,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 years,Designer,11/4/2023,Approved
+609,158,19,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 years,Designer,5/15/2023,pending
+610,670,787,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,2 years,Designer,5/13/2023,Not Approved
+611,69,448,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,10 months,Project Manager,7/14/2023,Not Approved
+612,361,281,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 years,Subject Matter Expert (SME),6/18/2023,Not Approved
+613,345,919,PHP Forum Integration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 months,Team Lead,7/13/2023,Not Approved
+614,290,137,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,4 years,Team Lead,2/26/2024,pending
+615,614,355,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 years,Designer,12/28/2023,Approved
+616,531,482,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,2 months,Quality Assurance (QA) Engineer,4/29/2023,pending
+617,850,422,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Business Analyst,4/9/2023,Not Approved
+618,314,920,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Business Analyst,12/4/2023,Not Approved
+619,684,20,Snowflake Data Warehouse Migration,Develop a scalable and responsive web application using React for improved user experience.,5 years,Quality Assurance (QA) Engineer,4/25/2023,Approved
+620,205,88,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Project Manager,11/11/2023,pending
+621,385,766,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Quality Assurance (QA) Engineer,11/8/2023,Approved
+622,242,532,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Developer/Programmer,7/26/2023,Not Approved
+623,633,429,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 years,Project Manager,9/4/2023,Not Approved
+624,53,884,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Team Lead,6/16/2023,Approved
+625,678,472,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 years,Subject Matter Expert (SME),4/3/2024,Not Approved
+626,243,586,Presenting Skills Workshop Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,2 months,Business Analyst,7/27/2023,Not Approved
+627,45,88,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Quality Assurance (QA) Engineer,9/19/2023,Not Approved
+628,345,486,Snowflake Data Warehouse Migration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,6 months,Developer/Programmer,12/28/2023,Not Approved
+629,817,462,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,6 months,Project Manager,5/10/2023,Approved
+630,673,345,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Project Manager,11/19/2023,Approved
+631,684,832,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 years,Developer/Programmer,3/1/2024,Not Approved
+632,432,574,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,10 months,Team Lead,2/20/2024,pending
+633,370,774,Python Data Analysis Automation,Develop a scalable and responsive web application using React for improved user experience.,7 years,Team Lead,9/20/2023,Approved
+634,753,807,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Developer/Programmer,3/2/2024,Not Approved
+635,960,217,PHP Forum Integration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Business Analyst,10/14/2023,Approved
+636,671,30,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Designer,3/21/2024,Not Approved
+637,285,770,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Business Analyst,8/31/2023,Approved
+638,207,252,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 months,Subject Matter Expert (SME),8/19/2023,Not Approved
+639,637,351,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Project Manager,11/26/2023,Approved
+640,828,296,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Business Analyst,3/14/2024,pending
+641,634,958,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Quality Assurance (QA) Engineer,1/14/2024,Approved
+642,979,824,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Business Analyst,1/17/2024,Not Approved
+643,317,463,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Project Manager,9/23/2023,Approved
+644,901,175,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Developer/Programmer,3/7/2024,Approved
+645,186,768,Project Management Tool Implementation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Team Lead,11/3/2023,Approved
+646,356,71,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,4 months,Quality Assurance (QA) Engineer,2/3/2024,Approved
+647,252,755,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 years,Quality Assurance (QA) Engineer,12/12/2023,Approved
+648,399,363,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 years,Team Lead,7/13/2023,Approved
+649,364,631,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Designer,1/22/2024,pending
+650,270,971,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,4 months,Project Manager,11/1/2023,Approved
+651,573,249,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,4 years,Project Manager,11/17/2023,pending
+652,72,906,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Designer,12/21/2023,Not Approved
+653,261,986,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Subject Matter Expert (SME),12/14/2023,Not Approved
+654,703,402,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 years,Subject Matter Expert (SME),12/30/2023,Not Approved
+655,961,739,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Team Lead,4/28/2023,Not Approved
+656,606,945,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 months,Subject Matter Expert (SME),7/6/2023,pending
+657,160,145,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Designer,5/16/2023,pending
+658,105,934,Python Data Analysis Automation,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Business Analyst,9/19/2023,Approved
+659,825,77,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Team Lead,1/28/2024,Not Approved
+660,636,391,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,6 months,Developer/Programmer,11/1/2023,Approved
+661,735,996,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,8 months,Team Lead,11/13/2023,Approved
+662,33,483,Power BI Dashboard Enhancement,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 months,Subject Matter Expert (SME),12/17/2023,Not Approved
+663,878,199,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,7 years,Subject Matter Expert (SME),1/11/2024,pending
+664,168,869,Project Management Tool Implementation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,9 months,Designer,12/17/2023,pending
+665,366,1000,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Business Analyst,9/5/2023,Approved
+666,20,407,Snowflake Data Warehouse Migration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Quality Assurance (QA) Engineer,3/27/2024,Not Approved
+667,369,14,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,8 months,Developer/Programmer,5/9/2023,Approved
+668,878,708,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,1 month,Business Analyst,3/4/2024,pending
+669,286,257,Python Data Analysis Automation,Redesign presentation slides template to modernize branding and improve visual appeal.,7 years,Developer/Programmer,7/2/2023,Approved
+670,974,333,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 month,Developer/Programmer,10/25/2023,pending
+671,301,985,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Developer/Programmer,10/7/2023,Approved
+672,50,731,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 years,Team Lead,8/16/2023,Not Approved
+673,973,696,Snowflake Data Warehouse Migration,Develop a scalable and responsive web application using React for improved user experience.,7 months,Quality Assurance (QA) Engineer,10/27/2023,pending
+674,640,337,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Developer/Programmer,10/7/2023,Not Approved
+675,556,287,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 years,Business Analyst,1/4/2024,Approved
+676,235,814,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Team Lead,9/11/2023,Approved
+677,661,254,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 month,Quality Assurance (QA) Engineer,4/15/2023,Approved
+678,350,998,Slides Template Redesign,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Developer/Programmer,1/12/2024,pending
+679,953,385,PHP Forum Integration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,9 months,Developer/Programmer,1/23/2024,Not Approved
+680,15,554,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 month,Developer/Programmer,7/18/2023,Approved
+681,125,814,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 years,Subject Matter Expert (SME),5/13/2023,pending
+682,889,418,Project Management Tool Implementation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Team Lead,1/8/2024,Approved
+683,529,11,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,5 years,Designer,12/28/2023,Approved
+684,869,752,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 years,Business Analyst,5/22/2023,Not Approved
+685,331,331,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,5 months,Designer,2/8/2024,pending
+686,273,10,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 years,Designer,4/10/2023,pending
+687,353,243,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 months,Developer/Programmer,10/1/2023,Not Approved
+688,959,761,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,2 months,Designer,6/1/2023,Approved
+689,838,822,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,8 months,Subject Matter Expert (SME),6/27/2023,pending
+690,21,210,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Quality Assurance (QA) Engineer,7/26/2023,Approved
+691,682,352,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Designer,9/19/2023,Approved
+692,619,501,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,5 months,Project Manager,11/6/2023,pending
+693,252,925,Power BI Dashboard Enhancement,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Business Analyst,6/14/2023,Approved
+694,711,651,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 years,Project Manager,2/19/2024,pending
+695,704,666,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,8 months,Quality Assurance (QA) Engineer,1/3/2024,pending
+696,160,839,Snowflake Data Warehouse Migration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Project Manager,11/15/2023,Approved
+697,844,35,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,1 month,Quality Assurance (QA) Engineer,7/20/2023,pending
+698,400,401,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,8 months,Team Lead,10/14/2023,Not Approved
+699,446,697,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Designer,12/9/2023,pending
+700,703,710,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,7 years,Developer/Programmer,2/17/2024,Not Approved
+701,230,633,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Developer/Programmer,8/29/2023,Approved
+702,338,488,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Designer,4/14/2023,Not Approved
+703,715,474,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,4 months,Subject Matter Expert (SME),12/1/2023,Approved
+704,952,68,Presenting Skills Workshop Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Designer,5/14/2023,Approved
+705,893,881,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Business Analyst,12/17/2023,pending
+706,250,400,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,10 months,Quality Assurance (QA) Engineer,8/9/2023,Not Approved
+707,294,866,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Quality Assurance (QA) Engineer,5/11/2023,pending
+708,406,621,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,2 years,Project Manager,12/12/2023,pending
+709,528,240,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Project Manager,6/18/2023,Approved
+710,995,10,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 years,Project Manager,5/26/2023,Not Approved
+711,609,262,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Designer,7/27/2023,pending
+712,581,532,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 years,Business Analyst,7/18/2023,Not Approved
+713,943,551,Python Data Analysis Automation,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Subject Matter Expert (SME),1/28/2024,Not Approved
+714,299,533,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,7 months,Quality Assurance (QA) Engineer,9/2/2023,Approved
+715,168,541,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,8 months,Team Lead,5/10/2023,pending
+716,510,26,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Designer,8/18/2023,Approved
+717,328,186,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 years,Designer,7/30/2023,pending
+718,720,63,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 months,Designer,8/27/2023,Not Approved
+719,275,531,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Developer/Programmer,6/13/2023,pending
+720,69,297,SQL Database Optimization Project,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Project Manager,1/9/2024,Not Approved
+721,610,557,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,2 months,Quality Assurance (QA) Engineer,6/29/2023,Approved
+722,167,151,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,9 months,Developer/Programmer,10/27/2023,Not Approved
+723,180,751,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 month,Project Manager,3/19/2024,Not Approved
+724,211,31,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Quality Assurance (QA) Engineer,4/13/2023,Approved
+725,134,770,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 months,Developer/Programmer,6/6/2023,Approved
+726,238,250,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 years,Designer,1/28/2024,Not Approved
+727,423,777,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Developer/Programmer,5/10/2023,pending
+728,384,678,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Subject Matter Expert (SME),9/18/2023,pending
+729,555,27,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,5 months,Designer,7/15/2023,pending
+730,951,45,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Designer,7/28/2023,Not Approved
+731,258,745,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Business Analyst,9/15/2023,Not Approved
+732,182,320,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,10 years,Subject Matter Expert (SME),7/5/2023,pending
+733,650,386,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 months,Designer,3/16/2024,pending
+734,834,373,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Designer,12/19/2023,Approved
+735,859,635,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Subject Matter Expert (SME),1/8/2024,pending
+736,276,659,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 years,Quality Assurance (QA) Engineer,9/26/2023,pending
+737,371,663,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Subject Matter Expert (SME),12/11/2023,pending
+738,154,831,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Business Analyst,7/26/2023,Not Approved
+739,135,862,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Project Manager,9/30/2023,pending
+740,722,147,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Developer/Programmer,5/23/2023,Not Approved
+741,207,556,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Team Lead,2/29/2024,Approved
+742,440,876,Slides Template Redesign,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Quality Assurance (QA) Engineer,2/18/2024,Approved
+743,917,850,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,8 months,Business Analyst,4/6/2024,Approved
+744,715,120,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,6 months,Project Manager,1/28/2024,Not Approved
+745,865,238,Power BI Dashboard Enhancement,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,5 months,Subject Matter Expert (SME),1/8/2024,Approved
+746,545,580,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Developer/Programmer,3/3/2024,Not Approved
+747,289,65,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,9 months,Designer,7/23/2023,Not Approved
+748,988,331,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Developer/Programmer,2/24/2024,Approved
+749,354,369,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Project Manager,12/25/2023,Not Approved
+750,470,808,Python Data Analysis Automation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 months,Team Lead,5/31/2023,pending
+751,997,282,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,3 months,Designer,10/29/2023,Approved
+752,730,783,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 years,Subject Matter Expert (SME),3/18/2024,Approved
+753,838,464,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Team Lead,3/13/2024,Approved
+754,30,605,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Quality Assurance (QA) Engineer,2/23/2024,Not Approved
+755,570,802,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Quality Assurance (QA) Engineer,12/11/2023,pending
+756,823,99,Power BI Dashboard Enhancement,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 months,Project Manager,8/19/2023,Approved
+757,377,542,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 months,Project Manager,11/27/2023,Not Approved
+758,706,107,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Business Analyst,7/11/2023,pending
+759,377,636,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 month,Team Lead,10/26/2023,Not Approved
+760,41,625,Presenting Skills Workshop Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,8 months,Team Lead,3/5/2024,Not Approved
+761,68,708,Python Data Analysis Automation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 years,Subject Matter Expert (SME),3/10/2024,Not Approved
+762,480,175,Project Management Tool Implementation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Designer,11/4/2023,Approved
+763,616,669,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,4 months,Team Lead,8/11/2023,pending
+764,603,977,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 months,Designer,5/14/2023,pending
+765,8,185,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 years,Team Lead,7/13/2023,Approved
+766,40,933,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Quality Assurance (QA) Engineer,6/23/2023,pending
+767,232,801,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 years,Project Manager,12/13/2023,Not Approved
+768,800,917,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 months,Project Manager,3/27/2024,Approved
+769,357,891,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Subject Matter Expert (SME),1/6/2024,pending
+770,246,23,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,1 month,Project Manager,2/11/2024,pending
+771,739,553,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Project Manager,8/1/2023,Approved
+772,222,610,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 month,Quality Assurance (QA) Engineer,2/22/2024,Not Approved
+773,669,458,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 months,Project Manager,3/27/2024,Not Approved
+774,325,120,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 years,Project Manager,3/25/2024,Approved
+775,759,612,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Designer,12/9/2023,Not Approved
+776,196,713,Slides Template Redesign,Enhance existing Power BI dashboards with advanced visualizations and data insights.,8 months,Developer/Programmer,5/17/2023,pending
+777,845,553,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,9 months,Subject Matter Expert (SME),6/28/2023,Approved
+778,981,422,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,10 months,Quality Assurance (QA) Engineer,3/7/2024,Approved
+779,879,260,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,4 years,Business Analyst,8/6/2023,pending
+780,170,838,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,7 months,Subject Matter Expert (SME),10/14/2023,Approved
+781,935,8,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 months,Team Lead,3/17/2024,Approved
+782,196,118,Project Management Tool Implementation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 years,Business Analyst,7/12/2023,pending
+783,497,303,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Quality Assurance (QA) Engineer,11/18/2023,pending
+784,255,616,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Designer,3/29/2024,Not Approved
+785,992,194,Project Management Tool Implementation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,7 years,Designer,2/22/2024,pending
+786,135,460,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 months,Business Analyst,3/11/2024,pending
+787,557,923,PHP Forum Integration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 months,Project Manager,7/12/2023,pending
+788,247,312,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,5 months,Project Manager,9/7/2023,Approved
+789,123,416,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,10 months,Quality Assurance (QA) Engineer,6/18/2023,pending
+790,850,420,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 years,Developer/Programmer,8/14/2023,Not Approved
+791,841,626,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Designer,11/21/2023,Not Approved
+792,794,289,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,9 months,Developer/Programmer,2/27/2024,pending
+793,889,644,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,7 years,Subject Matter Expert (SME),5/9/2023,Approved
+794,676,281,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,2 months,Team Lead,3/17/2024,Not Approved
+795,290,931,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,5 years,Developer/Programmer,1/15/2024,Approved
+796,450,614,Power BI Dashboard Enhancement,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Developer/Programmer,10/9/2023,Not Approved
+797,190,131,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Team Lead,2/8/2024,pending
+798,541,552,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Designer,10/29/2023,pending
+799,674,283,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 months,Subject Matter Expert (SME),1/27/2024,Not Approved
+800,916,439,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 months,Team Lead,3/1/2024,pending
+801,354,136,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,2 years,Business Analyst,12/18/2023,Approved
+802,682,750,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Designer,5/8/2023,pending
+803,543,459,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 years,Quality Assurance (QA) Engineer,5/7/2023,pending
+804,135,485,React Web Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 years,Team Lead,8/8/2023,Approved
+805,926,486,Slides Template Redesign,Develop a scalable and responsive web application using React for improved user experience.,5 years,Business Analyst,6/14/2023,Approved
+806,751,230,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Business Analyst,4/4/2024,Not Approved
+807,437,820,SQL Database Optimization Project,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Team Lead,1/12/2024,Not Approved
+808,491,813,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Developer/Programmer,10/4/2023,Not Approved
+809,695,830,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 months,Developer/Programmer,6/7/2023,Approved
+810,14,347,Power BI Dashboard Enhancement,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Business Analyst,2/4/2024,pending
+811,139,221,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 years,Developer/Programmer,2/12/2024,Approved
+812,457,170,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 month,Designer,10/13/2023,Approved
+813,840,851,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,8 months,Designer,9/30/2023,pending
+814,481,955,Snowflake Data Warehouse Migration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Quality Assurance (QA) Engineer,12/11/2023,Approved
+815,905,167,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Business Analyst,1/22/2024,pending
+816,280,922,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 month,Project Manager,9/9/2023,Approved
+817,819,489,Python Data Analysis Automation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Designer,6/2/2023,Approved
+818,235,673,Java Enterprise Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 years,Designer,1/16/2024,Not Approved
+819,287,478,SQL Database Optimization Project,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 years,Subject Matter Expert (SME),3/23/2024,Not Approved
+820,29,846,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Designer,4/10/2023,Approved
+821,687,111,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Business Analyst,12/9/2023,Approved
+822,816,866,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 months,Quality Assurance (QA) Engineer,7/10/2023,Not Approved
+823,896,97,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 years,Business Analyst,10/7/2023,Not Approved
+824,728,298,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Team Lead,10/27/2023,pending
+825,247,577,Java Enterprise Application Development,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Subject Matter Expert (SME),11/1/2023,pending
+826,279,544,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Developer/Programmer,7/1/2023,pending
+827,129,387,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,4 months,Developer/Programmer,3/30/2024,Approved
+828,664,914,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Subject Matter Expert (SME),9/29/2023,Not Approved
+829,341,35,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Subject Matter Expert (SME),4/20/2023,pending
+830,580,185,Slides Template Redesign,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,10 years,Project Manager,6/24/2023,pending
+831,281,626,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Designer,1/22/2024,Approved
+832,453,786,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Project Manager,5/4/2023,Not Approved
+833,261,360,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Subject Matter Expert (SME),10/28/2023,Not Approved
+834,508,225,Project Management Tool Implementation,Develop a scalable and responsive web application using React for improved user experience.,2 years,Team Lead,5/29/2023,pending
+835,802,230,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Business Analyst,3/13/2024,Approved
+836,575,377,React Web Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Team Lead,3/5/2024,pending
+837,265,501,React Web Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,2 months,Business Analyst,12/16/2023,Approved
+838,196,209,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,6 months,Business Analyst,9/9/2023,Approved
+839,52,916,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 month,Quality Assurance (QA) Engineer,3/9/2024,Approved
+840,466,916,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 months,Business Analyst,5/15/2023,Not Approved
+841,754,625,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Business Analyst,10/17/2023,pending
+842,390,472,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Project Manager,6/9/2023,Approved
+843,719,542,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Team Lead,3/4/2024,Not Approved
+844,792,581,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,1 years,Team Lead,3/13/2024,Not Approved
+845,10,400,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,8 months,Business Analyst,6/19/2023,Approved
+846,984,101,PHP Forum Integration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,6 months,Developer/Programmer,1/27/2024,Not Approved
+847,196,770,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,1 month,Designer,5/24/2023,Approved
+848,328,931,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,3 months,Business Analyst,2/13/2024,pending
+849,835,672,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 months,Business Analyst,4/25/2023,pending
+850,405,638,Project Management Tool Implementation,Redesign presentation slides template to modernize branding and improve visual appeal.,10 years,Quality Assurance (QA) Engineer,5/8/2023,Approved
+851,865,760,Slides Template Redesign,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 years,Quality Assurance (QA) Engineer,2/29/2024,Approved
+852,612,544,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Designer,1/19/2024,Not Approved
+853,928,427,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 months,Designer,3/19/2024,pending
+854,562,633,SQL Database Optimization Project,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Team Lead,3/24/2024,pending
+855,783,475,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,8 months,Project Manager,4/20/2023,pending
+856,979,55,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Designer,6/10/2023,Approved
+857,71,399,Presenting Skills Workshop Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,8 months,Project Manager,9/26/2023,Not Approved
+858,98,213,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,10 months,Quality Assurance (QA) Engineer,3/4/2024,Approved
+859,266,263,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 months,Designer,2/29/2024,Not Approved
+860,428,980,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Quality Assurance (QA) Engineer,7/23/2023,pending
+861,130,691,Power BI Dashboard Enhancement,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 years,Project Manager,8/12/2023,pending
+862,960,719,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 month,Project Manager,7/26/2023,Approved
+863,356,201,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Project Manager,10/13/2023,Approved
+864,912,91,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,8 months,Team Lead,12/12/2023,pending
+865,636,983,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 years,Team Lead,4/2/2024,pending
+866,59,968,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,9 months,Quality Assurance (QA) Engineer,4/10/2023,Not Approved
+867,413,71,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 years,Designer,3/10/2024,Approved
+868,414,977,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,6 months,Quality Assurance (QA) Engineer,8/21/2023,pending
+869,554,201,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,5 months,Subject Matter Expert (SME),6/23/2023,pending
+870,484,8,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,5 months,Quality Assurance (QA) Engineer,9/10/2023,Approved
+871,747,129,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 months,Subject Matter Expert (SME),8/1/2023,Approved
+872,394,467,Python Data Analysis Automation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 month,Project Manager,7/16/2023,Not Approved
+873,213,736,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,8 months,Team Lead,10/8/2023,Not Approved
+874,200,970,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Business Analyst,6/8/2023,Not Approved
+875,279,282,Project Management Tool Implementation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 years,Designer,1/10/2024,Approved
+876,809,170,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Designer,12/20/2023,Not Approved
+877,356,337,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Team Lead,11/3/2023,Approved
+878,419,589,Python Data Analysis Automation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,8 months,Developer/Programmer,5/8/2023,pending
+879,573,859,Java Enterprise Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 years,Team Lead,2/1/2024,Approved
+880,232,725,Snowflake Data Warehouse Migration,Redesign presentation slides template to modernize branding and improve visual appeal.,5 months,Developer/Programmer,8/9/2023,Not Approved
+881,844,165,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 months,Business Analyst,12/19/2023,Approved
+882,766,544,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 months,Designer,12/2/2023,Approved
+883,256,484,Project Management Tool Implementation,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Subject Matter Expert (SME),4/12/2023,Approved
+884,179,300,React Web Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Subject Matter Expert (SME),3/10/2024,Not Approved
+885,392,190,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Team Lead,1/13/2024,Not Approved
+886,521,446,Java Enterprise Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,1 years,Subject Matter Expert (SME),12/13/2023,Approved
+887,237,178,Project Management Tool Implementation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,5 years,Business Analyst,10/2/2023,Not Approved
+888,779,467,SQL Database Optimization Project,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Business Analyst,7/24/2023,pending
+889,708,632,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Developer/Programmer,6/25/2023,Not Approved
+890,149,617,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,10 months,Quality Assurance (QA) Engineer,5/2/2023,Not Approved
+891,706,215,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,9 months,Team Lead,12/15/2023,pending
+892,486,502,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,5 years,Developer/Programmer,4/14/2023,Approved
+893,859,713,Project Management Tool Implementation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Team Lead,6/6/2023,Not Approved
+894,816,761,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Business Analyst,6/25/2023,pending
+895,183,530,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Developer/Programmer,11/11/2023,Approved
+896,826,193,SQL Database Optimization Project,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,6 months,Team Lead,5/16/2023,Not Approved
+897,317,321,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Project Manager,11/10/2023,Not Approved
+898,495,67,Snowflake Data Warehouse Migration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 years,Subject Matter Expert (SME),2/14/2024,Not Approved
+899,936,681,React Web Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 years,Quality Assurance (QA) Engineer,4/5/2024,Not Approved
+900,549,174,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,4 months,Developer/Programmer,3/6/2024,pending
+901,424,592,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Project Manager,11/25/2023,Not Approved
+902,428,492,Presenting Skills Workshop Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 months,Project Manager,11/25/2023,pending
+903,58,456,Python Data Analysis Automation,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,1 years,Team Lead,11/19/2023,Not Approved
+904,597,760,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,2 months,Quality Assurance (QA) Engineer,4/25/2023,Not Approved
+905,47,14,Slides Template Redesign,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,3 months,Team Lead,12/27/2023,Not Approved
+906,502,925,Project Management Tool Implementation,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 months,Business Analyst,2/7/2024,pending
+907,962,534,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,4 months,Team Lead,8/5/2023,Not Approved
+908,554,715,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,4 years,Business Analyst,4/16/2023,Approved
+909,755,827,Power BI Dashboard Enhancement,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,3 months,Designer,8/25/2023,Approved
+910,620,75,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,1 month,Team Lead,9/9/2023,pending
+911,778,227,Snowflake Data Warehouse Migration,Enhance existing Power BI dashboards with advanced visualizations and data insights.,10 months,Designer,5/13/2023,pending
+912,810,997,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Business Analyst,1/27/2024,Approved
+913,63,198,Presenting Skills Workshop Development,Redesign presentation slides template to modernize branding and improve visual appeal.,2 years,Developer/Programmer,1/6/2024,Not Approved
+914,849,45,PHP Forum Integration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,7 years,Project Manager,1/10/2024,Not Approved
+915,759,597,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,3 months,Quality Assurance (QA) Engineer,1/13/2024,Approved
+916,464,435,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,7 months,Quality Assurance (QA) Engineer,9/1/2023,Not Approved
+917,264,876,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,6 months,Subject Matter Expert (SME),12/17/2023,Approved
+918,149,703,Slides Template Redesign,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 years,Team Lead,5/8/2023,pending
+919,450,435,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,5 years,Project Manager,3/13/2024,Not Approved
+920,758,639,PHP Forum Integration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 years,Subject Matter Expert (SME),5/1/2023,Approved
+921,17,13,Presenting Skills Workshop Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,3 months,Team Lead,6/9/2023,Not Approved
+922,373,956,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,4 years,Quality Assurance (QA) Engineer,8/27/2023,Not Approved
+923,490,179,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,4 years,Team Lead,11/1/2023,Not Approved
+924,724,774,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Subject Matter Expert (SME),6/11/2023,Not Approved
+925,157,584,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,10 years,Subject Matter Expert (SME),1/7/2024,Not Approved
+926,720,647,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,7 months,Team Lead,6/19/2023,pending
+927,309,850,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Business Analyst,5/19/2023,Approved
+928,192,517,React Web Application Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,4 months,Project Manager,6/17/2023,Not Approved
+929,70,233,SQL Database Optimization Project,Enhance existing Power BI dashboards with advanced visualizations and data insights.,5 years,Designer,4/5/2024,Not Approved
+930,848,799,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 months,Team Lead,3/30/2024,Approved
+931,616,564,Project Management Tool Implementation,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,1 years,Project Manager,9/9/2023,Approved
+932,729,277,Slides Template Redesign,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,6 months,Designer,6/15/2023,pending
+933,291,625,Java Enterprise Application Development,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 years,Quality Assurance (QA) Engineer,5/6/2023,pending
+934,874,472,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,4 years,Designer,6/11/2023,pending
+935,80,471,Snowflake Data Warehouse Migration,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,2 months,Developer/Programmer,11/19/2023,pending
+936,534,15,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 month,Subject Matter Expert (SME),8/12/2023,Approved
+937,471,516,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,8 months,Team Lead,6/27/2023,pending
+938,902,373,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Project Manager,1/14/2024,Not Approved
+939,490,116,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,5 years,Subject Matter Expert (SME),6/8/2023,Approved
+940,271,964,Python Data Analysis Automation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Designer,7/6/2023,pending
+941,280,169,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,7 months,Subject Matter Expert (SME),5/29/2023,Approved
+942,167,854,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,2 years,Developer/Programmer,12/14/2023,Approved
+943,49,364,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,8 months,Subject Matter Expert (SME),7/11/2023,Not Approved
+944,867,378,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Quality Assurance (QA) Engineer,3/4/2024,Approved
+945,284,678,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,2 months,Subject Matter Expert (SME),2/15/2024,Not Approved
+946,490,246,Power BI Dashboard Enhancement,Redesign presentation slides template to modernize branding and improve visual appeal.,4 months,Team Lead,10/13/2023,Approved
+947,924,456,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 years,Business Analyst,7/9/2023,pending
+948,979,351,Slides Template Redesign,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 years,Project Manager,6/4/2023,Approved
+949,127,841,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,7 years,Subject Matter Expert (SME),5/13/2023,Approved
+950,300,910,Python Data Analysis Automation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Team Lead,8/10/2023,Approved
+951,674,83,SQL Database Optimization Project,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Business Analyst,12/2/2023,Approved
+952,898,782,SQL Database Optimization Project,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Business Analyst,4/7/2024,Approved
+953,364,797,Presenting Skills Workshop Development,Optimize SQL database performance through query optimization and indexing and database tuning techniques.,10 months,Quality Assurance (QA) Engineer,8/10/2023,Not Approved
+954,523,815,Project Management Tool Implementation,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Developer/Programmer,2/27/2024,pending
+955,599,438,Snowflake Data Warehouse Migration,Develop a scalable and responsive web application using React for improved user experience.,9 months,Designer,4/9/2023,Not Approved
+956,665,36,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,6 months,Subject Matter Expert (SME),8/23/2023,Not Approved
+957,550,678,PHP Forum Integration,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,2 years,Subject Matter Expert (SME),6/16/2023,pending
+958,182,451,Project Management Tool Implementation,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Designer,9/23/2023,pending
+959,372,82,React Web Application Development,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,7 months,Designer,7/26/2023,Not Approved
+960,382,378,Slides Template Redesign,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,5 years,Developer/Programmer,7/8/2023,Approved
+961,993,430,SQL Database Optimization Project,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,10 years,Quality Assurance (QA) Engineer,10/26/2023,Approved
+962,561,741,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Subject Matter Expert (SME),3/7/2024,pending
+963,62,226,Java Enterprise Application Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,9 months,Designer,7/7/2023,Not Approved
+964,618,534,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,4 years,Quality Assurance (QA) Engineer,10/3/2023,Approved
+965,433,750,React Web Application Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,4 years,Developer/Programmer,12/8/2023,pending
+966,606,271,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Subject Matter Expert (SME),6/26/2023,Not Approved
+967,787,695,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,7 years,Quality Assurance (QA) Engineer,9/15/2023,Approved
+968,754,665,Project Management Tool Implementation,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,2 years,Project Manager,8/23/2023,pending
+969,324,865,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,10 years,Quality Assurance (QA) Engineer,6/19/2023,Not Approved
+970,643,839,Java Enterprise Application Development,Develop a scalable and responsive web application using React for improved user experience.,3 months,Developer/Programmer,6/5/2023,Approved
+971,436,159,Snowflake Data Warehouse Migration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,1 month,Business Analyst,9/18/2023,pending
+972,970,357,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,7 months,Designer,5/30/2023,pending
+973,453,316,React Web Application Development,Develop a scalable and responsive web application using React for improved user experience.,10 months,Team Lead,2/14/2024,pending
+974,626,292,Power BI Dashboard Enhancement,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,9 months,Subject Matter Expert (SME),11/1/2023,Approved
+975,159,944,Power BI Dashboard Enhancement,Enhance existing Power BI dashboards with advanced visualizations and data insights.,1 years,Developer/Programmer,5/28/2023,pending
+976,391,751,SQL Database Optimization Project,Develop a scalable and responsive web application using React for improved user experience.,1 month,Team Lead,6/24/2023,pending
+977,917,464,Power BI Dashboard Enhancement,Develop a scalable and responsive web application using React for improved user experience.,5 months,Project Manager,10/9/2023,Not Approved
+978,868,144,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,10 months,Business Analyst,12/26/2023,Not Approved
+979,893,263,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,8 months,Business Analyst,2/23/2024,Approved
+980,757,915,Java Enterprise Application Development,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,1 month,Project Manager,2/28/2024,Approved
+981,148,684,Presenting Skills Workshop Development,Develop a scalable and responsive web application using React for improved user experience.,8 months,Subject Matter Expert (SME),2/19/2024,Approved
+982,41,353,Slides Template Redesign,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,3 months,Team Lead,4/5/2024,Not Approved
+983,163,468,Snowflake Data Warehouse Migration,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,10 years,Subject Matter Expert (SME),12/2/2023,pending
+984,491,263,Presenting Skills Workshop Development,Migrate data warehouse to Snowflake platform for improved scalability and performance and cost-effectiveness.,3 months,Designer,4/1/2024,pending
+985,288,305,SQL Database Optimization Project,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,9 months,Quality Assurance (QA) Engineer,4/18/2023,Approved
+986,664,410,Snowflake Data Warehouse Migration,Integrate PHP-based forum software into existing web platform for enhanced community engagement.,1 month,Team Lead,6/12/2023,pending
+987,974,58,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,8 months,Developer/Programmer,8/26/2023,Approved
+988,60,567,PHP Forum Integration,Redesign presentation slides template to modernize branding and improve visual appeal.,3 months,Subject Matter Expert (SME),3/22/2024,Not Approved
+989,906,714,Slides Template Redesign,Redesign presentation slides template to modernize branding and improve visual appeal.,5 years,Quality Assurance (QA) Engineer,12/18/2023,Not Approved
+990,332,378,PHP Forum Integration,Implement a robust project management tool to streamline workflows and improve collaboration among teams.,9 months,Quality Assurance (QA) Engineer,6/6/2023,pending
+991,532,949,Presenting Skills Workshop Development,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,10 years,Subject Matter Expert (SME),6/2/2023,pending
+992,991,583,PHP Forum Integration,Develop enterprise-grade applications using Java to meet business requirements and ensure scalability.,1 month,Developer/Programmer,4/19/2023,pending
+993,829,467,PHP Forum Integration,Develop a scalable and responsive web application using React for improved user experience.,10 months,Quality Assurance (QA) Engineer,1/10/2024,Not Approved
+994,431,231,Power BI Dashboard Enhancement,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,2 months,Business Analyst,7/26/2023,pending
+995,546,712,PHP Forum Integration,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,9 months,Business Analyst,11/16/2023,Approved
+996,886,403,React Web Application Development,Redesign presentation slides template to modernize branding and improve visual appeal.,4 months,Business Analyst,6/23/2023,pending
+997,47,844,SQL Database Optimization Project,Automate data analysis processes using Python scripts and optimizing efficiency and accuracy.,8 months,Subject Matter Expert (SME),10/13/2023,pending
+998,690,810,Java Enterprise Application Development,Enhance existing Power BI dashboards with advanced visualizations and data insights.,4 months,Subject Matter Expert (SME),6/11/2023,Not Approved
+999,146,764,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 years,Developer/Programmer,12/1/2023,Not Approved
+1000,59,776,Python Data Analysis Automation,Develop an interactive workshop to improve presenting skills using modern techniques and tools.,4 years,Business Analyst,1/13/2024,pending

@@ -1,0 +1,1001 @@
+id,user_id,skill_id,certificationName,certificationFile,create_at,issued_date,expiry_date,status
+1,452,949,SQL Developer Certification,microsoftdataanalystassociate.net,2024-03-13,2020-06-04,9/28/2020,pending
+2,748,49,Python Institute Certifications,toastmastersinternationalcertifications.com,2023-07-11,2018-12-27,5/1/2019,pending
+3,816,52,Graphic Design Certifications,graphicdesigncertifications.net,2023-09-20,2013-04-04,12/2/2013,Approved
+4,721,255,SQL Developer Certification,oraclejavaprofessional.com,2023-06-08,2012-08-04,11/22/2012,pending
+5,431,189,React Certification,reactdevelopernanodegree.com,2023-05-23,2011-08-29,3/14/2012,pending
+6,343,143,Java SE Programmer,pmpprofessionalcertification.net,2023-06-25,2016-02-20,6/29/2016,Not Approved
+7,176,169,Zend Certified PHP Engineer,toastmastersinternationalcertifications.com,2023-04-30,2012-05-12,8/24/2012,Not Approved
+8,613,745,Project Management Professional (PMP) Certification,toastmastersinternationalcertifications.com,2023-04-13,2013-11-26,2/23/2014,Not Approved
+9,940,726,React Certification,presentationdesigncertification.org,2024-03-20,2016-01-25,9/12/2016,Not Approved
+10,281,870,Toastmasters International Certifications Professional Presentation Skills,certifiedpythondeveloper.org,2024-02-17,2020-01-06,10/7/2020,pending
+11,735,49,Microsoft Certified: Data Analyst Associate,pythoninstitutecertifications.com,2023-09-08,2021-06-20,10/29/2021,Not Approved
+12,114,508,Oracle Certified Professional,reactdevelopernanodegree.com,2023-08-26,2023-05-07,12/6/2023,Not Approved
+13,118,207,React Certification,certifiedpythondeveloper.org,2023-06-26,2016-06-19,6/11/2017,Approved
+14,218,167,Azure Data Engineer Associate,pmpprofessionalcertification.net,2023-09-20,2012-08-12,12/28/2012,pending
+15,743,225,Azure Data Engineer Associate,microsoftdataanalystassociate.net,2023-07-01,2013-01-22,1/4/2014,Approved
+16,591,166,Project Management Professional (PMP) Certification,certifiedscrummaster.org,2024-02-13,2022-10-01,8/10/2023,Approved
+17,201,81,Zend Certified PHP Engineer,phpcertification.net,2024-02-07,2010-09-24,3/2/2011,Not Approved
+18,397,397,Certified Python Developer,certifiedpythondeveloper.org,2024-03-24,2014-11-11,9/12/2015,pending
+19,934,749,Presentation Design Certification,pmpprofessionalcertification.net,2023-05-15,2023-06-15,2/7/2024,Approved
+20,746,784,Java Certification (offered by Oracle),oraclejavacertification.org,2023-08-31,2017-06-23,12/15/2017,Not Approved
+21,781,756,Certified Python Developer,powerbiexampractice.com,2023-11-16,2023-03-24,9/12/2023,Not Approved
+22,353,790,Certified Python Developer,pythoninstitutecertifications.com,2023-12-26,2022-08-12,10/9/2022,Approved
+23,278,208,PHP Certification,reactcertification.org,2024-01-10,2015-10-31,1/28/2016,Not Approved
+24,800,546,Python Institute Certifications,certifiedscrummaster.org,2024-02-25,2016-12-26,3/24/2017,Not Approved
+25,528,142,Graphic Design Certifications,pmpprofessionalcertification.net,2023-05-12,2024-03-15,3/20/2024,Approved
+26,444,937,Project Management Professional (PMP) Certification,snowflakecertifiedsnowpro.com,2023-06-15,2017-09-27,1/7/2018,pending
+27,761,488,Oracle Certified Professional,oraclejavacertification.org,2024-03-11,2011-12-18,3/7/2012,pending
+28,82,811,React Certification,snowflakecertifiedsnowpro.com,2023-09-23,2023-04-29,12/26/2023,Not Approved
+29,272,999,Certified ScrumMaster (CSM),reactcertification.org,2023-08-31,2020-08-12,10/26/2020,pending
+30,806,946,SnowPro Core Certification,presentationdesigncertification.org,2024-03-02,2022-10-08,9/4/2023,pending
+31,617,938,SQL Developer Certification,pmpprofessionalcertification.net,2023-06-20,2017-09-22,12/12/2017,Not Approved
+32,364,78,Certified Python Developer,certifiedscrummaster.org,2023-10-12,2011-02-24,4/3/2011,Approved
+33,419,302,Azure Data Engineer Associate,oraclejavaprofessional.com,2024-03-28,2014-12-26,11/22/2015,Not Approved
+34,535,583,Java Certification (offered by Oracle),reactcertification.org,2023-07-02,2011-06-04,10/19/2011,pending
+35,367,824,Snowflake Certified SnowPro,graphicdesigncertifications.net,2024-01-17,2022-07-17,8/17/2022,Not Approved
+36,475,882,Oracle Certified Professional,zendphpecertifiedengineer.org,2023-05-07,2011-10-12,7/26/2012,Not Approved
+37,831,304,Azure Data Engineer Associate,snowprocorecertification.net,2024-03-25,2015-04-23,7/11/2015,Approved
+38,797,155,Toastmasters International Certifications Professional Presentation Skills,presentationdesigncertification.org,2024-02-28,2010-10-12,7/8/2011,Approved
+39,815,376,Presentation Design Certification,zendphpecertifiedengineer.org,2023-05-18,2022-11-09,7/29/2023,Not Approved
+40,916,995,PHP Certification,oraclejavaprofessional.com,2023-08-24,2022-11-19,7/11/2023,Approved
+41,190,533,Java SE Programmer,phpcertification.net,2024-01-14,2010-11-22,1/17/2011,Approved
+42,706,244,Project Management Professional (PMP) Certification,pmpprofessionalcertification.net,2023-07-11,2015-02-10,10/13/2015,pending
+43,515,915,Graphic Design Certifications,certifiedpythondeveloper.org,2023-05-31,2018-07-22,9/24/2018,Approved
+44,213,561,Python Institute Certifications,professionalpresentationskills.org,2023-09-01,2023-06-03,3/10/2024,Approved
+45,344,381,Java Certification (offered by Oracle),pythoninstitutecertifications.com,2024-01-26,2012-10-24,4/27/2013,Approved
+46,326,853,Zend Certified PHP Engineer,reactcertification.org,2023-08-25,2022-10-07,8/25/2023,Not Approved
+47,562,47,React Certification,microsoftdataanalystassociate.net,2023-10-20,2022-06-19,6/12/2023,Approved
+48,182,198,Zend Certified PHP Engineer,pmpprofessionalcertification.net,2023-09-04,2023-03-28,1/14/2024,pending
+49,197,103,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2023-12-04,2017-08-03,5/25/2018,Approved
+50,11,310,Java Certification (offered by Oracle),powerbiexampractice.com,2024-02-02,2013-11-18,6/12/2014,Approved
+51,75,368,Graphic Design Certifications,presentationdesigncertification.org,2024-03-06,2013-06-25,11/11/2013,pending
+52,464,717,Azure Data Engineer Associate,oraclejavaprofessional.com,2023-05-06,2023-11-14,3/15/2024,Not Approved
+53,301,228,Certified Python Developer,sqldeveloper-certification.org,2024-01-09,2021-07-21,8/29/2021,Approved
+54,618,734,Analyzing and Visualizing Data with Microsoft Power BI,snowprocorecertification.net,2023-07-03,2024-01-23,4/13/2024,Not Approved
+55,679,745,Presentation Design Certification,professionalpresentationskills.org,2023-08-12,2011-03-08,1/30/2012,Not Approved
+56,355,450,Certified Python Developer,pmpprofessionalcertification.net,2023-06-13,2010-10-28,3/23/2011,Not Approved
+57,592,640,Toastmasters International Certifications Professional Presentation Skills,phpcertification.net,2024-02-21,2013-08-20,10/5/2013,pending
+58,513,163,Zend Certified PHP Engineer,certifiedscrummaster.org,2023-12-31,2012-05-03,1/24/2013,pending
+59,25,162,React Certification,reactcertification.org,2023-10-11,2022-02-20,7/17/2022,Not Approved
+60,593,237,Graphic Design Certifications,snowprocorecertification.net,2023-12-10,2018-01-02,7/4/2018,pending
+61,16,125,Microsoft Certified: Data Analyst Associate,certifiedpythondeveloper.org,2023-04-09,2011-06-09,12/5/2011,Approved
+62,138,545,Project Management Professional (PMP) Certification,pmpprofessionalcertification.net,2023-10-08,2013-07-27,5/19/2014,Not Approved
+63,581,272,Certified ScrumMaster (CSM),pmpprofessionalcertification.net,2024-02-10,2011-02-28,7/17/2011,pending
+64,963,339,Oracle Certified Professional,certifiedscrummaster.org,2024-03-07,2017-10-23,9/23/2018,Not Approved
+65,241,688,Snowflake Certified SnowPro,zendphpecertifiedengineer.org,2024-01-15,2018-01-19,12/9/2018,Approved
+66,838,412,Presentation Design Certification,presentationdesigncertification.org,2023-12-20,2012-03-20,9/14/2012,Not Approved
+67,479,576,Java Certification (offered by Oracle),powerbiexampractice.com,2023-05-31,2011-11-24,10/4/2012,pending
+68,701,134,Java Certification (offered by Oracle),pythoninstitutecertifications.com,2023-05-24,2011-08-14,2/26/2012,Not Approved
+69,802,758,Toastmasters International Certifications Professional Presentation Skills,oraclejavacertification.org,2023-07-30,2016-02-01,10/19/2016,Not Approved
+70,148,440,PHP Certification,oraclejavaprofessional.com,2024-03-08,2016-08-29,8/13/2017,Not Approved
+71,760,717,React Certification,pmpprofessionalcertification.net,2023-10-23,2015-06-06,4/21/2016,pending
+72,702,66,Presentation Design Certification,phpcertification.net,2023-06-24,2018-06-28,10/9/2018,Approved
+73,238,854,Oracle Certified Professional,oraclejavaprofessional.com,2023-07-23,2019-04-28,8/10/2019,Approved
+74,381,697,Microsoft Certified: Data Analyst Associate,snowflakecertifiedsnowpro.com,2023-09-19,2016-10-21,6/21/2017,Approved
+75,326,189,Azure Data Engineer Associate,reactcertification.org,2023-08-06,2011-10-20,7/17/2012,pending
+76,903,410,Graphic Design Certifications,pythoninstitutecertifications.com,2023-12-12,2010-12-18,4/21/2011,pending
+77,157,359,Graphic Design Certifications,professionalpresentationskills.org,2023-05-16,2013-02-23,8/20/2013,Approved
+78,475,648,SnowPro Core Certification,microsoftdataanalystassociate.net,2023-04-18,2016-08-24,7/10/2017,Approved
+79,768,286,Azure Data Engineer Associate,reactcertification.org,2023-05-13,2012-01-14,11/30/2012,pending
+80,744,148,Presentation Design Certification,reactcertification.org,2024-02-22,2023-01-21,5/28/2023,Not Approved
+81,849,944,Certified ScrumMaster (CSM),snowprocorecertification.net,2023-06-22,2018-08-06,7/14/2019,Approved
+82,905,698,Microsoft Certified: Data Analyst Associate,sqldeveloper-certification.org,2023-09-20,2012-12-19,9/20/2013,pending
+83,474,77,Java SE Programmer,presentationdesigncertification.org,2023-05-18,2022-02-05,12/11/2022,Not Approved
+84,9,234,Certified ScrumMaster (CSM),reactdevelopernanodegree.com,2023-05-13,2017-03-17,8/17/2017,Not Approved
+85,695,745,PHP Certification,oraclejavacertification.org,2023-10-21,2014-09-06,3/18/2015,Approved
+86,686,208,React Developer Nanodegree,zendphpecertifiedengineer.org,2023-04-11,2021-11-29,8/2/2022,Not Approved
+87,825,691,Project Management Professional (PMP) Certification,phpcertification.net,2023-12-24,2014-07-25,4/23/2015,Not Approved
+88,419,641,Project Management Professional (PMP) Certification,microsoftdataanalystassociate.net,2023-08-08,2011-10-10,9/1/2012,Approved
+89,826,768,React Certification,toastmastersinternationalcertifications.com,2023-11-20,2019-04-02,12/28/2019,pending
+90,535,222,PHP Certification,oraclejavaprofessional.com,2023-09-01,2018-02-07,3/8/2018,Approved
+91,401,217,Certified Python Developer,snowflakecertifiedsnowpro.com,2023-12-22,2014-09-29,10/21/2014,Not Approved
+92,619,663,Certified ScrumMaster (CSM),certifiedscrummaster.org,2023-09-22,2015-05-15,7/12/2015,Approved
+93,968,587,React Developer Nanodegree,reactdevelopernanodegree.com,2023-12-09,2023-02-22,1/12/2024,pending
+94,321,576,Project Management Professional (PMP) Certification,reactdevelopernanodegree.com,2023-05-28,2016-05-06,6/14/2016,Approved
+95,234,129,Toastmasters International Certifications Professional Presentation Skills,pmpprofessionalcertification.net,2023-06-04,2011-08-03,1/24/2012,Approved
+96,221,159,Presentation Design Certification,reactdevelopernanodegree.com,2024-02-28,2016-01-14,7/4/2016,Approved
+97,580,554,Toastmasters International Certifications Professional Presentation Skills,zendphpecertifiedengineer.org,2023-10-22,2020-04-06,5/17/2020,Not Approved
+98,941,96,SQL Developer Certification,oraclejavacertification.org,2024-03-16,2014-10-08,7/19/2015,Not Approved
+99,356,228,Graphic Design Certifications,certifiedpythondeveloper.org,2023-06-08,2016-09-15,8/19/2017,pending
+100,988,208,Presentation Design Certification,powerbiexampractice.com,2023-10-23,2015-08-26,7/30/2016,Approved
+101,519,440,Snowflake Certified SnowPro,pythoninstitutecertifications.com,2024-01-08,2017-02-08,11/1/2017,pending
+102,208,360,Java Certification (offered by Oracle),reactdevelopernanodegree.com,2023-06-14,2010-11-01,1/22/2011,pending
+103,843,19,Java SE Programmer,professionalpresentationskills.org,2024-02-08,2022-05-01,6/1/2022,Approved
+104,413,216,SQL Developer Certification,phpcertification.net,2024-01-05,2017-03-02,6/28/2017,pending
+105,687,686,Certified ScrumMaster (CSM),snowflakecertifiedsnowpro.com,2023-08-09,2012-08-24,8/14/2013,Not Approved
+106,235,192,Zend Certified PHP Engineer,pythoninstitutecertifications.com,2024-02-13,2017-09-20,2/7/2018,Approved
+107,780,30,Java SE Programmer,toastmastersinternationalcertifications.com,2023-12-20,2018-04-22,6/5/2018,Approved
+108,721,197,React Certification,oraclejavacertification.org,2024-02-17,2011-02-22,11/3/2011,Not Approved
+109,521,664,Analyzing and Visualizing Data with Microsoft Power BI,powerbiexampractice.com,2023-06-29,2012-07-10,1/24/2013,Approved
+110,919,760,Analyzing and Visualizing Data with Microsoft Power BI,microsoftdataanalystassociate.net,2024-02-06,2021-09-21,9/25/2021,Not Approved
+111,299,528,SQL Developer Certification,reactcertification.org,2023-06-27,2017-02-22,3/9/2017,Not Approved
+112,345,689,Microsoft Certified: Data Analyst Associate,phpcertification.net,2023-04-10,2015-03-07,10/9/2015,Approved
+113,842,107,SQL Developer Certification,powerbiexampractice.com,2024-01-21,2012-09-03,12/12/2012,Approved
+114,409,955,PHP Certification,oraclejavacertification.org,2023-10-15,2022-04-11,7/26/2022,pending
+115,355,422,Graphic Design Certifications,microsoftdataanalystassociate.net,2023-11-11,2023-02-17,3/12/2023,Approved
+116,237,227,Azure Data Engineer Associate,professionalpresentationskills.org,2024-03-14,2017-12-13,10/26/2018,pending
+117,74,73,Zend Certified PHP Engineer,phpcertification.net,2023-07-27,2013-11-09,7/2/2014,pending
+118,586,457,Certified Python Developer,pythoninstitutecertifications.com,2023-08-21,2017-08-17,11/28/2017,pending
+119,653,66,Python Institute Certifications,oraclejavaprofessional.com,2023-08-07,2015-03-14,10/26/2015,Not Approved
+120,590,248,Graphic Design Certifications,microsoftdataanalystassociate.net,2023-11-04,2022-09-10,4/2/2023,Approved
+121,325,82,Microsoft Certified: Data Analyst Associate,snowprocorecertification.net,2023-11-02,2013-05-02,2/20/2014,Not Approved
+122,292,996,Presentation Design Certification,certifiedpythondeveloper.org,2023-10-15,2014-06-05,11/22/2014,pending
+123,271,825,Python Institute Certifications,powerbiexampractice.com,2023-05-02,2020-05-01,1/12/2021,pending
+124,661,174,Zend Certified PHP Engineer,graphicdesigncertifications.net,2023-06-16,2019-03-27,9/21/2019,Not Approved
+125,902,427,SQL Developer Certification,professionalpresentationskills.org,2023-12-20,2021-06-25,7/31/2021,pending
+126,4,955,Analyzing and Visualizing Data with Microsoft Power BI,zendphpecertifiedengineer.org,2023-11-23,2022-04-25,4/4/2023,Approved
+127,449,39,React Certification,microsoftdataanalystassociate.net,2023-09-27,2022-09-13,7/18/2023,Approved
+128,581,816,Snowflake Certified SnowPro,powerbiexampractice.com,2023-04-12,2011-01-25,2/3/2011,Not Approved
+129,963,998,Oracle Certified Professional,reactdevelopernanodegree.com,2023-06-02,2021-10-26,2/9/2022,pending
+130,988,143,React Developer Nanodegree,graphicdesigncertifications.net,2024-02-04,2018-01-18,3/15/2018,pending
+131,207,779,Certified Python Developer,sqldeveloper-certification.org,2023-04-17,2017-10-21,12/30/2017,Not Approved
+132,432,717,SnowPro Core Certification,reactcertification.org,2024-02-27,2011-09-15,5/22/2012,Approved
+133,361,972,Java SE Programmer,pmpprofessionalcertification.net,2023-08-30,2013-08-01,7/28/2014,Not Approved
+134,933,675,Graphic Design Certifications,microsoftdataanalystassociate.net,2023-09-12,2013-03-12,10/12/2013,pending
+135,808,773,Presentation Design Certification,zendphpecertifiedengineer.org,2023-10-21,2020-09-07,8/2/2021,Not Approved
+136,14,912,Zend Certified PHP Engineer,oraclejavaprofessional.com,2023-07-26,2016-06-07,6/15/2016,Approved
+137,126,815,Certified ScrumMaster (CSM),certifiedpythondeveloper.org,2023-06-17,2014-08-23,1/29/2015,Not Approved
+138,608,901,Java SE Programmer,powerbiexampractice.com,2024-03-29,2011-10-07,10/8/2011,Approved
+139,718,64,Certified ScrumMaster (CSM),oraclejavaprofessional.com,2023-10-12,2012-09-30,5/18/2013,Approved
+140,37,906,Python Institute Certifications,presentationdesigncertification.org,2023-05-19,2021-04-06,6/22/2021,Not Approved
+141,586,777,Toastmasters International Certifications Professional Presentation Skills,certifiedpythondeveloper.org,2023-08-30,2014-12-06,11/24/2015,pending
+142,275,173,SnowPro Core Certification,reactcertification.org,2023-07-08,2015-07-21,1/6/2016,Approved
+143,929,442,Java Certification (offered by Oracle),powerbiexampractice.com,2023-07-12,2016-05-29,12/13/2016,Not Approved
+144,177,116,Java Certification (offered by Oracle),certifiedscrummaster.org,2023-05-15,2016-04-01,7/24/2016,Not Approved
+145,158,713,React Certification,reactdevelopernanodegree.com,2023-10-22,2013-03-15,7/17/2013,Not Approved
+146,921,459,Java Certification (offered by Oracle),oraclejavacertification.org,2024-03-20,2014-11-22,12/7/2014,pending
+147,843,988,Oracle Certified Professional,snowprocorecertification.net,2023-08-14,2014-11-12,9/19/2015,pending
+148,307,459,Project Management Professional (PMP) Certification,oraclejavaprofessional.com,2023-12-18,2012-10-05,6/11/2013,pending
+149,281,290,Java SE Programmer,presentationdesigncertification.org,2023-08-18,2018-01-31,9/10/2018,Not Approved
+150,446,178,PHP Certification,snowflakecertifiedsnowpro.com,2023-12-21,2020-08-30,9/24/2020,Not Approved
+151,141,434,SnowPro Core Certification,oraclejavacertification.org,2023-06-25,2017-04-23,5/14/2017,pending
+152,682,708,Azure Data Engineer Associate,graphicdesigncertifications.net,2023-05-01,2023-10-08,8/27/2024,pending
+153,376,337,Toastmasters International Certifications Professional Presentation Skills,phpcertification.net,2023-11-24,2016-09-05,10/16/2016,Approved
+154,385,147,Azure Data Engineer Associate,reactdevelopernanodegree.com,2024-02-03,2014-08-02,12/2/2014,Approved
+155,982,665,Java Certification (offered by Oracle),reactdevelopernanodegree.com,2023-09-15,2021-07-03,4/12/2022,Not Approved
+156,594,186,Certified ScrumMaster (CSM),professionalpresentationskills.org,2023-09-18,2015-05-29,8/14/2015,Not Approved
+157,339,836,SQL Developer Certification,certifiedpythondeveloper.org,2023-09-07,2013-03-14,6/28/2013,Not Approved
+158,904,499,React Developer Nanodegree,phpcertification.net,2023-04-16,2024-02-26,3/12/2024,Not Approved
+159,751,42,Zend Certified PHP Engineer,snowprocorecertification.net,2023-04-28,2013-01-30,4/9/2013,pending
+160,819,111,Zend Certified PHP Engineer,snowprocorecertification.net,2023-07-11,2011-05-02,8/15/2011,pending
+161,476,206,Python Institute Certifications,certifiedscrummaster.org,2023-09-21,2017-10-30,8/11/2018,pending
+162,405,843,Certified ScrumMaster (CSM),reactcertification.org,2023-08-10,2023-09-16,10/6/2023,Not Approved
+163,157,839,Java Certification (offered by Oracle),certifiedpythondeveloper.org,2023-09-15,2017-07-04,10/11/2017,pending
+164,618,997,Java SE Programmer,professionalpresentationskills.org,2023-12-21,2017-08-14,6/1/2018,pending
+165,269,34,Java SE Programmer,pmpprofessionalcertification.net,2023-12-23,2022-06-23,12/2/2022,Not Approved
+166,551,159,Azure Data Engineer Associate,pythoninstitutecertifications.com,2023-11-09,2014-12-11,1/12/2015,Not Approved
+167,111,282,SQL Developer Certification,oraclejavaprofessional.com,2023-06-10,2014-01-20,9/26/2014,Not Approved
+168,46,934,Java SE Programmer,presentationdesigncertification.org,2024-01-31,2013-03-22,10/2/2013,Not Approved
+169,566,232,Graphic Design Certifications,reactdevelopernanodegree.com,2023-08-16,2012-09-22,2/6/2013,Not Approved
+170,792,759,React Certification,powerbiexampractice.com,2023-10-20,2016-03-26,5/15/2016,Not Approved
+171,243,212,Oracle Certified Professional,oraclejavacertification.org,2023-09-17,2019-10-03,11/16/2019,Not Approved
+172,539,367,PHP Certification,toastmastersinternationalcertifications.com,2023-08-07,2022-08-07,2/12/2023,Approved
+173,722,692,Certified Python Developer,certifiedscrummaster.org,2023-10-22,2015-04-12,1/22/2016,pending
+174,968,202,Presentation Design Certification,oraclejavaprofessional.com,2023-11-15,2019-03-06,1/24/2020,Approved
+175,50,663,Project Management Professional (PMP) Certification,pythoninstitutecertifications.com,2024-03-10,2021-06-10,9/18/2021,Approved
+176,654,792,Oracle Certified Professional,microsoftdataanalystassociate.net,2024-01-30,2023-11-25,10/2/2024,pending
+177,77,727,Python Institute Certifications,sqldeveloper-certification.org,2023-09-23,2015-10-21,8/21/2016,Not Approved
+178,340,952,Analyzing and Visualizing Data with Microsoft Power BI,phpcertification.net,2023-04-26,2011-07-26,1/14/2012,pending
+179,896,512,Graphic Design Certifications,sqldeveloper-certification.org,2023-05-29,2020-07-29,4/29/2021,pending
+180,522,762,Graphic Design Certifications,phpcertification.net,2023-11-04,2024-01-13,2/18/2024,pending
+181,3,726,React Developer Nanodegree,oraclejavacertification.org,2023-10-28,2012-12-17,3/21/2013,Approved
+182,974,694,Toastmasters International Certifications Professional Presentation Skills,snowflakecertifiedsnowpro.com,2024-03-06,2020-01-13,11/26/2020,Approved
+183,481,436,Java Certification (offered by Oracle),professionalpresentationskills.org,2023-12-27,2022-08-31,6/6/2023,Not Approved
+184,870,715,Graphic Design Certifications,powerbiexampractice.com,2023-11-01,2021-09-07,1/28/2022,pending
+185,127,569,PHP Certification,pmpprofessionalcertification.net,2023-08-02,2019-08-06,2/16/2020,Approved
+186,668,283,Python Institute Certifications,pmpprofessionalcertification.net,2024-03-21,2018-05-27,5/4/2019,Approved
+187,341,727,Presentation Design Certification,professionalpresentationskills.org,2023-11-03,2015-07-24,5/18/2016,Not Approved
+188,839,325,Project Management Professional (PMP) Certification,reactdevelopernanodegree.com,2023-07-12,2023-01-23,4/3/2023,Not Approved
+189,52,198,Zend Certified PHP Engineer,microsoftdataanalystassociate.net,2024-02-09,2016-04-17,7/25/2016,pending
+190,497,784,PHP Certification,zendphpecertifiedengineer.org,2024-02-09,2019-10-20,2/25/2020,pending
+191,583,891,React Certification,presentationdesigncertification.org,2023-06-13,2015-11-03,8/22/2016,Not Approved
+192,337,997,Zend Certified PHP Engineer,pythoninstitutecertifications.com,2023-11-03,2013-07-16,9/21/2013,Not Approved
+193,594,421,React Certification,snowflakecertifiedsnowpro.com,2024-03-18,2016-05-24,5/8/2017,Approved
+194,743,13,PHP Certification,professionalpresentationskills.org,2024-03-06,2021-11-08,5/23/2022,Not Approved
+195,415,802,Project Management Professional (PMP) Certification,toastmastersinternationalcertifications.com,2023-10-21,2019-01-08,10/11/2019,Approved
+196,239,730,Certified ScrumMaster (CSM),toastmastersinternationalcertifications.com,2023-09-17,2014-05-29,2/10/2015,Not Approved
+197,522,49,PHP Certification,oraclejavaprofessional.com,2023-04-09,2023-03-28,12/28/2023,Not Approved
+198,153,505,Java SE Programmer,pythoninstitutecertifications.com,2023-05-04,2021-11-18,5/3/2022,Not Approved
+199,347,142,SnowPro Core Certification,professionalpresentationskills.org,2023-11-06,2012-07-31,12/22/2012,Approved
+200,955,641,React Developer Nanodegree,sqldeveloper-certification.org,2024-02-07,2018-03-08,10/6/2018,Approved
+201,982,711,Graphic Design Certifications,powerbiexampractice.com,2023-08-02,2015-09-30,5/30/2016,pending
+202,997,791,Snowflake Certified SnowPro,presentationdesigncertification.org,2024-03-05,2012-05-08,3/9/2013,Approved
+203,895,362,PHP Certification,zendphpecertifiedengineer.org,2023-12-06,2022-02-19,4/5/2022,Not Approved
+204,818,805,React Developer Nanodegree,zendphpecertifiedengineer.org,2023-05-31,2010-09-30,5/21/2011,Approved
+205,980,231,PHP Certification,powerbiexampractice.com,2023-10-16,2012-10-22,1/22/2013,Approved
+206,109,744,Snowflake Certified SnowPro,oraclejavaprofessional.com,2023-12-10,2023-04-21,9/16/2023,Approved
+207,449,903,PHP Certification,phpcertification.net,2023-10-20,2016-02-01,12/5/2016,pending
+208,984,99,SQL Developer Certification,reactdevelopernanodegree.com,2023-05-11,2019-04-03,11/14/2019,Not Approved
+209,202,436,Java Certification (offered by Oracle),microsoftdataanalystassociate.net,2023-12-22,2012-07-23,8/13/2012,pending
+210,132,850,SQL Developer Certification,snowflakecertifiedsnowpro.com,2023-04-16,2018-08-22,6/13/2019,Approved
+211,616,532,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2024-02-15,2018-08-30,8/20/2019,pending
+212,523,775,SQL Developer Certification,powerbiexampractice.com,2023-10-13,2020-12-20,6/3/2021,Not Approved
+213,893,991,Project Management Professional (PMP) Certification,oraclejavaprofessional.com,2024-01-28,2017-05-03,2/12/2018,pending
+214,908,919,Oracle Certified Professional,reactdevelopernanodegree.com,2023-09-07,2016-07-08,9/10/2016,pending
+215,821,155,Azure Data Engineer Associate,oraclejavaprofessional.com,2023-08-06,2018-04-21,3/23/2019,Not Approved
+216,133,521,Analyzing and Visualizing Data with Microsoft Power BI,oraclejavacertification.org,2024-01-27,2012-03-29,6/10/2012,Not Approved
+217,217,784,Zend Certified PHP Engineer,oraclejavaprofessional.com,2023-04-27,2021-11-29,3/4/2022,Approved
+218,311,513,React Certification,snowprocorecertification.net,2024-02-26,2016-10-31,7/13/2017,pending
+219,831,477,Python Institute Certifications,graphicdesigncertifications.net,2023-07-28,2014-04-26,4/7/2015,Not Approved
+220,563,911,React Certification,oraclejavacertification.org,2023-09-28,2018-11-21,3/24/2019,pending
+221,474,454,PHP Certification,graphicdesigncertifications.net,2023-07-27,2015-03-20,6/4/2015,pending
+222,298,693,Presentation Design Certification,pmpprofessionalcertification.net,2023-04-23,2015-04-24,8/23/2015,Approved
+223,930,242,SnowPro Core Certification,professionalpresentationskills.org,2024-03-09,2013-03-23,12/20/2013,pending
+224,598,713,Java SE Programmer,pmpprofessionalcertification.net,2023-10-21,2016-06-15,8/11/2016,Approved
+225,219,555,Graphic Design Certifications,presentationdesigncertification.org,2023-11-11,2021-06-17,12/1/2021,Approved
+226,668,188,SnowPro Core Certification,pythoninstitutecertifications.com,2023-09-29,2012-03-09,6/7/2012,pending
+227,52,185,Java Certification (offered by Oracle),professionalpresentationskills.org,2023-04-23,2019-05-28,8/23/2019,pending
+228,264,74,Snowflake Certified SnowPro,pmpprofessionalcertification.net,2023-10-12,2016-09-30,8/24/2017,Not Approved
+229,881,802,Zend Certified PHP Engineer,pmpprofessionalcertification.net,2023-06-29,2018-07-10,12/11/2018,Approved
+230,301,369,Toastmasters International Certifications Professional Presentation Skills,pmpprofessionalcertification.net,2023-09-12,2022-06-29,4/29/2023,Approved
+231,610,688,SnowPro Core Certification,certifiedscrummaster.org,2023-06-01,2011-09-16,4/29/2012,pending
+232,692,613,Python Institute Certifications,toastmastersinternationalcertifications.com,2023-11-09,2017-07-13,1/26/2018,Not Approved
+233,185,717,Python Institute Certifications,powerbiexampractice.com,2023-11-29,2014-12-14,2/5/2015,Not Approved
+234,216,860,SQL Developer Certification,sqldeveloper-certification.org,2023-08-28,2015-05-26,12/13/2015,Not Approved
+235,267,121,Presentation Design Certification,powerbiexampractice.com,2023-11-02,2020-03-20,11/9/2020,pending
+236,192,202,React Developer Nanodegree,graphicdesigncertifications.net,2023-09-17,2013-07-15,8/16/2013,Not Approved
+237,714,132,Oracle Certified Professional,oraclejavacertification.org,2023-04-24,2023-09-09,1/6/2024,Not Approved
+238,918,329,SnowPro Core Certification,presentationdesigncertification.org,2023-11-11,2019-08-19,6/24/2020,Approved
+239,445,794,Snowflake Certified SnowPro,graphicdesigncertifications.net,2023-07-04,2016-05-01,8/14/2016,pending
+240,71,594,Java SE Programmer,toastmastersinternationalcertifications.com,2024-03-21,2024-03-01,4/20/2024,Not Approved
+241,425,340,Zend Certified PHP Engineer,reactdevelopernanodegree.com,2023-06-11,2014-07-17,4/26/2015,Approved
+242,879,593,Oracle Certified Professional,oraclejavaprofessional.com,2023-12-30,2015-10-14,10/30/2015,Approved
+243,410,353,Toastmasters International Certifications Professional Presentation Skills,presentationdesigncertification.org,2023-05-07,2023-05-31,9/12/2023,pending
+244,506,395,Snowflake Certified SnowPro,pythoninstitutecertifications.com,2023-12-09,2020-09-22,8/25/2021,Approved
+245,447,510,Python Institute Certifications,snowprocorecertification.net,2023-07-05,2024-03-19,5/31/2024,Approved
+246,955,562,Zend Certified PHP Engineer,pythoninstitutecertifications.com,2024-04-02,2015-09-03,12/24/2015,Approved
+247,543,923,Presentation Design Certification,powerbiexampractice.com,2024-02-16,2015-02-19,11/20/2015,Not Approved
+248,257,423,Project Management Professional (PMP) Certification,toastmastersinternationalcertifications.com,2023-08-08,2011-01-17,9/3/2011,pending
+249,310,271,Zend Certified PHP Engineer,snowprocorecertification.net,2024-03-07,2018-02-25,5/31/2018,pending
+250,153,443,Snowflake Certified SnowPro,graphicdesigncertifications.net,2024-01-07,2024-02-04,9/7/2024,Approved
+251,836,158,Presentation Design Certification,zendphpecertifiedengineer.org,2023-10-18,2016-11-09,3/17/2017,Approved
+252,287,719,Microsoft Certified: Data Analyst Associate,certifiedscrummaster.org,2024-03-04,2019-04-07,9/10/2019,pending
+253,33,620,Graphic Design Certifications,reactdevelopernanodegree.com,2024-01-13,2022-02-15,3/14/2022,Not Approved
+254,829,202,Presentation Design Certification,reactcertification.org,2023-09-11,2022-10-27,7/3/2023,pending
+255,395,592,React Developer Nanodegree,oraclejavacertification.org,2023-04-16,2022-08-12,11/10/2022,Not Approved
+256,545,678,Java SE Programmer,reactcertification.org,2023-09-07,2015-04-19,12/29/2015,Not Approved
+257,464,618,React Certification,snowprocorecertification.net,2023-11-14,2011-09-16,7/10/2012,pending
+258,882,942,Java Certification (offered by Oracle),pythoninstitutecertifications.com,2023-04-10,2019-06-30,3/30/2020,Approved
+259,881,335,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2023-08-05,2018-11-13,10/14/2019,pending
+260,985,483,React Certification,professionalpresentationskills.org,2024-01-23,2018-08-28,8/14/2019,Not Approved
+261,207,264,Azure Data Engineer Associate,professionalpresentationskills.org,2024-01-25,2021-04-21,11/6/2021,Approved
+262,960,520,SQL Developer Certification,snowflakecertifiedsnowpro.com,2023-04-28,2017-11-23,2/10/2018,Not Approved
+263,859,401,Azure Data Engineer Associate,snowflakecertifiedsnowpro.com,2024-03-12,2019-03-20,5/1/2019,Approved
+264,198,441,SQL Developer Certification,toastmastersinternationalcertifications.com,2024-02-24,2018-11-01,10/14/2019,Approved
+265,982,214,Oracle Certified Professional,sqldeveloper-certification.org,2023-04-22,2014-02-03,2/15/2014,pending
+266,95,867,Certified ScrumMaster (CSM),oraclejavacertification.org,2023-04-25,2020-07-13,9/30/2020,Approved
+267,99,174,Toastmasters International Certifications Professional Presentation Skills,powerbiexampractice.com,2023-06-08,2022-08-05,1/31/2023,Approved
+268,920,377,Toastmasters International Certifications Professional Presentation Skills,phpcertification.net,2023-11-07,2013-12-24,11/21/2014,pending
+269,201,583,React Developer Nanodegree,microsoftdataanalystassociate.net,2023-07-15,2013-12-15,3/1/2014,Not Approved
+270,944,285,SQL Developer Certification,toastmastersinternationalcertifications.com,2023-11-21,2022-08-26,1/8/2023,Approved
+271,734,114,React Certification,snowflakecertifiedsnowpro.com,2024-02-04,2018-06-04,6/7/2018,pending
+272,914,751,Certified Python Developer,toastmastersinternationalcertifications.com,2023-12-23,2020-05-11,7/30/2020,pending
+273,921,430,Project Management Professional (PMP) Certification,graphicdesigncertifications.net,2023-04-19,2020-03-17,11/5/2020,Approved
+274,639,984,SnowPro Core Certification,snowprocorecertification.net,2024-02-14,2013-07-16,9/17/2013,Not Approved
+275,88,327,Zend Certified PHP Engineer,pmpprofessionalcertification.net,2023-05-04,2014-07-29,5/21/2015,pending
+276,915,198,Zend Certified PHP Engineer,oraclejavacertification.org,2023-06-02,2011-06-21,10/5/2011,Approved
+277,21,587,React Certification,graphicdesigncertifications.net,2023-08-31,2020-10-20,11/4/2020,Not Approved
+278,945,879,SnowPro Core Certification,professionalpresentationskills.org,2023-09-04,2022-09-23,11/21/2022,Approved
+279,968,555,Java Certification (offered by Oracle),oraclejavaprofessional.com,2023-09-09,2023-06-24,10/15/2023,Not Approved
+280,338,794,PHP Certification,pythoninstitutecertifications.com,2023-06-09,2022-12-01,7/26/2023,Not Approved
+281,604,435,Azure Data Engineer Associate,professionalpresentationskills.org,2023-08-16,2021-01-24,5/4/2021,Not Approved
+282,866,670,Zend Certified PHP Engineer,pythoninstitutecertifications.com,2024-02-23,2018-07-19,12/17/2018,Approved
+283,494,658,Toastmasters International Certifications Professional Presentation Skills,toastmastersinternationalcertifications.com,2023-10-18,2017-02-15,12/15/2017,pending
+284,549,636,Azure Data Engineer Associate,certifiedscrummaster.org,2023-08-21,2023-02-18,1/29/2024,Approved
+285,104,561,Presentation Design Certification,microsoftdataanalystassociate.net,2023-09-27,2012-06-03,8/19/2012,Approved
+286,229,833,Oracle Certified Professional,reactcertification.org,2023-12-05,2022-06-28,1/4/2023,pending
+287,703,33,Presentation Design Certification,graphicdesigncertifications.net,2023-12-15,2021-06-25,6/16/2022,Approved
+288,961,707,Project Management Professional (PMP) Certification,sqldeveloper-certification.org,2023-11-14,2011-01-16,10/19/2011,Approved
+289,886,498,Certified ScrumMaster (CSM),oraclejavacertification.org,2023-05-04,2021-04-18,4/30/2021,pending
+290,747,828,Snowflake Certified SnowPro,graphicdesigncertifications.net,2024-02-24,2014-03-16,12/10/2014,Approved
+291,873,762,Snowflake Certified SnowPro,sqldeveloper-certification.org,2024-01-04,2012-01-17,1/25/2012,Approved
+292,728,179,Project Management Professional (PMP) Certification,professionalpresentationskills.org,2023-05-06,2020-10-01,5/4/2021,pending
+293,393,158,PHP Certification,oraclejavacertification.org,2023-10-31,2021-02-15,11/21/2021,Not Approved
+294,842,948,Snowflake Certified SnowPro,snowprocorecertification.net,2023-08-19,2022-10-28,12/12/2022,Not Approved
+295,421,66,Java SE Programmer,certifiedpythondeveloper.org,2023-06-20,2013-12-08,7/29/2014,pending
+296,374,673,React Certification,oraclejavaprofessional.com,2024-03-29,2023-10-15,4/2/2024,Not Approved
+297,584,295,Certified ScrumMaster (CSM),snowprocorecertification.net,2024-01-09,2014-06-13,3/24/2015,pending
+298,657,562,SnowPro Core Certification,certifiedpythondeveloper.org,2023-10-22,2024-01-27,3/10/2024,pending
+299,689,58,Snowflake Certified SnowPro,reactcertification.org,2023-04-27,2020-01-19,7/9/2020,Not Approved
+300,831,783,Graphic Design Certifications,toastmastersinternationalcertifications.com,2023-07-14,2015-10-24,10/25/2015,Not Approved
+301,358,750,Microsoft Certified: Data Analyst Associate,oraclejavaprofessional.com,2023-09-28,2020-07-17,12/19/2020,Not Approved
+302,798,162,Azure Data Engineer Associate,reactdevelopernanodegree.com,2023-10-29,2014-08-31,9/16/2014,pending
+303,923,947,Toastmasters International Certifications Professional Presentation Skills,oraclejavacertification.org,2023-06-06,2019-03-09,5/2/2019,pending
+304,30,335,Certified Python Developer,reactcertification.org,2023-11-19,2017-12-31,6/2/2018,Not Approved
+305,525,41,Microsoft Certified: Data Analyst Associate,oraclejavacertification.org,2024-02-23,2010-10-14,7/10/2011,pending
+306,480,856,Oracle Certified Professional,toastmastersinternationalcertifications.com,2023-12-08,2020-04-24,7/26/2020,Not Approved
+307,647,400,Project Management Professional (PMP) Certification,reactcertification.org,2024-02-26,2011-01-19,8/17/2011,pending
+308,26,441,Toastmasters International Certifications Professional Presentation Skills,oraclejavacertification.org,2023-04-08,2013-04-20,7/29/2013,Approved
+309,294,332,Zend Certified PHP Engineer,graphicdesigncertifications.net,2023-11-21,2013-12-03,6/13/2014,Not Approved
+310,832,104,React Developer Nanodegree,zendphpecertifiedengineer.org,2023-05-14,2014-03-02,6/28/2014,Not Approved
+311,22,950,Oracle Certified Professional,snowflakecertifiedsnowpro.com,2023-09-27,2021-12-19,8/28/2022,Approved
+312,846,902,Snowflake Certified SnowPro,microsoftdataanalystassociate.net,2023-06-16,2017-02-17,4/7/2017,Not Approved
+313,261,58,PHP Certification,oraclejavacertification.org,2023-04-08,2018-03-06,7/22/2018,Approved
+314,893,176,Azure Data Engineer Associate,reactcertification.org,2023-05-12,2022-01-11,3/15/2022,Not Approved
+315,997,731,Snowflake Certified SnowPro,zendphpecertifiedengineer.org,2023-07-13,2011-01-25,12/3/2011,Approved
+316,40,146,Python Institute Certifications,snowflakecertifiedsnowpro.com,2023-07-20,2016-09-25,2/7/2017,pending
+317,884,732,Presentation Design Certification,graphicdesigncertifications.net,2023-08-22,2015-02-08,8/30/2015,Not Approved
+318,567,353,Oracle Certified Professional,professionalpresentationskills.org,2024-02-12,2014-07-25,8/22/2014,pending
+319,478,93,Project Management Professional (PMP) Certification,phpcertification.net,2023-05-14,2019-10-16,5/27/2020,pending
+320,487,443,Presentation Design Certification,pmpprofessionalcertification.net,2024-03-20,2018-08-15,3/15/2019,Not Approved
+321,716,512,Microsoft Certified: Data Analyst Associate,sqldeveloper-certification.org,2023-05-16,2014-11-24,1/8/2015,Not Approved
+322,84,792,Azure Data Engineer Associate,sqldeveloper-certification.org,2024-02-20,2014-10-19,1/18/2015,Not Approved
+323,469,859,Microsoft Certified: Data Analyst Associate,pmpprofessionalcertification.net,2023-10-11,2012-02-16,10/27/2012,Approved
+324,79,479,Oracle Certified Professional,snowprocorecertification.net,2024-04-05,2017-05-19,12/25/2017,pending
+325,302,905,PHP Certification,presentationdesigncertification.org,2023-06-09,2011-12-17,3/31/2012,Approved
+326,205,351,SnowPro Core Certification,sqldeveloper-certification.org,2023-06-02,2012-05-04,6/16/2012,Not Approved
+327,880,497,Java SE Programmer,reactdevelopernanodegree.com,2023-10-16,2022-02-24,6/19/2022,Approved
+328,568,388,Python Institute Certifications,graphicdesigncertifications.net,2023-04-30,2015-07-15,12/9/2015,Not Approved
+329,339,413,Zend Certified PHP Engineer,microsoftdataanalystassociate.net,2023-11-15,2017-03-02,2/7/2018,pending
+330,672,632,Microsoft Certified: Data Analyst Associate,phpcertification.net,2023-09-24,2012-07-05,4/8/2013,Not Approved
+331,469,844,Analyzing and Visualizing Data with Microsoft Power BI,presentationdesigncertification.org,2023-12-26,2020-07-13,9/8/2020,pending
+332,12,890,Graphic Design Certifications,toastmastersinternationalcertifications.com,2024-01-03,2021-07-05,4/8/2022,Approved
+333,439,244,Toastmasters International Certifications Professional Presentation Skills,presentationdesigncertification.org,2023-04-24,2011-02-26,9/20/2011,Not Approved
+334,573,619,SnowPro Core Certification,zendphpecertifiedengineer.org,2023-11-18,2019-07-15,2/24/2020,pending
+335,166,568,Presentation Design Certification,pmpprofessionalcertification.net,2023-09-07,2015-07-08,7/3/2016,Not Approved
+336,950,785,Presentation Design Certification,snowprocorecertification.net,2023-12-07,2022-06-13,1/5/2023,Approved
+337,778,594,React Developer Nanodegree,pythoninstitutecertifications.com,2023-06-04,2018-09-08,10/18/2018,Approved
+338,688,454,Certified ScrumMaster (CSM),pmpprofessionalcertification.net,2023-04-16,2012-03-25,8/23/2012,Approved
+339,884,684,Zend Certified PHP Engineer,snowflakecertifiedsnowpro.com,2023-12-02,2012-02-07,8/24/2012,pending
+340,43,541,Certified ScrumMaster (CSM),reactcertification.org,2023-08-17,2021-10-21,9/10/2022,pending
+341,763,27,Oracle Certified Professional,pythoninstitutecertifications.com,2023-09-21,2011-01-30,1/30/2012,pending
+342,270,523,Toastmasters International Certifications Professional Presentation Skills,zendphpecertifiedengineer.org,2023-11-20,2022-10-15,9/22/2023,Approved
+343,413,774,Presentation Design Certification,snowprocorecertification.net,2024-02-02,2022-08-24,11/16/2022,Approved
+344,282,346,Snowflake Certified SnowPro,zendphpecertifiedengineer.org,2023-10-18,2023-07-01,1/17/2024,Not Approved
+345,19,473,Java Certification (offered by Oracle),professionalpresentationskills.org,2024-02-16,2020-09-11,11/19/2020,pending
+346,631,603,Toastmasters International Certifications Professional Presentation Skills,phpcertification.net,2024-03-07,2012-08-22,5/17/2013,Not Approved
+347,539,516,SnowPro Core Certification,microsoftdataanalystassociate.net,2024-03-07,2023-05-10,2/8/2024,pending
+348,118,240,Graphic Design Certifications,professionalpresentationskills.org,2023-06-21,2021-03-21,2/24/2022,pending
+349,781,994,Python Institute Certifications,pythoninstitutecertifications.com,2024-01-29,2011-07-09,8/13/2011,Approved
+350,523,728,Certified ScrumMaster (CSM),snowflakecertifiedsnowpro.com,2023-06-12,2021-12-09,3/5/2022,Not Approved
+351,16,6,Oracle Certified Professional,snowprocorecertification.net,2023-09-02,2011-11-30,7/29/2012,Approved
+352,783,342,Presentation Design Certification,graphicdesigncertifications.net,2024-04-07,2011-04-14,5/7/2011,Approved
+353,34,805,Toastmasters International Certifications Professional Presentation Skills,zendphpecertifiedengineer.org,2023-12-24,2024-01-29,10/26/2024,Approved
+354,154,741,React Certification,certifiedpythondeveloper.org,2023-07-11,2015-09-21,1/18/2016,pending
+355,660,938,Azure Data Engineer Associate,oraclejavacertification.org,2023-09-16,2024-01-25,6/17/2024,Approved
+356,853,461,Microsoft Certified: Data Analyst Associate,reactdevelopernanodegree.com,2024-01-24,2012-04-21,7/17/2012,Approved
+357,480,386,Analyzing and Visualizing Data with Microsoft Power BI,zendphpecertifiedengineer.org,2023-06-17,2021-10-03,2/22/2022,Approved
+358,52,453,Graphic Design Certifications,oraclejavacertification.org,2023-09-27,2017-10-04,3/31/2018,Not Approved
+359,360,501,PHP Certification,reactcertification.org,2024-03-21,2017-04-19,2/14/2018,pending
+360,847,794,Toastmasters International Certifications Professional Presentation Skills,snowprocorecertification.net,2023-10-06,2019-05-29,11/25/2019,Not Approved
+361,724,272,SQL Developer Certification,reactdevelopernanodegree.com,2023-05-12,2019-04-06,9/16/2019,Approved
+362,906,341,Analyzing and Visualizing Data with Microsoft Power BI,microsoftdataanalystassociate.net,2024-01-28,2018-05-13,4/1/2019,pending
+363,595,373,Analyzing and Visualizing Data with Microsoft Power BI,toastmastersinternationalcertifications.com,2024-03-26,2022-10-16,4/2/2023,Not Approved
+364,938,849,Project Management Professional (PMP) Certification,snowprocorecertification.net,2023-05-23,2015-08-03,3/17/2016,pending
+365,49,781,Project Management Professional (PMP) Certification,presentationdesigncertification.org,2023-07-26,2022-09-29,11/12/2022,pending
+366,921,755,Python Institute Certifications,phpcertification.net,2023-10-01,2021-07-17,8/12/2021,Approved
+367,393,276,Microsoft Certified: Data Analyst Associate,toastmastersinternationalcertifications.com,2023-10-18,2011-05-05,4/25/2012,Not Approved
+368,649,592,PHP Certification,oraclejavaprofessional.com,2023-05-27,2010-11-21,2/28/2011,Not Approved
+369,528,250,Project Management Professional (PMP) Certification,oraclejavacertification.org,2024-02-15,2011-11-30,5/20/2012,Not Approved
+370,365,384,Python Institute Certifications,phpcertification.net,2024-01-20,2012-09-02,5/12/2013,Approved
+371,432,408,SQL Developer Certification,reactdevelopernanodegree.com,2023-06-05,2022-05-26,7/9/2022,Approved
+372,443,730,Java SE Programmer,powerbiexampractice.com,2023-05-07,2014-06-18,12/12/2014,pending
+373,443,833,Certified Python Developer,microsoftdataanalystassociate.net,2023-08-07,2023-01-22,10/31/2023,Approved
+374,992,812,React Certification,graphicdesigncertifications.net,2023-12-22,2017-01-22,12/31/2017,Not Approved
+375,72,462,Certified ScrumMaster (CSM),reactdevelopernanodegree.com,2023-05-21,2011-04-25,4/12/2012,Not Approved
+376,581,261,Toastmasters International Certifications Professional Presentation Skills,reactdevelopernanodegree.com,2023-10-05,2024-01-27,10/25/2024,Approved
+377,775,677,Microsoft Certified: Data Analyst Associate,certifiedscrummaster.org,2023-06-10,2016-01-12,5/15/2016,Approved
+378,777,825,Python Institute Certifications,sqldeveloper-certification.org,2023-08-13,2022-09-01,12/8/2022,Approved
+379,376,457,Java SE Programmer,powerbiexampractice.com,2024-02-02,2016-05-04,7/3/2016,Approved
+380,645,626,Analyzing and Visualizing Data with Microsoft Power BI,oraclejavaprofessional.com,2024-01-09,2018-08-19,8/12/2019,Approved
+381,341,686,SQL Developer Certification,professionalpresentationskills.org,2023-06-14,2019-10-22,3/1/2020,pending
+382,90,167,PHP Certification,certifiedscrummaster.org,2024-02-11,2012-11-06,10/5/2013,Not Approved
+383,71,855,PHP Certification,zendphpecertifiedengineer.org,2023-10-24,2019-09-28,3/27/2020,Not Approved
+384,806,314,Microsoft Certified: Data Analyst Associate,graphicdesigncertifications.net,2024-04-05,2023-12-14,9/6/2024,pending
+385,842,162,Toastmasters International Certifications Professional Presentation Skills,powerbiexampractice.com,2023-10-10,2012-08-10,7/5/2013,pending
+386,423,217,Zend Certified PHP Engineer,microsoftdataanalystassociate.net,2023-05-10,2021-01-08,12/1/2021,Not Approved
+387,655,330,Certified ScrumMaster (CSM),graphicdesigncertifications.net,2023-05-13,2021-02-17,3/1/2021,pending
+388,59,252,Toastmasters International Certifications Professional Presentation Skills,pythoninstitutecertifications.com,2023-10-24,2018-12-05,6/14/2019,Approved
+389,754,306,React Developer Nanodegree,certifiedpythondeveloper.org,2024-01-02,2017-05-30,6/15/2017,Not Approved
+390,902,944,Graphic Design Certifications,pythoninstitutecertifications.com,2024-03-28,2011-04-25,9/5/2011,Not Approved
+391,4,721,SQL Developer Certification,zendphpecertifiedengineer.org,2023-05-08,2015-12-12,2/20/2016,Approved
+392,708,469,Analyzing and Visualizing Data with Microsoft Power BI,toastmastersinternationalcertifications.com,2023-06-13,2015-11-21,2/1/2016,Not Approved
+393,346,648,Azure Data Engineer Associate,reactcertification.org,2023-06-18,2021-04-28,6/22/2021,Not Approved
+394,239,41,PHP Certification,phpcertification.net,2023-05-04,2016-06-11,1/6/2017,Not Approved
+395,592,543,Project Management Professional (PMP) Certification,toastmastersinternationalcertifications.com,2023-08-30,2018-03-14,11/7/2018,pending
+396,902,715,Project Management Professional (PMP) Certification,pythoninstitutecertifications.com,2023-08-25,2021-08-06,1/19/2022,Not Approved
+397,231,588,Toastmasters International Certifications Professional Presentation Skills,microsoftdataanalystassociate.net,2023-10-20,2023-03-02,12/3/2023,Approved
+398,386,545,Microsoft Certified: Data Analyst Associate,reactdevelopernanodegree.com,2023-09-30,2020-07-19,11/12/2020,Approved
+399,136,641,SQL Developer Certification,snowprocorecertification.net,2024-03-14,2021-08-01,3/4/2022,pending
+400,708,105,Java Certification (offered by Oracle),phpcertification.net,2023-07-06,2012-06-28,1/28/2013,Approved
+401,576,520,PHP Certification,snowflakecertifiedsnowpro.com,2023-07-12,2023-09-06,6/29/2024,Approved
+402,738,356,Oracle Certified Professional,pythoninstitutecertifications.com,2023-10-18,2015-06-27,5/13/2016,pending
+403,318,912,Certified ScrumMaster (CSM),graphicdesigncertifications.net,2023-06-25,2023-08-28,3/10/2024,Not Approved
+404,439,543,Snowflake Certified SnowPro,microsoftdataanalystassociate.net,2024-02-11,2020-03-04,4/24/2020,Approved
+405,769,719,Certified Python Developer,oraclejavaprofessional.com,2023-07-28,2022-02-05,10/23/2022,Approved
+406,552,231,PHP Certification,presentationdesigncertification.org,2023-11-18,2014-11-11,7/18/2015,Approved
+407,987,637,Microsoft Certified: Data Analyst Associate,oraclejavacertification.org,2023-12-28,2015-10-27,8/11/2016,Approved
+408,6,487,React Certification,graphicdesigncertifications.net,2023-06-24,2014-04-29,5/3/2014,Not Approved
+409,116,135,Java SE Programmer,snowflakecertifiedsnowpro.com,2023-11-27,2021-12-20,9/17/2022,pending
+410,294,259,SQL Developer Certification,phpcertification.net,2023-06-26,2015-08-02,6/29/2016,Not Approved
+411,224,614,Analyzing and Visualizing Data with Microsoft Power BI,presentationdesigncertification.org,2024-03-20,2023-01-03,2/27/2023,Not Approved
+412,492,119,Presentation Design Certification,snowflakecertifiedsnowpro.com,2024-01-21,2017-07-08,11/2/2017,Approved
+413,937,113,React Developer Nanodegree,zendphpecertifiedengineer.org,2023-09-05,2011-02-24,5/7/2011,Approved
+414,996,679,Certified ScrumMaster (CSM),powerbiexampractice.com,2023-11-30,2019-06-13,12/12/2019,Not Approved
+415,855,254,Zend Certified PHP Engineer,reactcertification.org,2024-01-17,2011-01-17,7/7/2011,Not Approved
+416,8,420,Certified ScrumMaster (CSM),oraclejavacertification.org,2023-07-01,2011-10-22,3/11/2012,pending
+417,645,243,Presentation Design Certification,professionalpresentationskills.org,2023-10-21,2012-10-19,8/12/2013,Approved
+418,527,412,React Certification,reactcertification.org,2024-02-09,2017-08-11,10/2/2017,Not Approved
+419,894,330,Certified ScrumMaster (CSM),professionalpresentationskills.org,2023-10-24,2013-08-27,8/17/2014,Not Approved
+420,799,378,Analyzing and Visualizing Data with Microsoft Power BI,toastmastersinternationalcertifications.com,2023-06-23,2011-02-17,11/4/2011,Approved
+421,678,647,Oracle Certified Professional,certifiedscrummaster.org,2023-04-14,2014-04-24,9/18/2014,pending
+422,532,45,Graphic Design Certifications,oraclejavaprofessional.com,2023-07-27,2023-07-17,4/9/2024,pending
+423,109,418,Certified Python Developer,reactcertification.org,2024-02-27,2023-09-21,8/19/2024,Not Approved
+424,628,790,React Developer Nanodegree,reactcertification.org,2023-04-30,2017-11-03,9/6/2018,pending
+425,141,989,SnowPro Core Certification,snowprocorecertification.net,2023-11-15,2015-12-03,1/26/2016,Approved
+426,436,186,Snowflake Certified SnowPro,oraclejavaprofessional.com,2023-11-02,2010-12-04,2/20/2011,Approved
+427,169,902,Zend Certified PHP Engineer,snowflakecertifiedsnowpro.com,2023-12-06,2023-08-10,2/18/2024,pending
+428,407,966,Project Management Professional (PMP) Certification,oraclejavacertification.org,2024-02-18,2023-10-15,10/29/2023,pending
+429,908,5,PHP Certification,toastmastersinternationalcertifications.com,2023-04-14,2017-01-09,11/12/2017,Approved
+430,172,212,Java SE Programmer,reactcertification.org,2024-01-17,2012-04-03,10/15/2012,pending
+431,636,24,Microsoft Certified: Data Analyst Associate,phpcertification.net,2024-03-07,2021-10-18,2/7/2022,Not Approved
+432,292,486,React Certification,oraclejavaprofessional.com,2023-06-12,2015-05-06,9/15/2015,pending
+433,55,562,SQL Developer Certification,oraclejavaprofessional.com,2024-03-10,2020-03-18,7/2/2020,Approved
+434,327,400,SQL Developer Certification,pythoninstitutecertifications.com,2023-08-27,2016-07-23,7/13/2017,Approved
+435,569,786,PHP Certification,professionalpresentationskills.org,2023-07-21,2015-08-04,8/6/2015,Not Approved
+436,612,902,Project Management Professional (PMP) Certification,reactcertification.org,2023-11-10,2014-06-16,9/19/2014,pending
+437,533,341,Toastmasters International Certifications Professional Presentation Skills,snowprocorecertification.net,2023-12-03,2021-02-22,11/5/2021,Approved
+438,285,699,Java Certification (offered by Oracle),snowflakecertifiedsnowpro.com,2023-11-16,2022-03-20,2/10/2023,pending
+439,510,831,Java Certification (offered by Oracle),snowflakecertifiedsnowpro.com,2023-09-13,2011-02-22,9/22/2011,Approved
+440,622,144,Certified Python Developer,zendphpecertifiedengineer.org,2023-04-17,2014-03-05,1/3/2015,Approved
+441,355,180,Microsoft Certified: Data Analyst Associate,microsoftdataanalystassociate.net,2024-01-22,2015-08-22,7/1/2016,Not Approved
+442,104,749,Java SE Programmer,professionalpresentationskills.org,2023-08-02,2016-10-22,2/6/2017,Not Approved
+443,262,365,SQL Developer Certification,reactdevelopernanodegree.com,2023-09-30,2017-11-13,7/22/2018,Not Approved
+444,367,543,Azure Data Engineer Associate,presentationdesigncertification.org,2023-11-25,2022-10-08,11/9/2022,Approved
+445,167,307,PHP Certification,oraclejavacertification.org,2024-03-10,2012-02-19,1/5/2013,Not Approved
+446,74,903,Oracle Certified Professional,snowflakecertifiedsnowpro.com,2024-02-29,2011-11-11,4/26/2012,Not Approved
+447,626,513,SQL Developer Certification,presentationdesigncertification.org,2023-09-04,2016-12-13,11/19/2017,Not Approved
+448,500,373,Project Management Professional (PMP) Certification,microsoftdataanalystassociate.net,2023-05-05,2017-02-28,1/16/2018,pending
+449,161,853,Graphic Design Certifications,powerbiexampractice.com,2023-08-03,2016-09-24,10/20/2016,Not Approved
+450,168,815,Toastmasters International Certifications Professional Presentation Skills,snowflakecertifiedsnowpro.com,2023-09-06,2015-08-30,7/17/2016,Approved
+451,873,947,SnowPro Core Certification,reactdevelopernanodegree.com,2023-10-30,2012-12-27,3/1/2013,pending
+452,947,262,Oracle Certified Professional,microsoftdataanalystassociate.net,2024-03-03,2023-06-11,2/24/2024,Approved
+453,934,408,Certified Python Developer,toastmastersinternationalcertifications.com,2023-10-15,2017-10-07,4/29/2018,Not Approved
+454,408,340,PHP Certification,reactcertification.org,2023-12-07,2015-11-04,6/23/2016,pending
+455,359,567,React Certification,sqldeveloper-certification.org,2023-07-11,2023-02-15,4/19/2023,pending
+456,437,53,Certified Python Developer,snowprocorecertification.net,2023-06-07,2013-11-30,11/4/2014,Not Approved
+457,497,394,Snowflake Certified SnowPro,phpcertification.net,2023-12-05,2011-10-16,11/13/2011,Not Approved
+458,788,491,Zend Certified PHP Engineer,sqldeveloper-certification.org,2023-11-07,2024-03-28,10/30/2024,pending
+459,996,944,PHP Certification,reactcertification.org,2023-06-17,2022-12-13,10/10/2023,pending
+460,230,564,Certified ScrumMaster (CSM),zendphpecertifiedengineer.org,2023-11-03,2022-10-13,5/19/2023,pending
+461,315,454,Oracle Certified Professional,powerbiexampractice.com,2024-01-20,2021-05-11,12/15/2021,Not Approved
+462,321,450,Java Certification (offered by Oracle),powerbiexampractice.com,2024-02-03,2020-04-16,9/21/2020,Not Approved
+463,354,59,Azure Data Engineer Associate,toastmastersinternationalcertifications.com,2023-09-05,2012-06-04,11/24/2012,pending
+464,144,174,Azure Data Engineer Associate,oraclejavacertification.org,2023-10-21,2012-07-10,2/13/2013,Not Approved
+465,673,465,SnowPro Core Certification,pythoninstitutecertifications.com,2023-05-11,2019-07-22,1/8/2020,Approved
+466,263,211,Presentation Design Certification,powerbiexampractice.com,2023-06-20,2021-12-29,12/29/2022,Not Approved
+467,539,933,Toastmasters International Certifications Professional Presentation Skills,zendphpecertifiedengineer.org,2024-03-04,2017-02-26,1/30/2018,Approved
+468,118,349,Snowflake Certified SnowPro,powerbiexampractice.com,2024-02-04,2022-09-10,10/15/2022,Not Approved
+469,212,929,Certified Python Developer,zendphpecertifiedengineer.org,2023-12-07,2013-03-16,1/24/2014,Not Approved
+470,219,507,PHP Certification,sqldeveloper-certification.org,2023-06-12,2017-12-07,9/23/2018,Approved
+471,409,411,Microsoft Certified: Data Analyst Associate,certifiedpythondeveloper.org,2023-12-01,2019-10-27,9/18/2020,Approved
+472,970,833,SnowPro Core Certification,microsoftdataanalystassociate.net,2024-01-08,2015-02-01,1/3/2016,Not Approved
+473,50,974,Toastmasters International Certifications Professional Presentation Skills,oraclejavacertification.org,2023-09-11,2021-11-26,3/8/2022,pending
+474,651,309,Microsoft Certified: Data Analyst Associate,presentationdesigncertification.org,2023-05-02,2016-04-01,7/4/2016,pending
+475,284,972,Zend Certified PHP Engineer,microsoftdataanalystassociate.net,2023-11-05,2010-11-29,12/27/2010,pending
+476,771,334,React Developer Nanodegree,pythoninstitutecertifications.com,2023-08-14,2019-05-07,8/10/2019,Approved
+477,114,220,SnowPro Core Certification,toastmastersinternationalcertifications.com,2023-06-26,2019-12-18,10/12/2020,Approved
+478,820,799,Project Management Professional (PMP) Certification,oraclejavaprofessional.com,2023-07-19,2015-11-02,8/2/2016,Not Approved
+479,721,426,Azure Data Engineer Associate,phpcertification.net,2024-03-15,2021-06-28,4/11/2022,pending
+480,724,867,Certified ScrumMaster (CSM),reactdevelopernanodegree.com,2023-09-01,2015-12-04,12/27/2015,Approved
+481,210,994,Python Institute Certifications,certifiedscrummaster.org,2023-10-06,2011-09-19,9/3/2012,pending
+482,427,552,Python Institute Certifications,certifiedscrummaster.org,2023-07-31,2020-05-09,12/10/2020,Approved
+483,820,526,Certified Python Developer,reactdevelopernanodegree.com,2023-07-16,2021-02-03,12/11/2021,pending
+484,23,828,Graphic Design Certifications,certifiedscrummaster.org,2024-04-05,2013-02-10,6/21/2013,Not Approved
+485,307,844,Microsoft Certified: Data Analyst Associate,pmpprofessionalcertification.net,2024-01-28,2023-05-06,3/1/2024,pending
+486,544,606,Presentation Design Certification,certifiedscrummaster.org,2023-10-30,2015-12-25,5/20/2016,Not Approved
+487,119,796,Python Institute Certifications,microsoftdataanalystassociate.net,2023-11-29,2024-02-04,7/30/2024,Not Approved
+488,420,823,Certified ScrumMaster (CSM),pythoninstitutecertifications.com,2023-06-06,2013-06-23,11/14/2013,Approved
+489,863,829,Oracle Certified Professional,pythoninstitutecertifications.com,2024-02-14,2019-10-17,7/2/2020,pending
+490,827,775,Java Certification (offered by Oracle),snowflakecertifiedsnowpro.com,2024-02-25,2022-02-23,3/21/2022,Not Approved
+491,307,212,Certified ScrumMaster (CSM),reactdevelopernanodegree.com,2023-04-19,2010-08-25,2/14/2011,Approved
+492,435,545,PHP Certification,professionalpresentationskills.org,2024-01-21,2024-02-07,3/4/2024,Not Approved
+493,156,126,Zend Certified PHP Engineer,pythoninstitutecertifications.com,2023-04-21,2017-01-19,1/7/2018,pending
+494,398,782,Oracle Certified Professional,snowflakecertifiedsnowpro.com,2024-02-02,2011-10-17,5/19/2012,pending
+495,30,682,Java Certification (offered by Oracle),powerbiexampractice.com,2023-11-24,2014-04-26,8/15/2014,Approved
+496,85,16,Java SE Programmer,oraclejavaprofessional.com,2023-10-23,2019-04-07,6/3/2019,pending
+497,460,419,Toastmasters International Certifications Professional Presentation Skills,microsoftdataanalystassociate.net,2023-12-16,2013-08-31,10/28/2013,Not Approved
+498,759,123,React Developer Nanodegree,presentationdesigncertification.org,2023-09-01,2015-06-24,9/30/2015,pending
+499,901,56,SnowPro Core Certification,powerbiexampractice.com,2023-11-13,2013-03-13,3/10/2014,pending
+500,910,427,Python Institute Certifications,reactdevelopernanodegree.com,2023-11-22,2023-02-21,11/13/2023,Approved
+501,90,686,SnowPro Core Certification,powerbiexampractice.com,2024-02-21,2017-02-13,6/26/2017,Approved
+502,593,240,SnowPro Core Certification,snowflakecertifiedsnowpro.com,2024-02-14,2020-06-16,12/3/2020,pending
+503,188,633,Certified ScrumMaster (CSM),sqldeveloper-certification.org,2024-04-02,2015-12-14,11/2/2016,Not Approved
+504,550,450,Java SE Programmer,reactdevelopernanodegree.com,2023-06-03,2020-09-18,4/19/2021,pending
+505,239,217,Toastmasters International Certifications Professional Presentation Skills,phpcertification.net,2024-02-02,2020-04-08,11/12/2020,Approved
+506,138,84,SQL Developer Certification,powerbiexampractice.com,2023-08-02,2023-06-27,5/6/2024,pending
+507,216,137,PHP Certification,pythoninstitutecertifications.com,2024-03-30,2021-07-11,10/15/2021,Approved
+508,561,203,Azure Data Engineer Associate,sqldeveloper-certification.org,2023-05-23,2016-10-31,11/5/2016,Approved
+509,523,809,SnowPro Core Certification,certifiedscrummaster.org,2023-04-08,2022-09-23,5/3/2023,Not Approved
+510,306,528,Oracle Certified Professional,reactdevelopernanodegree.com,2023-10-11,2011-03-25,9/26/2011,Approved
+511,204,629,SQL Developer Certification,snowprocorecertification.net,2023-09-26,2013-05-18,11/20/2013,pending
+512,846,311,Snowflake Certified SnowPro,snowprocorecertification.net,2023-05-21,2016-09-28,11/6/2016,pending
+513,603,476,SnowPro Core Certification,zendphpecertifiedengineer.org,2023-06-07,2022-10-20,9/5/2023,Not Approved
+514,209,656,Graphic Design Certifications,sqldeveloper-certification.org,2023-04-14,2019-07-28,12/24/2019,Approved
+515,637,27,Java SE Programmer,toastmastersinternationalcertifications.com,2023-12-31,2011-10-31,1/14/2012,Not Approved
+516,486,501,React Certification,professionalpresentationskills.org,2023-09-20,2016-01-10,9/14/2016,Approved
+517,57,774,React Certification,certifiedscrummaster.org,2023-12-14,2022-10-01,5/8/2023,pending
+518,703,857,Certified ScrumMaster (CSM),pmpprofessionalcertification.net,2023-10-10,2016-12-30,9/26/2017,Not Approved
+519,230,700,Analyzing and Visualizing Data with Microsoft Power BI,certifiedpythondeveloper.org,2023-06-27,2016-10-01,9/1/2017,Not Approved
+520,595,883,React Developer Nanodegree,powerbiexampractice.com,2023-10-02,2015-01-19,6/7/2015,pending
+521,382,638,Java Certification (offered by Oracle),oraclejavaprofessional.com,2023-11-16,2023-09-13,1/2/2024,Approved
+522,27,491,Python Institute Certifications,oraclejavaprofessional.com,2023-11-19,2012-04-12,1/3/2013,pending
+523,912,985,React Developer Nanodegree,snowflakecertifiedsnowpro.com,2024-02-03,2019-11-01,9/28/2020,pending
+524,67,354,Project Management Professional (PMP) Certification,powerbiexampractice.com,2023-09-05,2011-06-07,2/6/2012,Approved
+525,233,592,Azure Data Engineer Associate,oraclejavaprofessional.com,2023-12-21,2012-04-22,4/7/2013,pending
+526,766,145,Zend Certified PHP Engineer,snowprocorecertification.net,2024-04-03,2010-08-20,1/17/2011,pending
+527,817,421,React Certification,graphicdesigncertifications.net,2023-08-31,2022-06-07,9/6/2022,Not Approved
+528,390,766,Presentation Design Certification,zendphpecertifiedengineer.org,2024-01-10,2020-03-03,1/6/2021,Not Approved
+529,638,796,Microsoft Certified: Data Analyst Associate,professionalpresentationskills.org,2023-12-05,2018-07-27,3/25/2019,Not Approved
+530,806,271,Zend Certified PHP Engineer,snowflakecertifiedsnowpro.com,2024-01-10,2015-02-06,7/27/2015,Not Approved
+531,464,577,Azure Data Engineer Associate,oraclejavaprofessional.com,2023-12-13,2014-12-25,5/15/2015,pending
+532,359,612,SnowPro Core Certification,presentationdesigncertification.org,2024-03-23,2023-11-02,1/31/2024,Not Approved
+533,491,63,Graphic Design Certifications,toastmastersinternationalcertifications.com,2023-04-12,2012-10-21,3/31/2013,pending
+534,754,110,Java SE Programmer,certifiedscrummaster.org,2023-05-08,2017-12-31,11/1/2018,pending
+535,578,364,Graphic Design Certifications,reactdevelopernanodegree.com,2024-02-18,2015-02-04,2/17/2015,Not Approved
+536,431,724,Certified Python Developer,certifiedpythondeveloper.org,2023-08-25,2020-09-22,4/3/2021,pending
+537,456,532,SQL Developer Certification,presentationdesigncertification.org,2023-09-18,2013-06-06,11/18/2013,pending
+538,975,328,SQL Developer Certification,sqldeveloper-certification.org,2023-10-21,2021-05-11,2/6/2022,pending
+539,82,749,Project Management Professional (PMP) Certification,toastmastersinternationalcertifications.com,2024-03-12,2018-05-25,6/7/2018,Approved
+540,286,14,Snowflake Certified SnowPro,reactdevelopernanodegree.com,2023-05-16,2015-06-14,2/6/2016,Approved
+541,857,707,PHP Certification,toastmastersinternationalcertifications.com,2024-03-18,2016-11-15,11/30/2016,Not Approved
+542,183,835,Snowflake Certified SnowPro,microsoftdataanalystassociate.net,2023-04-18,2018-09-03,9/5/2018,pending
+543,8,541,React Developer Nanodegree,pmpprofessionalcertification.net,2024-02-03,2016-04-06,9/20/2016,Approved
+544,480,170,Project Management Professional (PMP) Certification,microsoftdataanalystassociate.net,2023-04-14,2011-02-03,10/3/2011,pending
+545,556,27,Toastmasters International Certifications Professional Presentation Skills,snowflakecertifiedsnowpro.com,2024-04-02,2018-08-14,12/22/2018,pending
+546,872,933,Toastmasters International Certifications Professional Presentation Skills,presentationdesigncertification.org,2023-12-10,2014-11-29,5/12/2015,Approved
+547,159,373,Java SE Programmer,professionalpresentationskills.org,2023-07-11,2015-05-03,2/20/2016,pending
+548,570,859,Azure Data Engineer Associate,pmpprofessionalcertification.net,2024-01-22,2015-02-17,8/2/2015,Approved
+549,8,729,Java SE Programmer,pythoninstitutecertifications.com,2023-06-15,2010-12-01,1/4/2011,Approved
+550,98,66,Azure Data Engineer Associate,zendphpecertifiedengineer.org,2023-04-23,2015-11-09,2/6/2016,pending
+551,819,239,React Developer Nanodegree,reactdevelopernanodegree.com,2024-03-14,2017-09-28,4/5/2018,Not Approved
+552,133,881,SnowPro Core Certification,professionalpresentationskills.org,2024-02-16,2013-08-31,8/28/2014,Not Approved
+553,267,854,Azure Data Engineer Associate,zendphpecertifiedengineer.org,2023-05-31,2011-07-14,5/3/2012,Approved
+554,432,749,Oracle Certified Professional,oraclejavacertification.org,2023-06-03,2016-04-18,11/12/2016,pending
+555,412,915,Java SE Programmer,zendphpecertifiedengineer.org,2024-02-19,2016-12-03,9/29/2017,Approved
+556,950,864,React Developer Nanodegree,graphicdesigncertifications.net,2023-04-22,2016-11-08,3/26/2017,Approved
+557,588,793,Certified Python Developer,zendphpecertifiedengineer.org,2023-07-23,2019-08-15,7/17/2020,Not Approved
+558,466,513,Zend Certified PHP Engineer,reactdevelopernanodegree.com,2023-05-17,2016-12-20,6/10/2017,Not Approved
+559,658,606,Toastmasters International Certifications Professional Presentation Skills,pythoninstitutecertifications.com,2023-08-01,2021-05-20,1/10/2022,pending
+560,225,935,Python Institute Certifications,reactdevelopernanodegree.com,2023-04-18,2020-09-06,5/11/2021,Not Approved
+561,403,436,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2023-05-18,2017-06-11,11/15/2017,pending
+562,98,881,Toastmasters International Certifications Professional Presentation Skills,professionalpresentationskills.org,2023-07-22,2011-05-25,5/24/2012,Not Approved
+563,231,437,React Developer Nanodegree,oraclejavacertification.org,2024-01-25,2013-07-24,5/20/2014,Not Approved
+564,226,666,Graphic Design Certifications,toastmastersinternationalcertifications.com,2023-06-17,2011-11-30,9/23/2012,pending
+565,533,695,Certified ScrumMaster (CSM),snowflakecertifiedsnowpro.com,2023-10-10,2022-10-08,4/3/2023,Approved
+566,182,589,Java Certification (offered by Oracle),pythoninstitutecertifications.com,2024-01-11,2017-08-13,12/1/2017,pending
+567,900,945,Toastmasters International Certifications Professional Presentation Skills,pmpprofessionalcertification.net,2023-08-15,2016-03-25,4/12/2016,Not Approved
+568,999,470,Zend Certified PHP Engineer,certifiedscrummaster.org,2023-07-02,2019-12-09,10/11/2020,pending
+569,105,256,Project Management Professional (PMP) Certification,reactdevelopernanodegree.com,2023-08-23,2022-04-27,8/22/2022,pending
+570,888,144,Certified ScrumMaster (CSM),pmpprofessionalcertification.net,2023-09-28,2020-02-20,7/14/2020,pending
+571,610,830,Snowflake Certified SnowPro,pythoninstitutecertifications.com,2023-11-01,2013-05-28,3/10/2014,Approved
+572,604,666,SQL Developer Certification,oraclejavaprofessional.com,2024-03-15,2022-10-14,4/15/2023,Approved
+573,265,30,Zend Certified PHP Engineer,sqldeveloper-certification.org,2023-04-11,2016-11-12,2/5/2017,Approved
+574,849,413,PHP Certification,sqldeveloper-certification.org,2023-07-06,2023-06-26,5/6/2024,Not Approved
+575,146,58,Certified Python Developer,presentationdesigncertification.org,2023-10-09,2019-11-26,5/17/2020,Approved
+576,724,479,React Developer Nanodegree,toastmastersinternationalcertifications.com,2023-10-04,2021-12-13,8/31/2022,Approved
+577,469,860,Certified ScrumMaster (CSM),professionalpresentationskills.org,2023-12-01,2020-04-15,10/9/2020,Not Approved
+578,917,731,Python Institute Certifications,snowflakecertifiedsnowpro.com,2023-09-03,2012-02-12,6/7/2012,pending
+579,456,303,SnowPro Core Certification,snowprocorecertification.net,2023-07-07,2013-07-25,4/15/2014,Approved
+580,675,976,Graphic Design Certifications,toastmastersinternationalcertifications.com,2023-06-20,2021-03-08,12/31/2021,Not Approved
+581,114,890,Toastmasters International Certifications Professional Presentation Skills,graphicdesigncertifications.net,2023-09-09,2017-02-19,5/8/2017,Not Approved
+582,304,932,Certified ScrumMaster (CSM),snowprocorecertification.net,2023-10-03,2021-09-17,5/20/2022,Approved
+583,859,843,SnowPro Core Certification,graphicdesigncertifications.net,2023-07-16,2014-07-09,7/9/2015,Not Approved
+584,979,893,Certified ScrumMaster (CSM),graphicdesigncertifications.net,2023-07-19,2014-07-21,3/5/2015,Not Approved
+585,445,187,Presentation Design Certification,phpcertification.net,2024-02-28,2012-10-17,4/5/2013,Approved
+586,385,546,SQL Developer Certification,microsoftdataanalystassociate.net,2023-09-16,2019-02-26,9/30/2019,Not Approved
+587,352,913,Snowflake Certified SnowPro,phpcertification.net,2023-10-18,2013-04-17,12/2/2013,Not Approved
+588,53,786,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2023-10-07,2023-10-04,1/22/2024,Approved
+589,774,546,SnowPro Core Certification,powerbiexampractice.com,2024-02-12,2014-12-31,9/23/2015,Not Approved
+590,787,641,React Certification,graphicdesigncertifications.net,2024-01-30,2018-05-11,8/10/2018,Approved
+591,864,627,React Certification,pmpprofessionalcertification.net,2023-07-18,2015-10-26,3/20/2016,Approved
+592,171,267,Zend Certified PHP Engineer,presentationdesigncertification.org,2024-01-22,2013-09-30,9/25/2014,Approved
+593,824,232,SnowPro Core Certification,certifiedscrummaster.org,2023-04-16,2012-01-14,8/8/2012,Not Approved
+594,637,339,SnowPro Core Certification,snowflakecertifiedsnowpro.com,2024-02-13,2022-12-02,11/26/2023,pending
+595,941,13,Microsoft Certified: Data Analyst Associate,snowflakecertifiedsnowpro.com,2023-04-10,2023-11-04,2/1/2024,Approved
+596,720,289,Java SE Programmer,microsoftdataanalystassociate.net,2024-03-23,2011-02-26,4/4/2011,pending
+597,576,889,Project Management Professional (PMP) Certification,pmpprofessionalcertification.net,2023-06-23,2016-01-20,3/5/2016,pending
+598,760,189,Microsoft Certified: Data Analyst Associate,presentationdesigncertification.org,2023-11-03,2018-08-19,3/12/2019,pending
+599,407,248,Oracle Certified Professional,snowflakecertifiedsnowpro.com,2023-06-11,2018-11-24,4/7/2019,Approved
+600,995,902,Presentation Design Certification,toastmastersinternationalcertifications.com,2023-11-20,2019-04-22,8/10/2019,Approved
+601,859,350,Python Institute Certifications,powerbiexampractice.com,2023-08-12,2013-05-10,5/25/2013,Not Approved
+602,225,996,Analyzing and Visualizing Data with Microsoft Power BI,snowflakecertifiedsnowpro.com,2023-09-12,2019-02-24,9/9/2019,pending
+603,203,666,Snowflake Certified SnowPro,presentationdesigncertification.org,2024-01-22,2018-03-18,1/15/2019,pending
+604,773,972,Java Certification (offered by Oracle),sqldeveloper-certification.org,2023-09-23,2021-03-23,4/1/2021,Approved
+605,10,303,Graphic Design Certifications,reactcertification.org,2023-08-19,2022-07-30,4/20/2023,pending
+606,223,567,Oracle Certified Professional,reactdevelopernanodegree.com,2023-09-07,2015-03-05,8/14/2015,pending
+607,775,281,SnowPro Core Certification,phpcertification.net,2024-03-04,2010-10-07,4/25/2011,Approved
+608,82,762,Microsoft Certified: Data Analyst Associate,reactdevelopernanodegree.com,2023-11-13,2011-10-21,10/8/2012,Approved
+609,346,576,Graphic Design Certifications,graphicdesigncertifications.net,2023-07-21,2018-03-05,10/5/2018,pending
+610,797,612,Microsoft Certified: Data Analyst Associate,certifiedscrummaster.org,2023-11-28,2016-07-21,7/10/2017,Approved
+611,79,530,Zend Certified PHP Engineer,microsoftdataanalystassociate.net,2024-01-30,2011-12-15,2/15/2012,pending
+612,732,973,Certified ScrumMaster (CSM),certifiedscrummaster.org,2023-09-28,2018-07-21,1/28/2019,Not Approved
+613,147,673,Oracle Certified Professional,presentationdesigncertification.org,2023-11-04,2012-07-07,3/30/2013,Not Approved
+614,840,439,React Developer Nanodegree,toastmastersinternationalcertifications.com,2023-06-09,2021-09-10,12/7/2021,Not Approved
+615,775,693,Python Institute Certifications,presentationdesigncertification.org,2023-08-23,2015-03-25,12/14/2015,Not Approved
+616,996,176,React Certification,phpcertification.net,2023-04-15,2012-06-29,7/25/2012,Approved
+617,249,64,PHP Certification,sqldeveloper-certification.org,2024-04-02,2013-03-21,10/11/2013,pending
+618,579,958,Zend Certified PHP Engineer,reactcertification.org,2023-06-28,2016-10-17,11/6/2016,Approved
+619,18,324,React Developer Nanodegree,pythoninstitutecertifications.com,2023-09-15,2019-07-05,4/29/2020,pending
+620,209,635,Presentation Design Certification,reactcertification.org,2023-11-20,2013-12-25,7/14/2014,Approved
+621,95,394,React Developer Nanodegree,professionalpresentationskills.org,2023-08-10,2010-10-18,7/31/2011,Not Approved
+622,297,234,PHP Certification,snowprocorecertification.net,2023-05-23,2016-02-02,10/21/2016,Not Approved
+623,639,363,Snowflake Certified SnowPro,certifiedscrummaster.org,2023-07-05,2022-03-21,12/30/2022,pending
+624,607,733,Azure Data Engineer Associate,snowflakecertifiedsnowpro.com,2023-12-02,2012-11-12,1/13/2013,Approved
+625,53,920,Presentation Design Certification,microsoftdataanalystassociate.net,2023-11-21,2014-03-25,5/8/2014,Approved
+626,271,880,Zend Certified PHP Engineer,zendphpecertifiedengineer.org,2023-07-14,2013-07-09,1/25/2014,Not Approved
+627,343,195,SQL Developer Certification,reactcertification.org,2023-12-17,2013-03-16,9/15/2013,pending
+628,914,84,React Certification,snowflakecertifiedsnowpro.com,2024-03-31,2012-10-08,3/10/2013,Not Approved
+629,498,107,SnowPro Core Certification,reactdevelopernanodegree.com,2024-03-15,2023-10-11,4/15/2024,pending
+630,548,199,Microsoft Certified: Data Analyst Associate,certifiedscrummaster.org,2023-06-25,2018-09-20,2/28/2019,Approved
+631,975,93,Toastmasters International Certifications Professional Presentation Skills,snowprocorecertification.net,2023-06-10,2020-12-16,12/13/2021,pending
+632,127,436,Certified Python Developer,sqldeveloper-certification.org,2023-08-19,2014-01-16,5/7/2014,pending
+633,420,833,Zend Certified PHP Engineer,reactcertification.org,2023-04-21,2015-06-21,2/19/2016,Approved
+634,130,469,Graphic Design Certifications,snowflakecertifiedsnowpro.com,2023-08-13,2018-03-01,3/6/2018,Approved
+635,807,669,Java SE Programmer,professionalpresentationskills.org,2023-04-23,2016-05-09,12/13/2016,Approved
+636,218,413,Graphic Design Certifications,toastmastersinternationalcertifications.com,2023-12-10,2018-04-19,3/22/2019,Not Approved
+637,888,722,Zend Certified PHP Engineer,phpcertification.net,2024-03-19,2014-08-02,12/8/2014,Not Approved
+638,315,766,Zend Certified PHP Engineer,graphicdesigncertifications.net,2023-08-16,2024-01-10,6/16/2024,Approved
+639,491,861,React Certification,graphicdesigncertifications.net,2023-12-02,2021-12-26,11/30/2022,Approved
+640,407,756,Presentation Design Certification,certifiedscrummaster.org,2023-04-11,2014-05-22,4/13/2015,Approved
+641,163,470,Microsoft Certified: Data Analyst Associate,microsoftdataanalystassociate.net,2023-07-13,2021-09-02,5/12/2022,Approved
+642,948,57,React Certification,toastmastersinternationalcertifications.com,2024-03-28,2011-06-15,4/18/2012,pending
+643,614,399,Certified Python Developer,sqldeveloper-certification.org,2023-08-24,2022-11-18,4/15/2023,Approved
+644,179,715,Certified Python Developer,toastmastersinternationalcertifications.com,2024-03-23,2014-12-10,11/11/2015,Approved
+645,598,773,Python Institute Certifications,pythoninstitutecertifications.com,2023-10-09,2021-06-19,10/23/2021,pending
+646,728,131,React Certification,presentationdesigncertification.org,2023-07-22,2016-04-20,1/1/2017,Not Approved
+647,399,607,Microsoft Certified: Data Analyst Associate,reactdevelopernanodegree.com,2023-09-11,2017-06-27,6/16/2018,pending
+648,564,729,Python Institute Certifications,reactdevelopernanodegree.com,2023-05-24,2012-11-12,11/15/2012,Not Approved
+649,132,577,SnowPro Core Certification,reactcertification.org,2023-11-03,2013-11-11,5/10/2014,pending
+650,385,893,PHP Certification,snowprocorecertification.net,2023-04-24,2021-10-06,11/27/2021,Not Approved
+651,369,996,React Developer Nanodegree,phpcertification.net,2023-09-30,2019-05-28,7/12/2019,Not Approved
+652,466,397,React Developer Nanodegree,microsoftdataanalystassociate.net,2023-07-22,2013-09-09,5/31/2014,Not Approved
+653,427,916,Java SE Programmer,graphicdesigncertifications.net,2023-09-01,2016-09-09,6/13/2017,Approved
+654,805,31,Graphic Design Certifications,certifiedpythondeveloper.org,2024-03-29,2022-05-07,5/29/2022,Not Approved
+655,100,295,Certified ScrumMaster (CSM),snowprocorecertification.net,2024-02-16,2012-08-03,4/11/2013,Not Approved
+656,463,68,SnowPro Core Certification,pmpprofessionalcertification.net,2024-03-14,2016-05-23,11/3/2016,pending
+657,158,897,Azure Data Engineer Associate,powerbiexampractice.com,2023-04-22,2015-05-19,7/14/2015,Not Approved
+658,811,730,Graphic Design Certifications,snowflakecertifiedsnowpro.com,2024-03-03,2012-09-25,3/15/2013,pending
+659,357,85,Certified ScrumMaster (CSM),zendphpecertifiedengineer.org,2023-07-27,2014-07-14,1/1/2015,Approved
+660,700,707,Toastmasters International Certifications Professional Presentation Skills,sqldeveloper-certification.org,2023-11-10,2017-06-26,3/26/2018,Approved
+661,40,897,Microsoft Certified: Data Analyst Associate,reactcertification.org,2023-10-04,2010-12-21,11/19/2011,Not Approved
+662,99,391,Java Certification (offered by Oracle),sqldeveloper-certification.org,2023-05-06,2023-08-07,2/18/2024,Approved
+663,666,257,SnowPro Core Certification,microsoftdataanalystassociate.net,2023-10-13,2023-04-07,2/15/2024,pending
+664,17,392,Zend Certified PHP Engineer,reactcertification.org,2023-05-24,2012-07-27,10/12/2012,Approved
+665,353,616,Certified ScrumMaster (CSM),oraclejavacertification.org,2024-02-04,2022-11-19,1/4/2023,Not Approved
+666,249,759,SQL Developer Certification,reactdevelopernanodegree.com,2023-08-13,2020-06-29,4/20/2021,Not Approved
+667,104,496,Toastmasters International Certifications Professional Presentation Skills,certifiedpythondeveloper.org,2024-01-11,2022-02-04,11/20/2022,pending
+668,509,790,Analyzing and Visualizing Data with Microsoft Power BI,toastmastersinternationalcertifications.com,2023-05-03,2014-12-11,12/19/2014,Approved
+669,72,38,SQL Developer Certification,professionalpresentationskills.org,2023-09-06,2019-11-22,1/31/2020,Not Approved
+670,566,124,Azure Data Engineer Associate,microsoftdataanalystassociate.net,2023-08-11,2022-10-31,10/18/2023,Not Approved
+671,856,946,Presentation Design Certification,zendphpecertifiedengineer.org,2023-09-04,2016-09-16,4/12/2017,pending
+672,80,85,Toastmasters International Certifications Professional Presentation Skills,oraclejavaprofessional.com,2024-02-11,2021-07-16,2/3/2022,Not Approved
+673,175,704,React Certification,sqldeveloper-certification.org,2024-03-09,2012-05-19,4/29/2013,Approved
+674,857,35,Oracle Certified Professional,certifiedpythondeveloper.org,2023-12-10,2012-03-31,2/9/2013,Approved
+675,369,976,React Certification,zendphpecertifiedengineer.org,2023-06-23,2017-11-24,2/4/2018,Not Approved
+676,233,213,React Developer Nanodegree,graphicdesigncertifications.net,2023-12-05,2012-07-11,9/6/2012,pending
+677,704,852,Zend Certified PHP Engineer,presentationdesigncertification.org,2023-07-17,2012-10-07,11/11/2012,pending
+678,512,353,Certified ScrumMaster (CSM),zendphpecertifiedengineer.org,2023-05-19,2023-08-23,4/1/2024,Approved
+679,330,521,Zend Certified PHP Engineer,certifiedpythondeveloper.org,2024-04-01,2018-11-26,2/20/2019,Approved
+680,446,410,Presentation Design Certification,snowprocorecertification.net,2023-12-19,2012-07-28,10/29/2012,Approved
+681,293,169,Presentation Design Certification,certifiedpythondeveloper.org,2023-04-24,2015-12-18,10/28/2016,Approved
+682,301,169,Microsoft Certified: Data Analyst Associate,microsoftdataanalystassociate.net,2023-12-12,2012-08-07,11/6/2012,Not Approved
+683,351,86,Graphic Design Certifications,oraclejavacertification.org,2023-12-11,2019-11-15,11/22/2019,Not Approved
+684,655,791,Toastmasters International Certifications Professional Presentation Skills,phpcertification.net,2023-08-29,2013-06-10,11/7/2013,Not Approved
+685,115,352,Graphic Design Certifications,graphicdesigncertifications.net,2023-12-29,2011-03-14,1/23/2012,Approved
+686,466,432,Azure Data Engineer Associate,certifiedscrummaster.org,2023-08-28,2018-02-24,7/19/2018,Approved
+687,547,519,Certified ScrumMaster (CSM),certifiedpythondeveloper.org,2023-10-17,2019-08-02,9/21/2019,pending
+688,124,456,Certified ScrumMaster (CSM),oraclejavaprofessional.com,2024-02-26,2022-04-10,10/17/2022,Approved
+689,8,409,SnowPro Core Certification,graphicdesigncertifications.net,2023-06-12,2022-05-20,9/23/2022,Approved
+690,532,994,Java Certification (offered by Oracle),pmpprofessionalcertification.net,2024-03-28,2018-02-22,5/23/2018,Not Approved
+691,643,87,Snowflake Certified SnowPro,oraclejavacertification.org,2023-12-24,2018-03-27,4/6/2018,Not Approved
+692,23,778,Python Institute Certifications,phpcertification.net,2023-04-25,2023-08-08,3/22/2024,Not Approved
+693,59,529,Snowflake Certified SnowPro,certifiedpythondeveloper.org,2023-05-22,2019-11-06,7/28/2020,pending
+694,920,752,Graphic Design Certifications,zendphpecertifiedengineer.org,2023-06-26,2013-02-16,5/12/2013,pending
+695,141,142,Certified Python Developer,graphicdesigncertifications.net,2023-10-26,2010-09-02,10/14/2010,Approved
+696,702,553,Toastmasters International Certifications Professional Presentation Skills,certifiedscrummaster.org,2023-11-03,2019-09-24,6/11/2020,pending
+697,265,515,Analyzing and Visualizing Data with Microsoft Power BI,certifiedscrummaster.org,2023-06-18,2012-10-14,6/2/2013,pending
+698,526,696,Graphic Design Certifications,certifiedscrummaster.org,2024-02-28,2015-06-17,6/24/2015,Not Approved
+699,591,196,Graphic Design Certifications,pythoninstitutecertifications.com,2023-10-30,2011-02-06,12/15/2011,Approved
+700,848,650,Oracle Certified Professional,snowflakecertifiedsnowpro.com,2024-01-12,2013-08-11,2/11/2014,Approved
+701,384,314,Analyzing and Visualizing Data with Microsoft Power BI,certifiedpythondeveloper.org,2023-09-10,2023-08-21,9/8/2023,pending
+702,222,94,React Developer Nanodegree,oraclejavaprofessional.com,2023-04-08,2023-09-21,6/14/2024,pending
+703,36,744,Certified Python Developer,oraclejavacertification.org,2023-08-30,2020-07-24,8/1/2020,Approved
+704,170,215,Presentation Design Certification,professionalpresentationskills.org,2023-10-20,2024-03-13,1/24/2025,pending
+705,373,63,Java Certification (offered by Oracle),sqldeveloper-certification.org,2023-05-15,2021-06-21,11/25/2021,pending
+706,54,575,Snowflake Certified SnowPro,pythoninstitutecertifications.com,2023-05-08,2015-11-14,3/2/2016,Approved
+707,199,728,PHP Certification,presentationdesigncertification.org,2023-08-28,2021-05-18,9/20/2021,pending
+708,132,196,React Certification,professionalpresentationskills.org,2024-03-01,2012-09-22,11/23/2012,Approved
+709,512,568,Certified Python Developer,zendphpecertifiedengineer.org,2023-12-05,2014-02-28,3/14/2014,pending
+710,338,672,Certified ScrumMaster (CSM),snowflakecertifiedsnowpro.com,2023-06-07,2013-05-15,6/4/2013,pending
+711,757,943,PHP Certification,certifiedpythondeveloper.org,2024-03-27,2018-04-24,11/25/2018,pending
+712,558,409,Certified ScrumMaster (CSM),professionalpresentationskills.org,2023-07-26,2018-11-24,5/12/2019,Approved
+713,13,309,Python Institute Certifications,toastmastersinternationalcertifications.com,2023-12-19,2021-02-01,11/16/2021,pending
+714,195,203,Java SE Programmer,snowflakecertifiedsnowpro.com,2023-08-05,2016-06-10,8/6/2016,pending
+715,737,413,React Developer Nanodegree,zendphpecertifiedengineer.org,2023-06-25,2023-09-28,3/17/2024,pending
+716,68,143,Python Institute Certifications,reactdevelopernanodegree.com,2023-10-17,2018-04-02,2/18/2019,pending
+717,13,292,Certified ScrumMaster (CSM),microsoftdataanalystassociate.net,2023-10-08,2018-07-27,5/18/2019,Approved
+718,158,919,Microsoft Certified: Data Analyst Associate,zendphpecertifiedengineer.org,2023-09-03,2020-12-25,11/14/2021,Not Approved
+719,164,698,React Certification,phpcertification.net,2023-06-19,2015-10-30,5/12/2016,Approved
+720,331,891,PHP Certification,certifiedscrummaster.org,2023-06-04,2016-10-24,1/26/2017,Approved
+721,363,941,Toastmasters International Certifications Professional Presentation Skills,powerbiexampractice.com,2024-01-09,2018-03-17,3/11/2019,Not Approved
+722,28,216,Project Management Professional (PMP) Certification,reactdevelopernanodegree.com,2023-12-20,2014-05-11,1/24/2015,pending
+723,2,899,Zend Certified PHP Engineer,snowflakecertifiedsnowpro.com,2023-10-24,2016-06-17,3/28/2017,Not Approved
+724,272,130,Toastmasters International Certifications Professional Presentation Skills,oraclejavacertification.org,2024-01-05,2013-01-02,5/27/2013,Approved
+725,288,267,Microsoft Certified: Data Analyst Associate,pmpprofessionalcertification.net,2023-05-18,2016-03-11,11/30/2016,Not Approved
+726,472,923,Toastmasters International Certifications Professional Presentation Skills,graphicdesigncertifications.net,2023-08-20,2017-11-04,5/21/2018,Not Approved
+727,101,846,Java Certification (offered by Oracle),sqldeveloper-certification.org,2024-04-01,2014-08-06,4/24/2015,Not Approved
+728,942,211,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2023-10-20,2014-01-06,9/23/2014,Not Approved
+729,678,956,SnowPro Core Certification,sqldeveloper-certification.org,2024-04-06,2017-06-13,2/2/2018,Not Approved
+730,69,816,Certified ScrumMaster (CSM),reactdevelopernanodegree.com,2023-11-02,2011-07-28,2/22/2012,pending
+731,340,815,Python Institute Certifications,sqldeveloper-certification.org,2023-07-25,2018-10-13,12/4/2018,Not Approved
+732,830,219,Certified Python Developer,powerbiexampractice.com,2023-08-13,2022-11-19,8/22/2023,Approved
+733,363,921,SnowPro Core Certification,certifiedpythondeveloper.org,2023-04-14,2014-05-10,10/14/2014,Not Approved
+734,193,431,Python Institute Certifications,zendphpecertifiedengineer.org,2024-01-11,2017-09-07,12/17/2017,pending
+735,139,183,SnowPro Core Certification,microsoftdataanalystassociate.net,2023-09-09,2022-11-20,8/21/2023,pending
+736,50,681,Oracle Certified Professional,reactdevelopernanodegree.com,2023-05-30,2019-03-30,4/11/2019,pending
+737,191,893,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2023-06-20,2022-05-22,1/13/2023,pending
+738,885,62,Certified Python Developer,presentationdesigncertification.org,2024-03-03,2012-08-30,1/13/2013,Not Approved
+739,7,606,React Developer Nanodegree,reactdevelopernanodegree.com,2024-02-17,2016-02-12,3/31/2016,Not Approved
+740,113,691,Oracle Certified Professional,oraclejavaprofessional.com,2024-01-04,2021-02-08,6/21/2021,Approved
+741,503,684,React Certification,oraclejavaprofessional.com,2023-12-09,2015-07-06,6/28/2016,Approved
+742,814,905,React Developer Nanodegree,reactcertification.org,2023-07-03,2011-09-15,3/26/2012,Approved
+743,574,841,Snowflake Certified SnowPro,pmpprofessionalcertification.net,2024-01-29,2015-12-08,1/28/2016,Approved
+744,27,739,Certified Python Developer,powerbiexampractice.com,2023-11-11,2021-03-28,7/12/2021,Approved
+745,731,660,React Developer Nanodegree,oraclejavacertification.org,2023-10-11,2014-03-09,12/17/2014,Approved
+746,168,836,React Certification,reactcertification.org,2024-03-27,2018-11-30,12/8/2018,Not Approved
+747,630,174,Certified Python Developer,pythoninstitutecertifications.com,2023-09-15,2021-07-15,3/17/2022,Not Approved
+748,689,732,React Developer Nanodegree,zendphpecertifiedengineer.org,2023-06-24,2021-11-01,8/4/2022,Approved
+749,935,817,Graphic Design Certifications,oraclejavaprofessional.com,2023-11-02,2011-07-14,3/6/2012,Approved
+750,399,470,Certified Python Developer,toastmastersinternationalcertifications.com,2023-11-16,2020-02-19,10/14/2020,Not Approved
+751,559,666,Snowflake Certified SnowPro,pythoninstitutecertifications.com,2024-01-20,2022-08-22,8/7/2023,Approved
+752,772,902,Project Management Professional (PMP) Certification,reactdevelopernanodegree.com,2023-04-27,2017-12-27,1/9/2018,pending
+753,252,185,Toastmasters International Certifications Professional Presentation Skills,toastmastersinternationalcertifications.com,2023-04-26,2012-04-05,2/18/2013,Not Approved
+754,247,592,Java Certification (offered by Oracle),reactdevelopernanodegree.com,2023-07-19,2012-06-26,9/18/2012,pending
+755,498,883,Snowflake Certified SnowPro,zendphpecertifiedengineer.org,2023-12-06,2020-02-10,8/16/2020,Not Approved
+756,592,14,PHP Certification,pmpprofessionalcertification.net,2023-12-02,2012-12-31,2/14/2013,pending
+757,743,588,Microsoft Certified: Data Analyst Associate,toastmastersinternationalcertifications.com,2023-05-06,2017-03-07,12/16/2017,Not Approved
+758,807,874,Toastmasters International Certifications Professional Presentation Skills,snowflakecertifiedsnowpro.com,2024-01-25,2012-02-03,6/11/2012,Not Approved
+759,342,911,Java SE Programmer,certifiedscrummaster.org,2024-01-15,2021-09-10,3/25/2022,Approved
+760,327,41,Azure Data Engineer Associate,oraclejavaprofessional.com,2024-03-17,2022-10-24,7/11/2023,pending
+761,519,735,Java Certification (offered by Oracle),certifiedpythondeveloper.org,2023-07-18,2014-10-06,3/23/2015,Approved
+762,716,3,Toastmasters International Certifications Professional Presentation Skills,certifiedscrummaster.org,2023-06-20,2013-11-18,6/26/2014,Approved
+763,985,478,Snowflake Certified SnowPro,certifiedscrummaster.org,2023-08-19,2021-04-24,5/26/2021,pending
+764,691,75,Toastmasters International Certifications Professional Presentation Skills,certifiedscrummaster.org,2023-12-23,2011-12-21,8/14/2012,pending
+765,493,883,Azure Data Engineer Associate,oraclejavaprofessional.com,2024-02-20,2014-05-10,7/28/2014,pending
+766,642,184,Azure Data Engineer Associate,presentationdesigncertification.org,2024-03-14,2010-12-27,2/16/2011,pending
+767,325,882,Azure Data Engineer Associate,toastmastersinternationalcertifications.com,2023-10-04,2015-01-28,3/1/2015,Approved
+768,945,55,Presentation Design Certification,reactdevelopernanodegree.com,2024-03-20,2016-12-08,3/30/2017,Approved
+769,184,990,Graphic Design Certifications,professionalpresentationskills.org,2023-07-04,2019-09-16,4/25/2020,Approved
+770,415,475,PHP Certification,presentationdesigncertification.org,2024-01-20,2023-04-03,6/10/2023,pending
+771,313,966,Presentation Design Certification,professionalpresentationskills.org,2024-02-23,2019-02-05,12/10/2019,pending
+772,728,773,React Developer Nanodegree,snowflakecertifiedsnowpro.com,2023-09-17,2013-05-10,4/15/2014,Approved
+773,569,755,Oracle Certified Professional,snowflakecertifiedsnowpro.com,2023-07-15,2017-12-18,3/2/2018,Not Approved
+774,89,518,Python Institute Certifications,reactcertification.org,2023-04-26,2012-04-16,2/5/2013,pending
+775,614,729,Certified Python Developer,pmpprofessionalcertification.net,2023-12-23,2011-12-12,12/3/2012,Approved
+776,203,995,Python Institute Certifications,reactdevelopernanodegree.com,2023-12-26,2015-08-06,1/19/2016,pending
+777,234,470,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2023-06-13,2014-10-17,9/28/2015,Approved
+778,267,51,Zend Certified PHP Engineer,oraclejavaprofessional.com,2023-09-28,2018-02-28,9/29/2018,Not Approved
+779,831,9,Presentation Design Certification,reactcertification.org,2023-10-26,2011-11-18,1/1/2012,pending
+780,421,445,Azure Data Engineer Associate,microsoftdataanalystassociate.net,2023-11-19,2017-06-03,6/26/2017,pending
+781,279,204,SnowPro Core Certification,snowprocorecertification.net,2023-12-26,2021-06-06,6/13/2021,pending
+782,563,121,Certified ScrumMaster (CSM),graphicdesigncertifications.net,2024-01-10,2022-01-25,10/31/2022,Approved
+783,991,456,Toastmasters International Certifications Professional Presentation Skills,reactcertification.org,2023-06-12,2013-11-11,2/18/2014,Not Approved
+784,161,340,Snowflake Certified SnowPro,pythoninstitutecertifications.com,2023-09-13,2013-10-29,4/18/2014,pending
+785,289,280,Presentation Design Certification,certifiedpythondeveloper.org,2023-11-20,2014-05-23,9/25/2014,pending
+786,354,775,Snowflake Certified SnowPro,presentationdesigncertification.org,2023-09-30,2012-09-19,3/13/2013,Approved
+787,173,829,Oracle Certified Professional,reactdevelopernanodegree.com,2023-10-19,2021-09-02,3/17/2022,Not Approved
+788,620,371,Toastmasters International Certifications Professional Presentation Skills,presentationdesigncertification.org,2023-05-12,2012-10-27,4/2/2013,Not Approved
+789,759,74,Analyzing and Visualizing Data with Microsoft Power BI,presentationdesigncertification.org,2023-08-08,2017-08-20,10/27/2017,pending
+790,814,558,React Certification,snowprocorecertification.net,2024-03-29,2023-04-18,8/28/2023,Not Approved
+791,550,511,Snowflake Certified SnowPro,snowprocorecertification.net,2024-02-18,2022-11-25,12/19/2022,Approved
+792,338,159,PHP Certification,certifiedpythondeveloper.org,2024-02-12,2010-11-01,7/31/2011,Approved
+793,977,86,Oracle Certified Professional,sqldeveloper-certification.org,2023-10-16,2018-08-21,2/17/2019,Approved
+794,845,344,React Developer Nanodegree,microsoftdataanalystassociate.net,2023-07-14,2019-10-21,1/9/2020,pending
+795,527,485,Azure Data Engineer Associate,certifiedscrummaster.org,2023-08-02,2014-01-12,11/3/2014,Approved
+796,837,411,Certified Python Developer,pmpprofessionalcertification.net,2024-01-03,2017-05-30,8/10/2017,pending
+797,809,296,Azure Data Engineer Associate,graphicdesigncertifications.net,2023-11-22,2019-05-26,6/2/2019,Approved
+798,405,737,Analyzing and Visualizing Data with Microsoft Power BI,snowflakecertifiedsnowpro.com,2024-01-14,2010-08-01,2/16/2011,Approved
+799,481,671,Java SE Programmer,certifiedpythondeveloper.org,2023-11-09,2016-05-30,2/21/2017,pending
+800,759,459,Project Management Professional (PMP) Certification,professionalpresentationskills.org,2024-02-16,2015-09-26,6/29/2016,Not Approved
+801,803,892,Toastmasters International Certifications Professional Presentation Skills,snowprocorecertification.net,2023-12-18,2019-01-15,5/11/2019,pending
+802,375,126,React Certification,graphicdesigncertifications.net,2023-10-30,2018-06-30,9/10/2018,pending
+803,204,173,Snowflake Certified SnowPro,professionalpresentationskills.org,2023-08-22,2022-06-11,2/21/2023,pending
+804,719,829,Python Institute Certifications,reactdevelopernanodegree.com,2023-08-12,2021-03-04,7/31/2021,Not Approved
+805,419,905,Toastmasters International Certifications Professional Presentation Skills,certifiedpythondeveloper.org,2023-06-13,2020-01-25,5/30/2020,pending
+806,707,540,Snowflake Certified SnowPro,presentationdesigncertification.org,2023-08-26,2019-02-10,7/6/2019,Not Approved
+807,193,934,Microsoft Certified: Data Analyst Associate,oraclejavaprofessional.com,2024-02-28,2023-11-18,7/20/2024,pending
+808,944,920,Oracle Certified Professional,pmpprofessionalcertification.net,2023-10-30,2011-07-07,8/3/2011,pending
+809,344,710,Certified Python Developer,oraclejavaprofessional.com,2023-10-28,2017-06-20,11/7/2017,pending
+810,852,366,Azure Data Engineer Associate,professionalpresentationskills.org,2023-05-18,2019-12-10,7/2/2020,Not Approved
+811,80,742,Azure Data Engineer Associate,zendphpecertifiedengineer.org,2024-01-04,2011-08-19,7/12/2012,Not Approved
+812,758,335,Java SE Programmer,certifiedpythondeveloper.org,2023-05-24,2014-02-26,2/13/2015,Not Approved
+813,707,847,React Developer Nanodegree,reactdevelopernanodegree.com,2023-06-04,2019-01-07,11/27/2019,Not Approved
+814,437,747,Certified Python Developer,phpcertification.net,2024-03-22,2018-10-15,1/5/2019,Not Approved
+815,325,947,Certified ScrumMaster (CSM),certifiedpythondeveloper.org,2023-11-10,2013-05-07,2/13/2014,pending
+816,261,291,Java SE Programmer,pmpprofessionalcertification.net,2023-08-30,2016-12-20,3/11/2017,Not Approved
+817,28,701,Zend Certified PHP Engineer,certifiedscrummaster.org,2023-08-17,2021-06-21,9/5/2021,Approved
+818,771,497,Oracle Certified Professional,reactcertification.org,2024-01-27,2015-01-04,1/13/2015,Not Approved
+819,664,706,Java Certification (offered by Oracle),powerbiexampractice.com,2023-11-07,2019-02-05,10/29/2019,pending
+820,847,637,Java SE Programmer,oraclejavaprofessional.com,2023-04-28,2018-12-22,1/10/2019,Not Approved
+821,970,952,Graphic Design Certifications,oraclejavacertification.org,2023-09-04,2010-07-31,1/5/2011,pending
+822,58,372,React Certification,professionalpresentationskills.org,2023-06-23,2012-12-18,8/29/2013,pending
+823,881,70,Analyzing and Visualizing Data with Microsoft Power BI,presentationdesigncertification.org,2024-02-17,2011-05-08,6/27/2011,pending
+824,288,442,Toastmasters International Certifications Professional Presentation Skills,graphicdesigncertifications.net,2023-12-30,2018-07-03,2/5/2019,pending
+825,359,524,Zend Certified PHP Engineer,phpcertification.net,2024-04-03,2010-07-31,7/29/2011,Not Approved
+826,562,14,Zend Certified PHP Engineer,phpcertification.net,2023-04-20,2021-03-15,12/17/2021,Not Approved
+827,671,519,SQL Developer Certification,snowflakecertifiedsnowpro.com,2023-06-01,2024-01-09,4/21/2024,Not Approved
+828,690,799,Analyzing and Visualizing Data with Microsoft Power BI,microsoftdataanalystassociate.net,2023-05-05,2022-01-10,12/15/2022,Approved
+829,86,248,Azure Data Engineer Associate,graphicdesigncertifications.net,2023-10-30,2023-12-07,11/30/2024,Approved
+830,324,268,Toastmasters International Certifications Professional Presentation Skills,pmpprofessionalcertification.net,2023-10-08,2016-09-08,4/4/2017,Not Approved
+831,846,936,Python Institute Certifications,pmpprofessionalcertification.net,2023-07-04,2010-10-03,4/2/2011,Approved
+832,455,186,Azure Data Engineer Associate,certifiedpythondeveloper.org,2023-05-29,2022-07-04,9/11/2022,pending
+833,497,214,SnowPro Core Certification,reactcertification.org,2023-05-23,2019-09-03,8/14/2020,Not Approved
+834,421,186,Certified ScrumMaster (CSM),oraclejavaprofessional.com,2023-04-30,2015-08-12,8/13/2015,pending
+835,263,99,PHP Certification,snowflakecertifiedsnowpro.com,2023-04-30,2013-12-29,3/20/2014,pending
+836,262,54,SnowPro Core Certification,oraclejavacertification.org,2023-06-06,2011-12-19,1/4/2012,pending
+837,223,385,Graphic Design Certifications,graphicdesigncertifications.net,2023-10-02,2017-03-13,9/1/2017,Not Approved
+838,614,954,Analyzing and Visualizing Data with Microsoft Power BI,pmpprofessionalcertification.net,2023-12-09,2011-09-15,1/10/2012,pending
+839,376,216,Oracle Certified Professional,pmpprofessionalcertification.net,2024-01-03,2021-01-02,1/10/2021,Approved
+840,303,649,Java Certification (offered by Oracle),toastmastersinternationalcertifications.com,2024-02-10,2015-04-20,6/14/2015,Not Approved
+841,212,840,Certified Python Developer,pmpprofessionalcertification.net,2023-10-09,2017-01-23,1/25/2017,pending
+842,934,667,Python Institute Certifications,phpcertification.net,2023-05-06,2016-03-26,3/17/2017,pending
+843,979,115,Analyzing and Visualizing Data with Microsoft Power BI,oraclejavacertification.org,2023-07-16,2018-02-22,12/3/2018,pending
+844,269,197,Snowflake Certified SnowPro,presentationdesigncertification.org,2023-09-24,2015-01-12,6/14/2015,Not Approved
+845,898,533,Microsoft Certified: Data Analyst Associate,pythoninstitutecertifications.com,2023-10-17,2021-10-07,3/1/2022,pending
+846,769,406,Zend Certified PHP Engineer,presentationdesigncertification.org,2023-09-12,2018-03-31,2/18/2019,Approved
+847,876,684,Presentation Design Certification,toastmastersinternationalcertifications.com,2024-03-31,2016-03-17,3/6/2017,pending
+848,392,443,Analyzing and Visualizing Data with Microsoft Power BI,certifiedscrummaster.org,2023-10-25,2014-11-01,6/4/2015,Not Approved
+849,556,289,SQL Developer Certification,oraclejavaprofessional.com,2023-08-04,2021-11-30,10/2/2022,Approved
+850,955,101,Project Management Professional (PMP) Certification,microsoftdataanalystassociate.net,2024-01-12,2015-10-06,9/11/2016,Approved
+851,479,237,SnowPro Core Certification,pmpprofessionalcertification.net,2023-06-26,2011-01-06,9/23/2011,pending
+852,988,691,SQL Developer Certification,oraclejavacertification.org,2023-07-25,2015-10-20,8/5/2016,pending
+853,251,206,Analyzing and Visualizing Data with Microsoft Power BI,snowprocorecertification.net,2023-08-27,2015-04-25,12/20/2015,pending
+854,7,19,SnowPro Core Certification,graphicdesigncertifications.net,2023-05-10,2014-06-23,2/23/2015,pending
+855,640,192,Certified Python Developer,reactcertification.org,2023-05-21,2016-12-03,7/13/2017,Not Approved
+856,295,139,Java SE Programmer,oraclejavaprofessional.com,2023-06-12,2014-07-16,2/24/2015,pending
+857,746,637,SQL Developer Certification,oraclejavacertification.org,2024-02-10,2015-11-18,8/20/2016,Approved
+858,580,859,Java Certification (offered by Oracle),sqldeveloper-certification.org,2023-11-14,2012-05-13,8/16/2012,Approved
+859,207,453,Microsoft Certified: Data Analyst Associate,snowflakecertifiedsnowpro.com,2024-03-02,2021-10-18,4/18/2022,Approved
+860,551,32,Presentation Design Certification,certifiedscrummaster.org,2023-05-13,2014-06-15,3/18/2015,Not Approved
+861,201,845,Project Management Professional (PMP) Certification,snowflakecertifiedsnowpro.com,2023-05-25,2011-10-21,4/26/2012,pending
+862,854,745,Zend Certified PHP Engineer,certifiedscrummaster.org,2023-07-19,2019-06-17,6/3/2020,pending
+863,251,807,React Certification,certifiedscrummaster.org,2023-07-06,2015-11-19,3/1/2016,pending
+864,465,690,Graphic Design Certifications,powerbiexampractice.com,2023-05-13,2012-07-25,8/19/2012,Approved
+865,483,755,React Developer Nanodegree,snowprocorecertification.net,2024-02-01,2015-09-14,1/13/2016,Not Approved
+866,310,252,Certified Python Developer,oraclejavaprofessional.com,2023-08-16,2022-12-08,6/4/2023,pending
+867,342,290,SnowPro Core Certification,oraclejavaprofessional.com,2023-09-16,2018-07-09,4/28/2019,Not Approved
+868,887,227,Certified ScrumMaster (CSM),sqldeveloper-certification.org,2023-08-28,2014-09-01,11/14/2014,Approved
+869,310,124,Java Certification (offered by Oracle),certifiedpythondeveloper.org,2023-07-19,2023-01-27,12/5/2023,Not Approved
+870,130,226,PHP Certification,professionalpresentationskills.org,2023-11-22,2011-09-19,5/9/2012,Approved
+871,299,763,Java Certification (offered by Oracle),zendphpecertifiedengineer.org,2023-06-27,2013-03-18,7/17/2013,Approved
+872,802,200,Presentation Design Certification,certifiedpythondeveloper.org,2023-10-27,2019-04-15,5/11/2019,pending
+873,73,715,React Certification,toastmastersinternationalcertifications.com,2023-05-19,2022-09-27,1/4/2023,Approved
+874,746,98,PHP Certification,snowprocorecertification.net,2024-01-31,2011-08-14,9/25/2011,Approved
+875,575,561,Certified ScrumMaster (CSM),oraclejavaprofessional.com,2023-08-08,2013-01-28,5/11/2013,Not Approved
+876,491,745,React Developer Nanodegree,phpcertification.net,2023-11-11,2015-01-25,9/10/2015,Not Approved
+877,423,92,Snowflake Certified SnowPro,microsoftdataanalystassociate.net,2023-06-01,2013-04-30,4/12/2014,pending
+878,110,82,Python Institute Certifications,phpcertification.net,2023-08-17,2015-10-08,5/11/2016,Approved
+879,780,881,Java SE Programmer,oraclejavaprofessional.com,2024-03-26,2016-11-22,3/17/2017,pending
+880,89,630,Certified Python Developer,powerbiexampractice.com,2024-01-02,2016-07-21,5/17/2017,Not Approved
+881,223,877,Analyzing and Visualizing Data with Microsoft Power BI,toastmastersinternationalcertifications.com,2023-08-05,2018-07-24,3/24/2019,Not Approved
+882,544,322,Python Institute Certifications,phpcertification.net,2023-06-29,2020-03-21,6/27/2020,Not Approved
+883,155,529,React Developer Nanodegree,reactcertification.org,2023-09-06,2023-07-26,5/22/2024,Not Approved
+884,54,412,Snowflake Certified SnowPro,oraclejavacertification.org,2023-10-07,2015-09-25,4/24/2016,Approved
+885,106,164,Certified Python Developer,phpcertification.net,2024-04-07,2022-09-28,8/1/2023,Not Approved
+886,774,717,Toastmasters International Certifications Professional Presentation Skills,zendphpecertifiedengineer.org,2023-06-25,2016-04-24,1/21/2017,pending
+887,972,871,PHP Certification,phpcertification.net,2023-09-09,2012-09-07,6/25/2013,Not Approved
+888,199,301,Snowflake Certified SnowPro,graphicdesigncertifications.net,2024-03-03,2022-07-28,6/24/2023,Not Approved
+889,258,641,Azure Data Engineer Associate,oraclejavaprofessional.com,2024-01-16,2014-08-04,6/18/2015,Not Approved
+890,257,147,Oracle Certified Professional,powerbiexampractice.com,2023-05-08,2015-05-17,8/28/2015,Approved
+891,463,756,Java SE Programmer,powerbiexampractice.com,2023-10-04,2014-12-24,5/24/2015,Approved
+892,613,20,Java SE Programmer,sqldeveloper-certification.org,2023-08-02,2024-01-24,8/18/2024,Approved
+893,948,861,Java Certification (offered by Oracle),oraclejavacertification.org,2023-10-23,2014-12-26,2/11/2015,Approved
+894,566,963,Graphic Design Certifications,zendphpecertifiedengineer.org,2023-05-05,2019-11-22,12/28/2019,Not Approved
+895,132,562,Toastmasters International Certifications Professional Presentation Skills,oraclejavaprofessional.com,2023-11-24,2018-03-08,10/22/2018,pending
+896,545,185,Certified ScrumMaster (CSM),microsoftdataanalystassociate.net,2023-10-05,2017-08-12,9/18/2017,Approved
+897,611,941,Analyzing and Visualizing Data with Microsoft Power BI,zendphpecertifiedengineer.org,2023-09-11,2013-04-10,12/28/2013,Not Approved
+898,961,151,Python Institute Certifications,snowflakecertifiedsnowpro.com,2023-08-26,2013-03-26,11/19/2013,pending
+899,998,923,SQL Developer Certification,microsoftdataanalystassociate.net,2023-09-27,2024-01-25,8/16/2024,pending
+900,230,160,Python Institute Certifications,graphicdesigncertifications.net,2023-07-23,2018-08-12,1/18/2019,pending
+901,94,401,Azure Data Engineer Associate,oraclejavaprofessional.com,2023-08-09,2011-07-26,12/20/2011,Not Approved
+902,854,784,Azure Data Engineer Associate,snowflakecertifiedsnowpro.com,2024-01-09,2011-11-22,8/5/2012,Not Approved
+903,327,137,SQL Developer Certification,reactcertification.org,2023-06-11,2012-01-30,1/27/2013,Approved
+904,912,4,Analyzing and Visualizing Data with Microsoft Power BI,reactcertification.org,2023-09-27,2021-06-15,9/20/2021,Approved
+905,222,343,Java SE Programmer,oraclejavaprofessional.com,2023-06-07,2016-10-31,12/30/2016,Not Approved
+906,105,369,React Developer Nanodegree,certifiedscrummaster.org,2023-09-24,2023-05-19,6/30/2023,Not Approved
+907,364,595,Toastmasters International Certifications Professional Presentation Skills,oraclejavacertification.org,2023-05-19,2013-05-04,11/23/2013,Not Approved
+908,71,246,SnowPro Core Certification,reactcertification.org,2023-09-17,2023-12-27,2/28/2024,Not Approved
+909,752,130,Project Management Professional (PMP) Certification,powerbiexampractice.com,2023-10-13,2022-11-18,5/17/2023,pending
+910,738,68,Presentation Design Certification,professionalpresentationskills.org,2023-07-17,2018-12-31,9/27/2019,Approved
+911,208,836,Certified ScrumMaster (CSM),graphicdesigncertifications.net,2023-10-05,2013-05-04,2/3/2014,Approved
+912,903,189,Toastmasters International Certifications Professional Presentation Skills,presentationdesigncertification.org,2023-08-23,2012-03-12,10/31/2012,Approved
+913,603,868,SQL Developer Certification,certifiedpythondeveloper.org,2023-10-13,2017-06-29,5/8/2018,Approved
+914,632,872,Presentation Design Certification,microsoftdataanalystassociate.net,2023-10-05,2017-09-14,9/27/2017,Not Approved
+915,146,735,SnowPro Core Certification,toastmastersinternationalcertifications.com,2023-08-02,2012-01-10,8/11/2012,pending
+916,718,799,React Developer Nanodegree,oraclejavacertification.org,2024-01-18,2012-12-03,1/17/2013,pending
+917,67,339,SnowPro Core Certification,sqldeveloper-certification.org,2024-03-31,2013-05-28,2/15/2014,Not Approved
+918,125,103,Certified ScrumMaster (CSM),reactdevelopernanodegree.com,2024-02-27,2018-12-30,2/9/2019,Not Approved
+919,477,102,Java SE Programmer,phpcertification.net,2023-04-08,2015-12-28,3/13/2016,pending
+920,940,927,Certified Python Developer,pmpprofessionalcertification.net,2024-01-11,2012-09-03,4/9/2013,Approved
+921,653,31,React Developer Nanodegree,oraclejavacertification.org,2023-10-27,2024-01-20,3/31/2024,Approved
+922,205,378,SQL Developer Certification,phpcertification.net,2023-07-04,2012-10-11,8/28/2013,pending
+923,651,799,SnowPro Core Certification,oraclejavaprofessional.com,2023-11-10,2013-11-26,4/25/2014,Approved
+924,697,305,PHP Certification,reactdevelopernanodegree.com,2023-08-14,2018-12-25,10/21/2019,Approved
+925,532,920,Azure Data Engineer Associate,pythoninstitutecertifications.com,2023-06-10,2019-09-06,5/27/2020,Not Approved
+926,826,908,PHP Certification,sqldeveloper-certification.org,2023-10-07,2013-01-31,11/29/2013,pending
+927,508,470,Analyzing and Visualizing Data with Microsoft Power BI,professionalpresentationskills.org,2023-12-31,2018-07-14,9/3/2018,Not Approved
+928,148,358,Microsoft Certified: Data Analyst Associate,certifiedpythondeveloper.org,2023-09-17,2014-07-30,9/13/2014,pending
+929,749,565,React Developer Nanodegree,sqldeveloper-certification.org,2023-10-25,2012-05-20,10/15/2012,Not Approved
+930,185,192,Toastmasters International Certifications Professional Presentation Skills,microsoftdataanalystassociate.net,2023-12-02,2015-01-01,2/21/2015,Approved
+931,860,838,Toastmasters International Certifications Professional Presentation Skills,snowprocorecertification.net,2023-07-30,2010-09-08,4/8/2011,pending
+932,306,494,Toastmasters International Certifications Professional Presentation Skills,reactdevelopernanodegree.com,2023-04-08,2020-01-30,5/25/2020,Approved
+933,260,70,SnowPro Core Certification,snowprocorecertification.net,2024-02-06,2020-02-29,10/2/2020,Not Approved
+934,395,592,Certified Python Developer,snowflakecertifiedsnowpro.com,2023-12-06,2022-02-23,5/11/2022,pending
+935,37,966,Project Management Professional (PMP) Certification,oraclejavaprofessional.com,2024-03-14,2012-11-25,10/30/2013,pending
+936,969,752,Project Management Professional (PMP) Certification,zendphpecertifiedengineer.org,2024-01-04,2017-04-05,12/3/2017,Approved
+937,413,563,Java SE Programmer,oraclejavacertification.org,2024-03-12,2015-11-27,8/8/2016,pending
+938,409,314,Zend Certified PHP Engineer,reactcertification.org,2023-06-19,2011-01-14,3/2/2011,pending
+939,209,176,SQL Developer Certification,sqldeveloper-certification.org,2023-07-06,2017-05-29,6/24/2017,Approved
+940,794,280,Certified ScrumMaster (CSM),certifiedscrummaster.org,2023-10-16,2015-03-10,6/8/2015,Approved
+941,245,896,React Developer Nanodegree,presentationdesigncertification.org,2023-04-23,2014-06-18,11/21/2014,Approved
+942,386,833,Zend Certified PHP Engineer,phpcertification.net,2023-07-27,2020-02-26,9/26/2020,pending
+943,686,329,Certified Python Developer,pythoninstitutecertifications.com,2024-02-23,2014-09-05,2/23/2015,Not Approved
+944,583,631,Azure Data Engineer Associate,phpcertification.net,2023-08-18,2015-05-09,3/11/2016,Approved
+945,707,596,Certified Python Developer,snowprocorecertification.net,2023-09-03,2019-01-02,4/10/2019,pending
+946,862,920,Oracle Certified Professional,certifiedscrummaster.org,2023-08-19,2011-09-20,4/26/2012,pending
+947,809,120,React Developer Nanodegree,graphicdesigncertifications.net,2023-06-28,2020-11-21,8/12/2021,Not Approved
+948,937,418,Java SE Programmer,graphicdesigncertifications.net,2024-01-30,2023-02-06,4/29/2023,pending
+949,923,927,Java SE Programmer,powerbiexampractice.com,2023-12-16,2018-10-11,5/12/2019,Not Approved
+950,459,500,SnowPro Core Certification,oraclejavaprofessional.com,2023-05-05,2015-09-15,12/24/2015,pending
+951,311,400,Microsoft Certified: Data Analyst Associate,graphicdesigncertifications.net,2023-04-24,2023-11-06,4/1/2024,Not Approved
+952,482,223,Graphic Design Certifications,zendphpecertifiedengineer.org,2024-03-30,2019-12-05,12/10/2019,Approved
+953,445,838,SQL Developer Certification,pythoninstitutecertifications.com,2023-08-08,2024-04-03,1/12/2025,Approved
+954,877,145,Python Institute Certifications,graphicdesigncertifications.net,2023-04-20,2020-07-09,10/15/2020,pending
+955,429,841,PHP Certification,microsoftdataanalystassociate.net,2023-09-23,2022-11-21,1/5/2023,Approved
+956,510,95,Presentation Design Certification,reactcertification.org,2023-11-19,2017-01-04,8/31/2017,Approved
+957,592,953,Java SE Programmer,sqldeveloper-certification.org,2024-02-12,2017-09-17,2/4/2018,Approved
+958,387,916,Analyzing and Visualizing Data with Microsoft Power BI,graphicdesigncertifications.net,2023-11-04,2015-03-11,4/24/2015,Approved
+959,746,727,PHP Certification,zendphpecertifiedengineer.org,2023-11-09,2015-10-13,8/23/2016,pending
+960,958,166,Zend Certified PHP Engineer,snowprocorecertification.net,2024-03-31,2012-05-30,11/18/2012,pending
+961,515,834,PHP Certification,presentationdesigncertification.org,2023-05-28,2019-10-30,10/31/2019,pending
+962,741,74,React Developer Nanodegree,phpcertification.net,2023-06-22,2017-08-10,3/25/2018,Approved
+963,843,250,Analyzing and Visualizing Data with Microsoft Power BI,snowprocorecertification.net,2023-11-20,2018-10-25,5/17/2019,Not Approved
+964,103,86,Java SE Programmer,snowflakecertifiedsnowpro.com,2024-04-01,2020-06-20,11/26/2020,Not Approved
+965,945,278,SnowPro Core Certification,reactdevelopernanodegree.com,2023-08-13,2018-10-20,4/7/2019,pending
+966,447,589,Graphic Design Certifications,certifiedscrummaster.org,2023-05-29,2017-12-08,11/4/2018,Not Approved
+967,294,9,Zend Certified PHP Engineer,reactdevelopernanodegree.com,2024-04-04,2022-01-02,10/26/2022,Not Approved
+968,835,542,Project Management Professional (PMP) Certification,microsoftdataanalystassociate.net,2023-08-25,2017-08-21,6/30/2018,Approved
+969,704,747,Graphic Design Certifications,phpcertification.net,2023-07-21,2011-10-20,4/2/2012,Approved
+970,587,133,Azure Data Engineer Associate,powerbiexampractice.com,2023-12-24,2021-08-28,4/4/2022,Approved
+971,466,717,Python Institute Certifications,reactdevelopernanodegree.com,2024-03-01,2021-09-10,7/17/2022,pending
+972,872,240,React Certification,zendphpecertifiedengineer.org,2023-05-13,2023-06-07,7/15/2023,Not Approved
+973,320,772,SnowPro Core Certification,sqldeveloper-certification.org,2024-01-27,2013-03-16,12/29/2013,Approved
+974,62,746,Snowflake Certified SnowPro,microsoftdataanalystassociate.net,2023-12-31,2017-05-13,4/4/2018,pending
+975,544,40,Toastmasters International Certifications Professional Presentation Skills,sqldeveloper-certification.org,2023-05-15,2016-09-01,2/2/2017,pending
+976,769,677,Analyzing and Visualizing Data with Microsoft Power BI,reactcertification.org,2023-05-25,2018-08-20,10/25/2018,Approved
+977,753,401,Project Management Professional (PMP) Certification,presentationdesigncertification.org,2023-05-14,2023-12-04,8/13/2024,pending
+978,666,645,Java SE Programmer,powerbiexampractice.com,2023-08-10,2017-12-16,4/11/2018,Not Approved
+979,54,540,Certified Python Developer,snowflakecertifiedsnowpro.com,2023-07-29,2016-01-15,10/24/2016,pending
+980,724,182,Oracle Certified Professional,reactdevelopernanodegree.com,2023-08-12,2010-11-17,4/17/2011,Approved
+981,549,345,PHP Certification,certifiedscrummaster.org,2023-07-18,2023-05-03,6/24/2023,pending
+982,787,671,Java SE Programmer,zendphpecertifiedengineer.org,2023-07-03,2012-12-15,5/3/2013,pending
+983,619,843,Certified ScrumMaster (CSM),certifiedscrummaster.org,2023-12-16,2017-07-27,9/5/2017,Not Approved
+984,337,692,Microsoft Certified: Data Analyst Associate,toastmastersinternationalcertifications.com,2023-11-29,2015-01-15,7/4/2015,Not Approved
+985,81,2,Python Institute Certifications,snowflakecertifiedsnowpro.com,2023-04-21,2017-11-26,6/10/2018,Approved
+986,593,933,Zend Certified PHP Engineer,zendphpecertifiedengineer.org,2024-02-24,2023-01-17,4/13/2023,Not Approved
+987,469,363,Graphic Design Certifications,pythoninstitutecertifications.com,2023-08-07,2011-10-31,11/18/2011,Not Approved
+988,315,190,Certified Python Developer,reactdevelopernanodegree.com,2023-09-13,2010-08-25,6/22/2011,Not Approved
+989,870,688,React Certification,pmpprofessionalcertification.net,2023-12-08,2020-11-30,9/29/2021,pending
+990,68,583,Project Management Professional (PMP) Certification,snowflakecertifiedsnowpro.com,2023-10-31,2014-04-10,4/5/2015,Not Approved
+991,648,194,Java SE Programmer,oraclejavaprofessional.com,2023-04-25,2011-06-01,1/11/2012,Approved
+992,748,102,React Developer Nanodegree,sqldeveloper-certification.org,2023-08-09,2013-09-22,2/14/2014,Approved
+993,487,615,Graphic Design Certifications,powerbiexampractice.com,2023-06-21,2021-10-27,9/9/2022,pending
+994,644,317,Zend Certified PHP Engineer,professionalpresentationskills.org,2024-03-17,2013-02-14,11/21/2013,pending
+995,4,144,Java Certification (offered by Oracle),certifiedpythondeveloper.org,2023-12-13,2021-06-05,2/28/2022,Approved
+996,140,200,Zend Certified PHP Engineer,toastmastersinternationalcertifications.com,2024-02-18,2016-04-15,5/23/2016,pending
+997,477,95,Certified Python Developer,snowprocorecertification.net,2024-03-08,2013-05-07,1/14/2014,Approved
+998,506,256,Microsoft Certified: Data Analyst Associate,phpcertification.net,2023-08-08,2015-06-24,12/18/2015,Approved
+999,368,652,Certified ScrumMaster (CSM),oraclejavacertification.org,2023-10-24,2014-11-18,4/11/2015,Approved
+1000,851,428,Snowflake Certified SnowPro,microsoftdataanalystassociate.net,2023-10-25,2019-01-20,9/12/2019,Not Approved

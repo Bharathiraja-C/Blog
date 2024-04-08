@@ -1,0 +1,1001 @@
+id,user_id,skillname,proficiencyLevel,status,created_at
+1,377,Security auditing,Advanced,Approved,4/8/2023
+2,198,Social media management,Intermediate,pending,6/21/2023
+3,91,Cryptocurrency,Intermediate,Not Approved,8/12/2023
+4,782,GraphQL,Intermediate,Approved,6/27/2023
+5,188,Serverless architecture,Advanced,Approved,3/5/2024
+6,112,Serverless architecture,Advanced,Approved,6/8/2023
+7,333,Wireframing,Beginner,pending,6/27/2023
+8,357,Blockchain technology,Advanced,Not Approved,8/12/2023
+9,250,AWS cloud computing,Beginner,pending,3/3/2024
+10,737,Time management,Beginner,Approved,4/15/2023
+11,72,Decision-making,Advanced,pending,4/6/2024
+12,717,Test automation,Beginner,pending,2/19/2024
+13,185,User research,Beginner,Not Approved,11/23/2023
+14,743,Data modeling,Intermediate,pending,1/26/2024
+15,344,Active listening.,Beginner,Not Approved,8/14/2023
+16,798,Disaster recovery planning,Intermediate,pending,8/6/2023
+17,715,UI/UX design,Advanced,Not Approved,6/4/2023
+18,788,Hadoop,Intermediate,pending,3/26/2024
+19,370,Content management systems (CMS),Intermediate,Approved,5/17/2023
+20,443,Bash scripting,Intermediate,Approved,9/27/2023
+21,790,Process improvement,Beginner,Not Approved,10/11/2023
+22,227,IT asset management,Beginner,pending,9/5/2023
+23,573,IT asset management,Intermediate,pending,4/7/2024
+24,576,Critical thinking,Intermediate,Approved,11/23/2023
+25,377,Vue.js),Beginner,Not Approved,5/11/2023
+26,245,Continuous integration (CI),Intermediate,Approved,9/22/2023
+27,597,Business analysis,Beginner,Approved,1/14/2024
+28,322,User research,Intermediate,pending,6/2/2023
+29,10,Test automation,Intermediate,Approved,8/23/2023
+30,295,SEO (Search Engine Optimization),Intermediate,Approved,5/9/2023
+31,403,Content management systems (CMS),Advanced,Not Approved,5/7/2023
+32,117,Active listening.,Beginner,pending,3/2/2024
+33,160,DevOps practices,Advanced,Not Approved,2/17/2024
+34,460,Software testing,Advanced,Approved,10/21/2023
+35,129,Data visualization,Beginner,pending,12/30/2023
+36,491,Network security,Beginner,Not Approved,12/10/2023
+37,699,Python programming,Advanced,Not Approved,11/6/2023
+38,986,Usability testing,Beginner,Not Approved,9/28/2023
+39,437,Lean methodology,Beginner,pending,12/10/2023
+40,673,GraphQL,Beginner,Not Approved,6/7/2023
+41,138,Service management tools (e.g.,Beginner,Not Approved,10/3/2023
+42,155,Hadoop,Advanced,pending,7/3/2023
+43,466,Time management,Advanced,pending,7/3/2023
+44,602,Content management systems (CMS),Intermediate,pending,1/28/2024
+45,631,Infrastructure as Code (IaC),Beginner,Approved,12/29/2023
+46,953,Time management,Advanced,Not Approved,6/9/2023
+47,719,Digital marketing,Intermediate,pending,4/25/2023
+48,279,Business analysis,Intermediate,Not Approved,1/23/2024
+49,505,Cryptography,Advanced,Not Approved,10/8/2023
+50,278,Business continuity planning,Advanced,Not Approved,10/13/2023
+51,939,Customer relationship management (CRM),Advanced,Not Approved,4/18/2023
+52,715,Email marketing,Intermediate,pending,4/27/2023
+53,411,Incident response,Beginner,Not Approved,3/25/2024
+54,769,Hadoop,Intermediate,Approved,12/14/2023
+55,295,Technical writing,Advanced,pending,12/27/2023
+56,642,Active listening.,Advanced,Approved,3/16/2024
+57,667,Mobile app development (iOS,Beginner,Not Approved,2/25/2024
+58,334,Data analysis,Intermediate,Approved,5/8/2023
+59,511,Continuous deployment (CD),Intermediate,pending,10/26/2023
+60,961,Behavior-driven development (BDD),Advanced,Not Approved,8/2/2023
+61,77,Windows system administration,Advanced,Not Approved,6/10/2023
+62,818,Data analysis,Intermediate,Not Approved,10/2/2023
+63,286,Prototyping,Advanced,Approved,4/23/2023
+64,629,Data analysis,Intermediate,Not Approved,10/7/2023
+65,680,Incident response,Beginner,pending,10/26/2023
+66,221,PPC advertising,Advanced,pending,5/27/2023
+67,918,Hadoop,Intermediate,pending,12/6/2023
+68,101,Network administration,Advanced,Approved,12/8/2023
+69,431,HTML/CSS,Advanced,Not Approved,9/19/2023
+70,722,Angular,Beginner,pending,6/13/2023
+71,399,ITIL (Information Technology Infrastructure Library),Advanced,pending,9/22/2023
+72,25,Disaster recovery planning,Intermediate,pending,5/1/2023
+73,463,Problem-solving,Beginner,Approved,1/2/2024
+74,318,Change management,Intermediate,pending,12/16/2023
+75,23,Process improvement,Intermediate,pending,11/4/2023
+76,619,Penetration testing,Intermediate,Not Approved,5/31/2023
+77,497,Business continuity planning,Intermediate,Not Approved,9/14/2023
+78,796,ITIL (Information Technology Infrastructure Library),Beginner,pending,3/18/2024
+79,809,Vue.js),Beginner,Not Approved,11/24/2023
+80,325,Behavior-driven development (BDD),Intermediate,Approved,3/2/2024
+81,239,Artificial intelligence,Intermediate,Approved,3/17/2024
+82,805,Cybersecurity,Advanced,Approved,1/1/2024
+83,434,ITIL (Information Technology Infrastructure Library),Advanced,Approved,1/4/2024
+84,496,Cryptography,Intermediate,Approved,2/1/2024
+85,373,Mobile app development (iOS,Beginner,pending,8/18/2023
+86,330,Computer vision,Beginner,Not Approved,1/30/2024
+87,443,Network security,Intermediate,Approved,10/13/2023
+88,898,Linux system administration,Intermediate,Not Approved,9/12/2023
+89,917,Wireframing,Intermediate,Not Approved,2/13/2024
+90,688,ServiceNow,Advanced,pending,7/28/2023
+91,23,Natural language processing,Intermediate,pending,8/8/2023
+92,589,ITIL (Information Technology Infrastructure Library),Advanced,Approved,11/29/2023
+93,359,Enterprise integration,Beginner,Not Approved,11/26/2023
+94,997,Service management tools (e.g.,Beginner,pending,8/22/2023
+95,532,Data analysis,Intermediate,Not Approved,12/24/2023
+96,916,Big data technologies (e.g.,Intermediate,pending,2/14/2024
+97,268,Natural language processing,Intermediate,Approved,3/13/2024
+98,865,Behavior-driven development (BDD),Intermediate,Approved,7/12/2023
+99,848,Email marketing,Advanced,pending,7/11/2023
+100,273,DevOps practices,Advanced,pending,6/7/2023
+101,689,Compliance and regulatory knowledge,Intermediate,pending,11/24/2023
+102,973,Web development frameworks (e.g.,Advanced,Approved,5/19/2023
+103,467,Linux system administration,Advanced,Approved,3/24/2024
+104,766,Leadership and team management,Beginner,pending,12/18/2023
+105,185,Identity and access management (IAM),Beginner,Not Approved,12/4/2023
+106,779,Bash scripting,Beginner,Approved,1/12/2024
+107,606,IoT (Internet of Things),Intermediate,Not Approved,4/2/2024
+108,466,Serverless architecture,Beginner,Not Approved,9/14/2023
+109,645,React.js,Beginner,pending,6/12/2023
+110,166,Creativity and innovation,Advanced,Approved,1/20/2024
+111,368,Windows system administration,Advanced,Approved,12/13/2023
+112,270,Big data technologies (e.g.,Beginner,Approved,3/31/2024
+113,276,Kanban,Advanced,Approved,1/24/2024
+114,643,IT project management,Beginner,pending,9/22/2023
+115,575,VMware virtualization,Advanced,pending,6/5/2023
+116,488,Hadoop,Beginner,Approved,11/27/2023
+117,16,Robotics,Intermediate,pending,7/18/2023
+118,407,Artificial intelligence,Intermediate,Approved,7/26/2023
+119,52,Business analysis,Intermediate,pending,8/17/2023
+120,293,Customer relationship management (CRM),Advanced,Approved,1/9/2024
+121,399,Behavior-driven development (BDD),Beginner,Approved,7/16/2023
+122,605,Computer vision,Intermediate,Approved,9/24/2023
+123,827,Version control systems (e.g.,Advanced,Approved,9/12/2023
+124,877,Security auditing,Intermediate,Approved,8/3/2023
+125,850,GraphQL,Beginner,Approved,10/7/2023
+126,540,Usability testing,Beginner,pending,5/16/2023
+127,748,Android),Beginner,pending,5/5/2023
+128,220,AWS cloud computing,Advanced,Approved,5/15/2023
+129,582,Incident response,Beginner,pending,2/26/2024
+130,703,Angular,Advanced,Approved,8/10/2023
+131,804,SVN),Intermediate,pending,3/9/2024
+132,926,AWS cloud computing,Advanced,Approved,3/26/2024
+133,138,IT asset management,Advanced,Not Approved,12/22/2023
+134,850,Wireframing,Advanced,Not Approved,1/18/2024
+135,157,Hadoop,Advanced,Approved,5/3/2023
+136,895,Google Cloud Platform,Beginner,Approved,9/24/2023
+137,292,Compliance and regulatory knowledge,Advanced,Approved,7/30/2023
+138,803,Agile methodologies,Beginner,Approved,4/30/2023
+139,966,Decision-making,Advanced,pending,10/1/2023
+140,235,Android),Beginner,pending,4/29/2023
+141,410,Data modeling,Intermediate,Approved,7/29/2023
+142,157,Data analysis,Beginner,Approved,8/7/2023
+143,611,Prototyping,Intermediate,pending,5/3/2023
+144,991,IoT (Internet of Things),Advanced,pending,7/6/2023
+145,684,Presentation skills,Intermediate,pending,1/6/2024
+146,219,SVN),Intermediate,Approved,6/29/2023
+147,604,Jira),Advanced,pending,7/10/2023
+148,63,ServiceNow,Advanced,pending,6/22/2023
+149,33,Time management,Advanced,pending,9/23/2023
+150,525,Hadoop,Intermediate,Approved,12/30/2023
+151,252,Leadership and team management,Advanced,Approved,10/11/2023
+152,83,Business analysis,Intermediate,pending,1/4/2024
+153,287,VMware virtualization,Beginner,Approved,3/14/2024
+154,819,Deep learning,Intermediate,Approved,10/27/2023
+155,959,Machine learning,Advanced,Not Approved,9/29/2023
+156,781,React.js,Advanced,Not Approved,2/5/2024
+157,410,JavaScript programming,Intermediate,pending,8/10/2023
+158,83,Active listening.,Beginner,Not Approved,5/19/2023
+159,460,Hadoop,Advanced,Not Approved,2/15/2024
+160,534,Natural language processing,Intermediate,Not Approved,12/12/2023
+161,826,Python programming,Beginner,Not Approved,12/1/2023
+162,502,Jira),Advanced,Approved,5/2/2023
+163,656,Python programming,Beginner,pending,7/9/2023
+164,202,VMware virtualization,Beginner,pending,2/9/2024
+165,104,Data visualization,Advanced,Approved,1/30/2024
+166,899,Problem-solving,Advanced,Approved,8/18/2023
+167,637,Enterprise integration,Beginner,Approved,10/29/2023
+168,395,Compliance and regulatory knowledge,Intermediate,Approved,12/18/2023
+169,885,Java programming,Beginner,pending,7/1/2023
+170,225,Git,Beginner,Approved,4/25/2023
+171,236,NoSQL database management,Beginner,pending,8/10/2023
+172,143,Decision-making,Intermediate,Approved,6/20/2023
+173,601,Java programming,Advanced,Approved,8/17/2023
+174,862,Agile methodologies,Beginner,Approved,4/25/2023
+175,648,Decision-making,Beginner,Approved,7/2/2023
+176,684,Bash scripting,Advanced,Approved,6/29/2023
+177,125,React.js,Beginner,pending,12/29/2023
+178,914,Artificial intelligence,Advanced,Not Approved,5/29/2023
+179,753,Data analysis,Advanced,Approved,4/17/2023
+180,889,Mobile app development (iOS,Beginner,pending,2/11/2024
+181,19,AWS cloud computing,Advanced,Not Approved,6/3/2023
+182,66,Angular,Intermediate,Not Approved,5/17/2023
+183,503,Big data technologies (e.g.,Intermediate,Not Approved,11/21/2023
+184,3,RESTful APIs,Beginner,Approved,8/17/2023
+185,221,Infrastructure as Code (IaC),Intermediate,Not Approved,11/25/2023
+186,282,IoT (Internet of Things),Beginner,pending,8/21/2023
+187,420,Cybersecurity,Beginner,pending,3/31/2024
+188,106,Docker containerization,Advanced,Not Approved,7/12/2023
+189,921,Azure cloud computing,Beginner,Not Approved,12/22/2023
+190,797,Prototyping,Beginner,Approved,4/19/2023
+191,206,Network security,Intermediate,pending,11/25/2023
+192,597,C++ programming,Advanced,Approved,7/30/2023
+193,535,PowerShell scripting,Intermediate,pending,11/13/2023
+194,159,Critical thinking,Beginner,pending,3/4/2024
+195,75,Decision-making,Beginner,pending,5/13/2023
+196,932,Scrum,Intermediate,Approved,4/22/2023
+197,697,Technical documentation,Advanced,Approved,10/2/2023
+198,52,Sales and negotiation,Intermediate,Approved,9/23/2023
+199,531,Email marketing,Advanced,Approved,5/6/2023
+200,505,Cryptocurrency,Intermediate,Approved,2/5/2024
+201,399,Robotics,Beginner,Not Approved,3/20/2024
+202,561,Python programming,Intermediate,pending,8/7/2023
+203,473,Leadership and team management,Intermediate,Approved,2/12/2024
+204,449,Email marketing,Beginner,Not Approved,11/30/2023
+205,781,NoSQL database management,Advanced,Approved,1/2/2024
+206,138,Active listening.,Beginner,Approved,10/18/2023
+207,909,SEO (Search Engine Optimization),Intermediate,pending,4/14/2023
+208,908,Leadership and team management,Beginner,Approved,5/4/2023
+209,924,Penetration testing,Intermediate,pending,2/22/2024
+210,544,Enterprise integration,Intermediate,Not Approved,11/25/2023
+211,657,Technical documentation,Advanced,Not Approved,5/8/2023
+212,824,Continuous integration (CI),Advanced,Not Approved,4/12/2023
+213,698,Spark),Intermediate,pending,3/4/2024
+214,627,Data analysis,Advanced,pending,8/27/2023
+215,154,Service management tools (e.g.,Advanced,Approved,12/14/2023
+216,827,Java programming,Intermediate,Approved,2/22/2024
+217,794,SEO (Search Engine Optimization),Beginner,pending,8/5/2023
+218,340,UI/UX design,Advanced,pending,12/4/2023
+219,414,IT project management,Beginner,Not Approved,10/15/2023
+220,924,Technical writing,Intermediate,Not Approved,12/23/2023
+221,829,Process improvement,Advanced,Not Approved,11/7/2023
+222,927,Natural language processing,Advanced,Not Approved,2/1/2024
+223,798,Infrastructure as Code (IaC),Advanced,Not Approved,10/21/2023
+224,34,Docker containerization,Intermediate,Approved,2/26/2024
+225,154,Decision-making,Intermediate,Approved,6/8/2023
+226,900,Kanban,Intermediate,pending,1/7/2024
+227,671,Linux system administration,Beginner,Not Approved,12/19/2023
+228,694,Microservices architecture,Beginner,Not Approved,8/20/2023
+229,218,Risk assessment and management,Beginner,pending,11/1/2023
+230,677,PPC advertising,Intermediate,Approved,2/16/2024
+231,321,Serverless architecture,Beginner,Approved,7/30/2023
+232,811,Web development frameworks (e.g.,Advanced,Approved,11/16/2023
+233,142,Wireframing,Beginner,Approved,12/10/2023
+234,4,Enterprise integration,Intermediate,pending,6/17/2023
+235,849,Business analysis,Advanced,pending,9/2/2023
+236,397,Kubernetes orchestration,Advanced,pending,2/7/2024
+237,615,Kubernetes orchestration,Intermediate,Not Approved,10/16/2023
+238,695,RESTful APIs,Intermediate,Approved,12/9/2023
+239,159,VMware virtualization,Beginner,Not Approved,2/25/2024
+240,156,API design and management,Intermediate,pending,8/23/2023
+241,452,C++ programming,Intermediate,Approved,8/1/2023
+242,346,Data modeling,Beginner,pending,5/7/2023
+243,963,Project planning and scheduling,Intermediate,Not Approved,12/11/2023
+244,912,Usability testing,Advanced,Not Approved,11/13/2023
+245,242,Usability testing,Beginner,pending,5/9/2023
+246,816,Cryptography,Beginner,Not Approved,11/30/2023
+247,314,Active listening.,Intermediate,pending,8/14/2023
+248,159,Technical writing,Beginner,pending,3/14/2024
+249,825,Service management tools (e.g.,Advanced,Not Approved,1/11/2024
+250,962,Leadership and team management,Beginner,pending,5/22/2023
+251,824,Data visualization,Advanced,pending,5/23/2023
+252,626,Time management,Advanced,pending,10/14/2023
+253,423,Scrum,Intermediate,Approved,3/25/2024
+254,371,PowerShell scripting,Advanced,Approved,3/6/2024
+255,25,React.js,Advanced,Not Approved,12/14/2023
+256,351,Data modeling,Advanced,Approved,8/14/2023
+257,110,Network administration,Beginner,Approved,10/1/2023
+258,246,Change management,Intermediate,pending,4/22/2023
+259,698,Customer relationship management (CRM),Beginner,pending,3/17/2024
+260,254,Active listening.,Advanced,Approved,8/25/2023
+261,530,Kanban,Advanced,Approved,5/2/2023
+262,183,Docker containerization,Beginner,Approved,12/30/2023
+263,832,Version control systems (e.g.,Beginner,Not Approved,10/26/2023
+264,502,Digital marketing,Advanced,Approved,8/12/2023
+265,223,Compliance and regulatory knowledge,Intermediate,Not Approved,6/2/2023
+266,71,Serverless architecture,Intermediate,pending,6/10/2023
+267,80,Customer relationship management (CRM),Beginner,pending,12/18/2023
+268,189,HTML/CSS,Intermediate,Approved,3/20/2024
+269,125,AWS cloud computing,Beginner,Not Approved,9/29/2023
+270,475,Test-driven development (TDD),Advanced,Approved,3/30/2024
+271,646,Technical writing,Intermediate,pending,3/25/2024
+272,958,NoSQL database management,Beginner,Approved,6/26/2023
+273,895,Bash scripting,Intermediate,Not Approved,1/6/2024
+274,512,Conflict resolution,Beginner,Not Approved,12/9/2023
+275,358,Machine learning,Beginner,Approved,11/17/2023
+276,391,Test-driven development (TDD),Intermediate,pending,12/30/2023
+277,363,Risk assessment and management,Beginner,Not Approved,10/8/2023
+278,492,Business analysis,Beginner,Not Approved,10/11/2023
+279,429,ITIL (Information Technology Infrastructure Library),Advanced,Approved,10/13/2023
+280,387,Data analysis,Advanced,pending,12/9/2023
+281,192,AWS cloud computing,Beginner,Approved,12/30/2023
+282,97,Version control systems (e.g.,Advanced,Approved,5/24/2023
+283,881,Enterprise integration,Advanced,Not Approved,3/6/2024
+284,774,Problem-solving,Beginner,Approved,3/28/2024
+285,270,C++ programming,Beginner,Not Approved,8/29/2023
+286,846,Azure cloud computing,Advanced,pending,8/12/2023
+287,904,Kubernetes orchestration,Advanced,pending,8/28/2023
+288,271,IT asset management,Advanced,pending,12/18/2023
+289,510,Creativity and innovation,Beginner,pending,3/20/2024
+290,813,Social media management,Intermediate,Not Approved,1/28/2024
+291,327,Google Cloud Platform,Intermediate,Not Approved,2/27/2024
+292,264,Technical writing,Beginner,Not Approved,10/18/2023
+293,669,Wireframing,Advanced,pending,8/30/2023
+294,925,Cybersecurity,Intermediate,pending,8/26/2023
+295,692,Content management systems (CMS),Beginner,pending,2/20/2024
+296,177,Customer relationship management (CRM),Beginner,Approved,3/23/2024
+297,915,Problem-solving,Intermediate,Approved,11/14/2023
+298,683,Helpdesk support,Advanced,Approved,4/6/2024
+299,829,Vendor management,Intermediate,Approved,12/23/2023
+300,844,Data visualization,Beginner,Approved,11/25/2023
+301,667,Adaptability,Advanced,pending,1/5/2024
+302,252,Creativity and innovation,Intermediate,pending,12/22/2023
+303,695,Creativity and innovation,Advanced,Approved,8/4/2023
+304,143,Serverless architecture,Intermediate,pending,12/18/2023
+305,282,Incident response,Intermediate,Approved,12/11/2023
+306,808,SVN),Beginner,Approved,8/12/2023
+307,276,Wireframing,Advanced,Approved,11/27/2023
+308,15,JavaScript programming,Advanced,pending,7/1/2023
+309,918,Business analysis,Intermediate,pending,1/13/2024
+310,775,Linux system administration,Advanced,pending,5/20/2023
+311,835,Vendor management,Intermediate,pending,1/27/2024
+312,632,Natural language processing,Advanced,Approved,7/11/2023
+313,379,Android),Intermediate,pending,4/1/2024
+314,882,Web development frameworks (e.g.,Beginner,Approved,6/26/2023
+315,263,Wireframing,Intermediate,Not Approved,4/15/2023
+316,81,Google Cloud Platform,Intermediate,pending,2/23/2024
+317,255,Active listening.,Advanced,Not Approved,3/28/2024
+318,330,Business analysis,Beginner,pending,9/12/2023
+319,332,Decision-making,Advanced,Not Approved,12/19/2023
+320,188,Windows system administration,Advanced,pending,1/20/2024
+321,639,Presentation skills,Beginner,pending,12/14/2023
+322,423,Docker containerization,Beginner,Not Approved,5/30/2023
+323,700,Process improvement,Beginner,Not Approved,2/12/2024
+324,330,Security auditing,Beginner,Approved,5/23/2023
+325,105,Jira),Intermediate,pending,10/24/2023
+326,236,Git,Beginner,Not Approved,3/5/2024
+327,411,Continuous deployment (CD),Advanced,Approved,8/3/2023
+328,88,Helpdesk support,Advanced,Not Approved,6/26/2023
+329,567,Penetration testing,Intermediate,Approved,2/20/2024
+330,397,Bash scripting,Beginner,Not Approved,7/6/2023
+331,903,Wireframing,Advanced,pending,12/11/2023
+332,819,Python programming,Beginner,Approved,4/16/2023
+333,580,Cybersecurity,Advanced,Approved,6/30/2023
+334,569,Artificial intelligence,Advanced,pending,8/21/2023
+335,56,Scrum,Intermediate,pending,3/13/2024
+336,349,Compliance and regulatory knowledge,Intermediate,Approved,2/5/2024
+337,733,Continuous deployment (CD),Intermediate,Approved,3/12/2024
+338,806,ITIL (Information Technology Infrastructure Library),Advanced,Approved,3/16/2024
+339,384,Linux system administration,Intermediate,Approved,3/18/2024
+340,749,Agile methodologies,Intermediate,Approved,3/29/2024
+341,165,Social media management,Beginner,pending,7/18/2023
+342,698,Big data technologies (e.g.,Beginner,Approved,11/14/2023
+343,605,Business continuity planning,Beginner,Not Approved,10/29/2023
+344,621,HTML/CSS,Advanced,Approved,5/26/2023
+345,16,Enterprise integration,Beginner,pending,4/28/2023
+346,974,PowerShell scripting,Beginner,Not Approved,7/1/2023
+347,612,Enterprise integration,Intermediate,Not Approved,2/26/2024
+348,852,Technical documentation,Advanced,Approved,4/2/2024
+349,469,Process improvement,Beginner,pending,5/16/2023
+350,977,Leadership and team management,Intermediate,Not Approved,2/24/2024
+351,423,Content management systems (CMS),Beginner,pending,9/16/2023
+352,402,NoSQL database management,Beginner,Not Approved,3/27/2024
+353,628,Conflict resolution,Intermediate,pending,11/18/2023
+354,84,Enterprise integration,Intermediate,Not Approved,6/29/2023
+355,217,Network security,Intermediate,pending,11/16/2023
+356,641,Agile methodologies,Beginner,Not Approved,3/16/2024
+357,11,JavaScript programming,Advanced,Not Approved,8/3/2023
+358,207,Test automation,Advanced,Approved,2/29/2024
+359,514,Blockchain technology,Advanced,Not Approved,7/9/2023
+360,751,Computer vision,Advanced,Approved,10/20/2023
+361,328,Cryptocurrency,Advanced,Not Approved,12/28/2023
+362,715,Artificial intelligence,Advanced,pending,8/26/2023
+363,779,Social media management,Beginner,pending,12/18/2023
+364,430,GraphQL,Beginner,Not Approved,7/20/2023
+365,209,Continuous deployment (CD),Advanced,Approved,8/20/2023
+366,751,Test-driven development (TDD),Intermediate,Not Approved,1/7/2024
+367,158,Creativity and innovation,Advanced,Not Approved,6/15/2023
+368,337,Content management systems (CMS),Intermediate,Not Approved,3/28/2024
+369,182,Spark),Intermediate,Approved,7/31/2023
+370,106,Wireframing,Beginner,Approved,4/27/2023
+371,933,Linux system administration,Intermediate,Not Approved,11/15/2023
+372,523,Usability testing,Beginner,Not Approved,8/2/2023
+373,130,Disaster recovery planning,Beginner,pending,1/7/2024
+374,730,Vue.js),Advanced,Not Approved,4/29/2023
+375,965,PPC advertising,Advanced,Approved,2/11/2024
+376,167,Behavior-driven development (BDD),Advanced,pending,9/6/2023
+377,476,Project planning and scheduling,Advanced,Not Approved,2/15/2024
+378,6,UI/UX design,Advanced,Not Approved,6/5/2023
+379,609,Cybersecurity,Advanced,Approved,1/13/2024
+380,485,Behavior-driven development (BDD),Beginner,Not Approved,11/9/2023
+381,71,RESTful APIs,Beginner,Not Approved,8/1/2023
+382,13,Docker containerization,Beginner,Not Approved,10/22/2023
+383,968,Mobile app development (iOS,Intermediate,Not Approved,7/17/2023
+384,30,Deep learning,Intermediate,Not Approved,9/10/2023
+385,583,Content management systems (CMS),Beginner,Approved,7/27/2023
+386,116,Wireframing,Advanced,pending,11/30/2023
+387,259,Cryptocurrency,Advanced,Approved,11/27/2023
+388,550,AWS cloud computing,Beginner,Not Approved,7/17/2023
+389,665,API design and management,Beginner,Approved,1/31/2024
+390,305,Infrastructure as Code (IaC),Intermediate,Approved,3/17/2024
+391,279,Decision-making,Beginner,Approved,11/19/2023
+392,201,Agile methodologies,Intermediate,pending,12/30/2023
+393,278,PPC advertising,Intermediate,Not Approved,11/20/2023
+394,309,Project planning and scheduling,Intermediate,pending,7/22/2023
+395,237,Critical thinking,Beginner,Approved,3/30/2024
+396,10,Java programming,Intermediate,Approved,3/18/2024
+397,885,Microservices architecture,Beginner,Not Approved,2/8/2024
+398,213,Adaptability,Advanced,Not Approved,3/11/2024
+399,318,Problem-solving,Intermediate,Approved,4/25/2023
+400,851,Cryptography,Advanced,pending,1/2/2024
+401,78,Social media management,Intermediate,Approved,4/12/2023
+402,120,Machine learning,Intermediate,pending,1/11/2024
+403,394,Creativity and innovation,Intermediate,Not Approved,10/19/2023
+404,754,AWS cloud computing,Advanced,pending,12/27/2023
+405,684,Python programming,Advanced,pending,7/17/2023
+406,949,Change management,Beginner,Not Approved,11/2/2023
+407,92,Continuous deployment (CD),Intermediate,Not Approved,7/16/2023
+408,384,Service management tools (e.g.,Intermediate,Not Approved,9/7/2023
+409,398,C++ programming,Intermediate,Not Approved,9/1/2023
+410,90,Cryptography,Advanced,Approved,5/14/2023
+411,509,Vendor management,Advanced,Approved,3/13/2024
+412,622,Lean methodology,Advanced,Approved,4/29/2023
+413,256,Active listening.,Intermediate,Approved,6/7/2023
+414,971,UI/UX design,Intermediate,Approved,5/11/2023
+415,176,Scrum,Beginner,Not Approved,7/14/2023
+416,711,Spark),Advanced,pending,4/9/2023
+417,72,Customer relationship management (CRM),Advanced,pending,7/26/2023
+418,8,Problem-solving,Beginner,Approved,1/25/2024
+419,334,PPC advertising,Beginner,pending,2/1/2024
+420,380,HTML/CSS,Beginner,Approved,4/13/2023
+421,111,Data analysis,Beginner,Approved,11/20/2023
+422,308,SEO (Search Engine Optimization),Advanced,Not Approved,1/9/2024
+423,359,API design and management,Intermediate,pending,8/15/2023
+424,209,SEO (Search Engine Optimization),Intermediate,Not Approved,8/17/2023
+425,1,UI/UX design,Intermediate,Not Approved,8/16/2023
+426,788,JavaScript programming,Beginner,pending,7/5/2023
+427,773,SVN),Beginner,Not Approved,8/7/2023
+428,349,Test automation,Advanced,Approved,1/31/2024
+429,454,Prototyping,Beginner,Not Approved,7/30/2023
+430,683,Content management systems (CMS),Beginner,Not Approved,9/9/2023
+431,348,Natural language processing,Beginner,Approved,6/4/2023
+432,40,Android),Intermediate,Not Approved,4/21/2023
+433,7,Business continuity planning,Advanced,Approved,4/23/2023
+434,462,Natural language processing,Intermediate,pending,10/23/2023
+435,218,Network security,Advanced,pending,6/28/2023
+436,835,Git,Beginner,pending,4/21/2023
+437,667,DevOps practices,Intermediate,Not Approved,3/31/2024
+438,93,Cryptocurrency,Intermediate,Not Approved,10/11/2023
+439,115,Identity and access management (IAM),Beginner,Approved,6/16/2023
+440,990,GraphQL,Beginner,pending,10/4/2023
+441,44,JavaScript programming,Beginner,pending,2/9/2024
+442,75,Python programming,Intermediate,Not Approved,7/3/2023
+443,19,IT asset management,Intermediate,Not Approved,4/29/2023
+444,839,Leadership and team management,Advanced,Approved,12/10/2023
+445,333,Prototyping,Advanced,pending,10/18/2023
+446,635,Spark),Intermediate,Not Approved,8/11/2023
+447,280,IT asset management,Beginner,Not Approved,3/26/2024
+448,958,SEO (Search Engine Optimization),Advanced,Approved,2/13/2024
+449,170,Vue.js),Advanced,Approved,7/11/2023
+450,434,Bash scripting,Beginner,Not Approved,3/29/2024
+451,792,Conflict resolution,Intermediate,Not Approved,4/11/2023
+452,552,Big data technologies (e.g.,Advanced,pending,10/12/2023
+453,882,JavaScript programming,Advanced,Approved,3/4/2024
+454,231,IT asset management,Beginner,pending,6/7/2023
+455,54,Web services,Beginner,Approved,2/2/2024
+456,664,Scrum,Beginner,pending,10/20/2023
+457,96,Security auditing,Intermediate,Not Approved,3/16/2024
+458,321,Web services,Beginner,Not Approved,12/29/2023
+459,911,ServiceNow,Advanced,pending,10/20/2023
+460,170,Cryptography,Beginner,Approved,2/22/2024
+461,616,Helpdesk support,Intermediate,Approved,10/2/2023
+462,889,Technical writing,Beginner,Not Approved,11/1/2023
+463,964,Content marketing,Advanced,Not Approved,9/14/2023
+464,992,Scrum,Advanced,Approved,2/17/2024
+465,929,Jira),Intermediate,pending,2/6/2024
+466,229,Creativity and innovation,Intermediate,pending,3/3/2024
+467,137,Cryptography,Intermediate,Not Approved,12/15/2023
+468,395,Kubernetes orchestration,Beginner,Approved,5/2/2023
+469,496,HTML/CSS,Intermediate,Not Approved,1/25/2024
+470,59,Disaster recovery planning,Advanced,Approved,5/3/2023
+471,498,Usability testing,Beginner,pending,1/14/2024
+472,768,Git,Beginner,pending,5/18/2023
+473,632,Data modeling,Intermediate,Not Approved,11/14/2023
+474,234,Microservices architecture,Advanced,pending,5/29/2023
+475,655,Data analysis,Intermediate,Not Approved,1/28/2024
+476,568,Problem-solving,Advanced,Not Approved,9/3/2023
+477,126,IoT (Internet of Things),Advanced,Not Approved,5/4/2023
+478,626,Social media management,Intermediate,Not Approved,11/9/2023
+479,534,Risk assessment and management,Advanced,pending,4/15/2023
+480,415,Usability testing,Intermediate,Not Approved,7/11/2023
+481,835,IoT (Internet of Things),Beginner,pending,5/30/2023
+482,564,Compliance and regulatory knowledge,Beginner,Approved,11/13/2023
+483,328,IoT (Internet of Things),Advanced,Not Approved,12/31/2023
+484,105,Disaster recovery planning,Intermediate,Not Approved,7/27/2023
+485,514,Infrastructure as Code (IaC),Intermediate,Not Approved,12/4/2023
+486,427,GraphQL,Intermediate,Not Approved,3/20/2024
+487,190,Linux system administration,Beginner,Approved,7/4/2023
+488,639,SQL database management,Intermediate,Not Approved,6/5/2023
+489,415,Technical documentation,Advanced,Approved,11/14/2023
+490,656,IT asset management,Beginner,pending,2/11/2024
+491,149,Digital marketing,Advanced,Approved,6/26/2023
+492,99,Web development frameworks (e.g.,Advanced,Approved,3/12/2024
+493,713,Kanban,Beginner,Approved,8/11/2023
+494,902,Network administration,Beginner,Approved,11/8/2023
+495,30,Docker containerization,Intermediate,Not Approved,3/31/2024
+496,647,Natural language processing,Advanced,Approved,1/26/2024
+497,218,Wireframing,Beginner,pending,1/6/2024
+498,642,Computer vision,Intermediate,Approved,5/30/2023
+499,579,Customer relationship management (CRM),Advanced,Approved,9/24/2023
+500,153,Data modeling,Advanced,Approved,9/21/2023
+501,535,Leadership and team management,Beginner,Not Approved,9/1/2023
+502,357,Network administration,Intermediate,pending,2/3/2024
+503,113,Identity and access management (IAM),Beginner,Not Approved,4/29/2023
+504,166,IT asset management,Beginner,Approved,12/13/2023
+505,184,Docker containerization,Advanced,Not Approved,3/6/2024
+506,412,React.js,Intermediate,Not Approved,9/25/2023
+507,917,Lean methodology,Beginner,Not Approved,8/18/2023
+508,56,Test-driven development (TDD),Advanced,pending,3/26/2024
+509,65,PowerShell scripting,Beginner,Approved,4/4/2024
+510,706,Lean methodology,Advanced,Not Approved,4/19/2023
+511,206,Web services,Advanced,pending,3/20/2024
+512,464,Disaster recovery planning,Advanced,Not Approved,10/4/2023
+513,136,Java programming,Intermediate,Approved,11/9/2023
+514,934,Leadership and team management,Advanced,pending,5/9/2023
+515,848,Service management tools (e.g.,Intermediate,pending,2/7/2024
+516,640,Machine learning,Intermediate,pending,6/16/2023
+517,674,Social media management,Beginner,Approved,5/6/2023
+518,498,VMware virtualization,Beginner,Approved,2/8/2024
+519,727,Time management,Advanced,Not Approved,6/20/2023
+520,636,Prototyping,Advanced,pending,11/9/2023
+521,578,Wireframing,Beginner,Not Approved,2/9/2024
+522,200,Big data technologies (e.g.,Advanced,Not Approved,6/30/2023
+523,512,Technical documentation,Advanced,Not Approved,3/22/2024
+524,244,Digital marketing,Beginner,Not Approved,6/26/2023
+525,326,Scrum,Advanced,Not Approved,6/9/2023
+526,920,Project planning and scheduling,Intermediate,Not Approved,2/8/2024
+527,910,Azure cloud computing,Beginner,Not Approved,6/28/2023
+528,799,Network security,Beginner,Approved,8/7/2023
+529,609,Conflict resolution,Beginner,pending,5/1/2023
+530,381,Bash scripting,Beginner,Not Approved,8/4/2023
+531,44,Technical writing,Intermediate,pending,11/26/2023
+532,851,Kanban,Advanced,Approved,11/28/2023
+533,883,Cybersecurity,Intermediate,Approved,7/12/2023
+534,199,Email marketing,Intermediate,Approved,1/13/2024
+535,366,Hadoop,Beginner,Approved,5/15/2023
+536,699,IT project management,Beginner,Approved,3/13/2024
+537,51,Enterprise integration,Advanced,Approved,4/19/2023
+538,770,IT asset management,Beginner,Approved,12/23/2023
+539,148,VMware virtualization,Beginner,Approved,6/6/2023
+540,547,Continuous deployment (CD),Intermediate,pending,5/13/2023
+541,770,Agile methodologies,Advanced,pending,9/20/2023
+542,694,Data modeling,Advanced,Not Approved,1/27/2024
+543,485,Infrastructure as Code (IaC),Intermediate,Not Approved,1/9/2024
+544,600,Decision-making,Advanced,pending,1/4/2024
+545,651,Data visualization,Beginner,pending,2/20/2024
+546,975,IT asset management,Intermediate,Not Approved,8/13/2023
+547,406,Version control systems (e.g.,Intermediate,Not Approved,6/28/2023
+548,425,GraphQL,Beginner,pending,11/21/2023
+549,607,Big data technologies (e.g.,Intermediate,Approved,4/23/2023
+550,241,Penetration testing,Advanced,pending,11/18/2023
+551,488,Process improvement,Advanced,pending,11/8/2023
+552,798,RESTful APIs,Intermediate,Not Approved,4/9/2023
+553,377,Identity and access management (IAM),Beginner,pending,3/1/2024
+554,544,Lean methodology,Advanced,Approved,12/14/2023
+555,578,Spark),Beginner,pending,3/23/2024
+556,445,IoT (Internet of Things),Intermediate,pending,12/7/2023
+557,557,Presentation skills,Advanced,Approved,12/10/2023
+558,270,Java programming,Beginner,Not Approved,12/28/2023
+559,184,Leadership and team management,Intermediate,Approved,5/26/2023
+560,247,Social media management,Beginner,Not Approved,4/16/2023
+561,370,Process improvement,Intermediate,Approved,11/7/2023
+562,537,Vendor management,Intermediate,pending,4/10/2023
+563,467,Lean methodology,Beginner,pending,6/17/2023
+564,632,Blockchain technology,Beginner,Approved,12/5/2023
+565,406,Cryptography,Beginner,pending,4/24/2023
+566,342,Technical documentation,Intermediate,pending,5/15/2023
+567,161,Security auditing,Advanced,pending,2/23/2024
+568,364,Business analysis,Beginner,pending,10/20/2023
+569,778,Adaptability,Intermediate,Not Approved,11/30/2023
+570,283,Critical thinking,Intermediate,Not Approved,12/3/2023
+571,240,Behavior-driven development (BDD),Beginner,Approved,6/11/2023
+572,41,Microservices architecture,Beginner,Approved,9/1/2023
+573,87,DevOps practices,Advanced,Not Approved,4/21/2023
+574,876,Technical documentation,Intermediate,Not Approved,7/17/2023
+575,680,Sales and negotiation,Intermediate,Not Approved,10/4/2023
+576,133,Continuous deployment (CD),Advanced,pending,5/2/2023
+577,212,RESTful APIs,Beginner,pending,12/23/2023
+578,816,Angular,Advanced,pending,4/25/2023
+579,827,Data modeling,Beginner,Approved,3/17/2024
+580,664,Java programming,Advanced,pending,12/31/2023
+581,764,Email marketing,Intermediate,Approved,1/24/2024
+582,714,Enterprise integration,Advanced,pending,11/10/2023
+583,831,ServiceNow,Intermediate,Approved,12/14/2023
+584,834,Project planning and scheduling,Beginner,pending,3/4/2024
+585,610,Agile methodologies,Beginner,Approved,5/18/2023
+586,808,JavaScript programming,Advanced,Approved,6/23/2023
+587,472,Mobile app development (iOS,Advanced,Approved,6/21/2023
+588,631,Test automation,Beginner,Approved,7/28/2023
+589,570,Mobile app development (iOS,Beginner,pending,10/9/2023
+590,807,Email marketing,Intermediate,Not Approved,10/8/2023
+591,240,User research,Beginner,Not Approved,6/30/2023
+592,866,Customer relationship management (CRM),Advanced,pending,12/16/2023
+593,798,Artificial intelligence,Beginner,Approved,7/22/2023
+594,183,Infrastructure as Code (IaC),Intermediate,Not Approved,3/16/2024
+595,264,SQL database management,Advanced,Not Approved,7/30/2023
+596,513,DevOps practices,Intermediate,pending,6/20/2023
+597,240,Sales and negotiation,Intermediate,pending,12/3/2023
+598,337,Customer relationship management (CRM),Beginner,Not Approved,6/28/2023
+599,236,Compliance and regulatory knowledge,Advanced,Approved,2/28/2024
+600,261,Infrastructure as Code (IaC),Intermediate,pending,4/10/2023
+601,198,Microservices architecture,Advanced,Approved,1/30/2024
+602,37,SEO (Search Engine Optimization),Beginner,pending,6/7/2023
+603,582,Data modeling,Intermediate,Not Approved,3/19/2024
+604,41,Technical writing,Intermediate,Approved,8/9/2023
+605,87,ITIL (Information Technology Infrastructure Library),Beginner,pending,12/26/2023
+606,894,DevOps practices,Beginner,Not Approved,5/23/2023
+607,304,Penetration testing,Beginner,pending,12/19/2023
+608,728,PowerShell scripting,Beginner,pending,11/8/2023
+609,168,Java programming,Advanced,Approved,3/5/2024
+610,565,Serverless architecture,Intermediate,Approved,10/25/2023
+611,240,Sales and negotiation,Intermediate,Not Approved,10/20/2023
+612,498,UI/UX design,Advanced,Not Approved,5/3/2023
+613,851,Continuous deployment (CD),Intermediate,pending,7/2/2023
+614,355,Sales and negotiation,Advanced,pending,8/29/2023
+615,52,SEO (Search Engine Optimization),Advanced,Not Approved,3/11/2024
+616,967,React.js,Advanced,pending,2/14/2024
+617,845,Vendor management,Beginner,Approved,4/20/2023
+618,200,PPC advertising,Beginner,Not Approved,1/16/2024
+619,468,Leadership and team management,Advanced,Not Approved,8/12/2023
+620,983,Git,Intermediate,pending,6/6/2023
+621,560,Artificial intelligence,Advanced,Not Approved,1/14/2024
+622,856,Adaptability,Beginner,pending,7/3/2023
+623,687,Test automation,Beginner,pending,10/7/2023
+624,416,Enterprise integration,Beginner,pending,6/18/2023
+625,90,Microservices architecture,Advanced,pending,10/3/2023
+626,934,UI/UX design,Intermediate,Approved,10/16/2023
+627,402,PPC advertising,Beginner,pending,3/27/2024
+628,444,Digital marketing,Advanced,Approved,7/9/2023
+629,817,Presentation skills,Advanced,Not Approved,11/28/2023
+630,532,Compliance and regulatory knowledge,Intermediate,Not Approved,3/16/2024
+631,78,Data modeling,Intermediate,Not Approved,4/16/2023
+632,217,Version control systems (e.g.,Advanced,pending,12/14/2023
+633,573,React.js,Advanced,pending,1/8/2024
+634,465,Project planning and scheduling,Beginner,Approved,8/3/2023
+635,530,Cryptography,Intermediate,Approved,2/28/2024
+636,507,Machine learning,Beginner,pending,7/1/2023
+637,747,HTML/CSS,Beginner,Not Approved,5/15/2023
+638,677,Network administration,Beginner,Approved,10/23/2023
+639,300,IoT (Internet of Things),Beginner,Not Approved,8/6/2023
+640,600,Azure cloud computing,Intermediate,Not Approved,2/24/2024
+641,325,Technical writing,Beginner,pending,5/26/2023
+642,16,Version control systems (e.g.,Advanced,Not Approved,6/9/2023
+643,454,Cybersecurity,Beginner,pending,9/11/2023
+644,520,Android),Beginner,pending,1/23/2024
+645,159,Jira),Intermediate,pending,11/27/2023
+646,997,Time management,Intermediate,pending,1/15/2024
+647,293,Mobile app development (iOS,Intermediate,pending,7/5/2023
+648,358,Web development frameworks (e.g.,Advanced,Not Approved,7/21/2023
+649,461,Conflict resolution,Beginner,Not Approved,4/22/2023
+650,447,Bash scripting,Beginner,Approved,2/25/2024
+651,743,C++ programming,Advanced,pending,8/6/2023
+652,921,Kanban,Advanced,Not Approved,12/21/2023
+653,387,Docker containerization,Beginner,Approved,12/1/2023
+654,308,Compliance and regulatory knowledge,Intermediate,Not Approved,3/28/2024
+655,78,Conflict resolution,Intermediate,Not Approved,5/14/2023
+656,417,Cybersecurity,Beginner,Approved,3/28/2024
+657,146,Technical writing,Beginner,Approved,8/23/2023
+658,230,React.js,Intermediate,Approved,9/5/2023
+659,234,Time management,Beginner,Not Approved,10/25/2023
+660,710,Robotics,Beginner,pending,1/2/2024
+661,127,Project planning and scheduling,Advanced,pending,4/1/2024
+662,928,Lean methodology,Advanced,Approved,1/10/2024
+663,185,Software testing,Intermediate,Not Approved,6/22/2023
+664,902,Python programming,Advanced,Not Approved,5/10/2023
+665,817,Business continuity planning,Intermediate,Not Approved,4/28/2023
+666,453,Presentation skills,Intermediate,Approved,7/27/2023
+667,41,Prototyping,Advanced,Not Approved,2/5/2024
+668,714,IT asset management,Intermediate,Approved,10/29/2023
+669,774,Creativity and innovation,Intermediate,Not Approved,10/6/2023
+670,155,Decision-making,Intermediate,Not Approved,8/27/2023
+671,619,Python programming,Advanced,pending,10/4/2023
+672,762,Change management,Beginner,Not Approved,10/15/2023
+673,820,Social media management,Advanced,Approved,12/5/2023
+674,115,Usability testing,Beginner,Approved,8/9/2023
+675,952,Business continuity planning,Advanced,Not Approved,7/8/2023
+676,747,Email marketing,Beginner,Approved,11/13/2023
+677,360,Business continuity planning,Intermediate,Approved,1/30/2024
+678,292,Disaster recovery planning,Advanced,pending,1/6/2024
+679,964,Software testing,Intermediate,Approved,2/10/2024
+680,400,Jira),Intermediate,Approved,3/29/2024
+681,718,RESTful APIs,Beginner,Not Approved,2/7/2024
+682,34,Technical writing,Beginner,Not Approved,6/12/2023
+683,50,Risk assessment and management,Advanced,Approved,1/14/2024
+684,153,Decision-making,Beginner,pending,12/6/2023
+685,930,Problem-solving,Advanced,pending,8/28/2023
+686,777,Digital marketing,Beginner,pending,1/24/2024
+687,91,Email marketing,Beginner,Approved,2/24/2024
+688,876,IT project management,Intermediate,Approved,2/22/2024
+689,169,Customer relationship management (CRM),Advanced,pending,9/18/2023
+690,127,Jira),Beginner,pending,11/19/2023
+691,491,Problem-solving,Intermediate,Approved,12/31/2023
+692,5,IT project management,Advanced,Not Approved,6/19/2023
+693,547,Web development frameworks (e.g.,Intermediate,Approved,4/17/2023
+694,278,Spark),Beginner,Not Approved,4/26/2023
+695,73,Critical thinking,Intermediate,pending,8/19/2023
+696,963,Google Cloud Platform,Intermediate,pending,2/16/2024
+697,312,Risk assessment and management,Intermediate,Not Approved,4/27/2023
+698,210,Prototyping,Intermediate,pending,5/5/2023
+699,435,Machine learning,Beginner,Not Approved,3/30/2024
+700,954,GraphQL,Beginner,pending,6/3/2023
+701,700,Service management tools (e.g.,Intermediate,pending,4/1/2024
+702,676,Social media management,Advanced,Approved,9/6/2023
+703,699,Presentation skills,Intermediate,Approved,6/24/2023
+704,560,Google Cloud Platform,Intermediate,pending,11/6/2023
+705,462,Spark),Intermediate,Not Approved,10/10/2023
+706,754,HTML/CSS,Advanced,pending,9/7/2023
+707,781,Network security,Beginner,pending,5/17/2023
+708,789,Robotics,Beginner,Approved,4/28/2023
+709,260,API design and management,Beginner,pending,12/24/2023
+710,364,SVN),Beginner,Approved,11/28/2023
+711,664,Test automation,Advanced,pending,9/17/2023
+712,295,Agile methodologies,Beginner,Approved,4/25/2023
+713,432,Security auditing,Intermediate,Not Approved,5/3/2023
+714,539,AWS cloud computing,Beginner,Not Approved,8/29/2023
+715,801,Version control systems (e.g.,Advanced,pending,8/28/2023
+716,111,Cryptography,Intermediate,Approved,8/22/2023
+717,92,Data visualization,Beginner,pending,7/6/2023
+718,483,Identity and access management (IAM),Advanced,Not Approved,1/5/2024
+719,343,Active listening.,Beginner,Not Approved,12/31/2023
+720,846,Linux system administration,Intermediate,Approved,2/25/2024
+721,758,Machine learning,Advanced,Approved,8/23/2023
+722,240,Presentation skills,Advanced,Approved,10/26/2023
+723,784,Test automation,Advanced,pending,12/18/2023
+724,370,Problem-solving,Intermediate,pending,10/3/2023
+725,10,Business continuity planning,Beginner,Approved,4/5/2024
+726,831,Risk assessment and management,Advanced,pending,7/8/2023
+727,300,AWS cloud computing,Advanced,pending,6/16/2023
+728,713,Social media management,Beginner,Approved,2/7/2024
+729,698,Enterprise integration,Advanced,Approved,11/20/2023
+730,713,Mobile app development (iOS,Intermediate,Approved,8/1/2023
+731,302,AWS cloud computing,Advanced,Not Approved,5/8/2023
+732,878,VMware virtualization,Advanced,Not Approved,12/4/2023
+733,60,Process improvement,Beginner,pending,4/30/2023
+734,380,Natural language processing,Advanced,Not Approved,10/11/2023
+735,659,Identity and access management (IAM),Beginner,pending,12/9/2023
+736,996,Active listening.,Intermediate,pending,5/3/2023
+737,791,Test automation,Beginner,pending,5/15/2023
+738,964,Continuous integration (CI),Advanced,pending,6/14/2023
+739,422,Network security,Advanced,Approved,9/27/2023
+740,157,Bash scripting,Beginner,pending,12/16/2023
+741,840,Deep learning,Advanced,Not Approved,11/26/2023
+742,167,Docker containerization,Beginner,Approved,5/9/2023
+743,626,Data visualization,Advanced,Approved,11/3/2023
+744,227,Data analysis,Advanced,Approved,6/7/2023
+745,508,Machine learning,Advanced,Not Approved,9/22/2023
+746,832,Kubernetes orchestration,Intermediate,Not Approved,5/5/2023
+747,785,Time management,Intermediate,pending,9/2/2023
+748,971,Test automation,Intermediate,Approved,6/8/2023
+749,10,Email marketing,Advanced,Not Approved,9/16/2023
+750,612,Mobile app development (iOS,Advanced,pending,2/13/2024
+751,443,Data modeling,Advanced,Approved,8/16/2023
+752,750,Network security,Intermediate,Approved,4/28/2023
+753,662,Big data technologies (e.g.,Advanced,Approved,2/9/2024
+754,979,Risk assessment and management,Intermediate,Not Approved,1/12/2024
+755,794,Blockchain technology,Advanced,pending,5/2/2023
+756,831,Data visualization,Beginner,Approved,8/30/2023
+757,757,Helpdesk support,Intermediate,Not Approved,7/18/2023
+758,407,DevOps practices,Advanced,Approved,3/29/2024
+759,443,Usability testing,Intermediate,Approved,6/10/2023
+760,948,Network administration,Intermediate,pending,1/17/2024
+761,494,Disaster recovery planning,Advanced,Not Approved,11/29/2023
+762,522,JavaScript programming,Intermediate,Approved,4/14/2023
+763,254,Adaptability,Intermediate,Approved,1/27/2024
+764,270,Kubernetes orchestration,Beginner,Not Approved,4/29/2023
+765,491,Usability testing,Intermediate,Not Approved,11/8/2023
+766,63,Network security,Advanced,pending,2/7/2024
+767,746,Critical thinking,Beginner,pending,12/7/2023
+768,990,Test-driven development (TDD),Advanced,Approved,7/7/2023
+769,209,SQL database management,Intermediate,Approved,8/10/2023
+770,362,Disaster recovery planning,Advanced,Not Approved,2/3/2024
+771,647,Helpdesk support,Beginner,pending,10/27/2023
+772,646,Serverless architecture,Advanced,pending,11/1/2023
+773,751,DevOps practices,Advanced,pending,11/16/2023
+774,989,Change management,Advanced,Approved,12/11/2023
+775,551,Angular,Intermediate,Approved,11/23/2023
+776,492,Cryptocurrency,Advanced,pending,8/9/2023
+777,595,Active listening.,Beginner,Approved,5/27/2023
+778,434,VMware virtualization,Advanced,pending,3/1/2024
+779,64,Kanban,Advanced,Approved,8/27/2023
+780,496,HTML/CSS,Beginner,Approved,3/10/2024
+781,755,ServiceNow,Advanced,Not Approved,3/2/2024
+782,404,React.js,Intermediate,Not Approved,10/15/2023
+783,421,Bash scripting,Beginner,Not Approved,8/5/2023
+784,339,DevOps practices,Advanced,Approved,12/30/2023
+785,100,Content marketing,Advanced,Not Approved,3/19/2024
+786,327,Customer relationship management (CRM),Beginner,Not Approved,8/7/2023
+787,827,Adaptability,Intermediate,Approved,11/28/2023
+788,511,Hadoop,Advanced,Not Approved,11/26/2023
+789,812,NoSQL database management,Intermediate,pending,5/30/2023
+790,593,NoSQL database management,Advanced,Not Approved,3/19/2024
+791,892,Service management tools (e.g.,Intermediate,Not Approved,9/23/2023
+792,807,Risk assessment and management,Beginner,Not Approved,8/9/2023
+793,840,Kubernetes orchestration,Beginner,Not Approved,7/28/2023
+794,678,Robotics,Beginner,Not Approved,12/11/2023
+795,182,Test automation,Intermediate,Approved,7/21/2023
+796,861,Windows system administration,Beginner,pending,11/15/2023
+797,811,Microservices architecture,Advanced,Approved,10/8/2023
+798,3,Adaptability,Beginner,Not Approved,2/15/2024
+799,351,Leadership and team management,Advanced,Not Approved,11/28/2023
+800,27,Data analysis,Intermediate,pending,1/10/2024
+801,46,Business analysis,Beginner,Not Approved,10/29/2023
+802,794,API design and management,Intermediate,pending,3/28/2024
+803,210,Network administration,Beginner,pending,10/27/2023
+804,851,Agile methodologies,Intermediate,Approved,6/21/2023
+805,608,Problem-solving,Beginner,Approved,8/31/2023
+806,384,Continuous integration (CI),Intermediate,Approved,11/25/2023
+807,850,Adaptability,Beginner,Not Approved,4/8/2023
+808,450,Artificial intelligence,Beginner,Approved,3/1/2024
+809,168,Computer vision,Beginner,Not Approved,12/27/2023
+810,993,Helpdesk support,Advanced,pending,2/5/2024
+811,221,Machine learning,Advanced,Not Approved,2/8/2024
+812,831,IT asset management,Beginner,Approved,12/30/2023
+813,943,Cryptography,Advanced,Not Approved,3/30/2024
+814,623,Security auditing,Intermediate,Not Approved,6/10/2023
+815,846,Big data technologies (e.g.,Intermediate,Not Approved,3/18/2024
+816,37,Azure cloud computing,Beginner,Approved,7/20/2023
+817,571,Data modeling,Beginner,pending,8/30/2023
+818,686,Deep learning,Beginner,pending,9/21/2023
+819,922,Wireframing,Intermediate,Approved,2/18/2024
+820,75,HTML/CSS,Beginner,pending,1/25/2024
+821,636,Continuous integration (CI),Advanced,pending,12/18/2023
+822,420,Agile methodologies,Intermediate,Not Approved,11/15/2023
+823,984,Prototyping,Intermediate,Approved,11/3/2023
+824,867,Test-driven development (TDD),Advanced,Not Approved,11/3/2023
+825,810,Customer relationship management (CRM),Advanced,pending,7/4/2023
+826,728,Time management,Advanced,pending,3/6/2024
+827,376,Service management tools (e.g.,Beginner,Approved,5/7/2023
+828,519,IT project management,Beginner,Approved,3/7/2024
+829,101,Data modeling,Intermediate,Approved,12/13/2023
+830,44,Usability testing,Beginner,pending,7/16/2023
+831,65,Test automation,Beginner,pending,8/21/2023
+832,193,Docker containerization,Beginner,Approved,10/4/2023
+833,775,User research,Intermediate,Not Approved,4/17/2023
+834,503,Technical writing,Beginner,Not Approved,10/4/2023
+835,154,Penetration testing,Intermediate,Not Approved,5/17/2023
+836,659,Customer relationship management (CRM),Intermediate,Approved,8/20/2023
+837,848,Service management tools (e.g.,Intermediate,Approved,1/26/2024
+838,932,Machine learning,Intermediate,Not Approved,4/8/2023
+839,323,Critical thinking,Advanced,Approved,2/9/2024
+840,955,Content marketing,Advanced,pending,9/3/2023
+841,877,Business continuity planning,Beginner,Not Approved,10/12/2023
+842,921,Data modeling,Advanced,Approved,7/22/2023
+843,409,HTML/CSS,Intermediate,pending,6/24/2023
+844,203,NoSQL database management,Beginner,Approved,2/18/2024
+845,83,User research,Beginner,pending,10/3/2023
+846,113,Technical documentation,Advanced,Approved,6/13/2023
+847,633,Deep learning,Advanced,Not Approved,6/5/2023
+848,298,JavaScript programming,Advanced,Approved,2/17/2024
+849,472,AWS cloud computing,Beginner,Approved,10/7/2023
+850,194,PowerShell scripting,Advanced,Approved,2/18/2024
+851,469,Test-driven development (TDD),Beginner,Approved,2/28/2024
+852,442,Content management systems (CMS),Advanced,Approved,11/1/2023
+853,497,Decision-making,Advanced,pending,10/8/2023
+854,194,Docker containerization,Intermediate,Not Approved,1/8/2024
+855,11,Digital marketing,Beginner,Not Approved,12/4/2023
+856,951,PPC advertising,Intermediate,pending,9/13/2023
+857,98,Project planning and scheduling,Beginner,Approved,5/20/2023
+858,981,Mobile app development (iOS,Intermediate,Not Approved,9/5/2023
+859,938,Leadership and team management,Beginner,pending,7/30/2023
+860,95,Data visualization,Intermediate,Not Approved,2/14/2024
+861,575,Sales and negotiation,Beginner,Not Approved,3/7/2024
+862,617,Test-driven development (TDD),Beginner,Not Approved,3/7/2024
+863,123,PPC advertising,Beginner,Not Approved,1/30/2024
+864,667,Web services,Beginner,Not Approved,4/6/2024
+865,689,SQL database management,Advanced,pending,7/4/2023
+866,830,Infrastructure as Code (IaC),Beginner,Approved,7/24/2023
+867,952,Vendor management,Beginner,pending,4/18/2023
+868,115,Business analysis,Intermediate,Approved,9/29/2023
+869,857,Agile methodologies,Advanced,Not Approved,12/9/2023
+870,404,Enterprise integration,Advanced,Approved,10/23/2023
+871,210,Machine learning,Beginner,Not Approved,11/4/2023
+872,730,Kanban,Intermediate,Not Approved,11/15/2023
+873,794,Spark),Advanced,Approved,5/15/2023
+874,644,Software testing,Beginner,Not Approved,3/19/2024
+875,892,Decision-making,Intermediate,Not Approved,1/19/2024
+876,112,Wireframing,Intermediate,Not Approved,5/30/2023
+877,658,Deep learning,Beginner,Approved,2/7/2024
+878,201,Data modeling,Beginner,pending,10/30/2023
+879,901,Incident response,Beginner,Approved,6/28/2023
+880,459,Email marketing,Beginner,Not Approved,11/6/2023
+881,48,Blockchain technology,Advanced,pending,3/27/2024
+882,72,Git,Beginner,Approved,5/13/2023
+883,533,DevOps practices,Intermediate,Not Approved,1/5/2024
+884,199,Data analysis,Intermediate,Approved,12/9/2023
+885,588,Process improvement,Intermediate,Not Approved,6/25/2023
+886,781,Java programming,Intermediate,pending,12/29/2023
+887,523,Active listening.,Advanced,pending,3/31/2024
+888,806,Data modeling,Advanced,pending,8/31/2023
+889,808,Jira),Intermediate,Not Approved,8/7/2023
+890,404,Customer relationship management (CRM),Beginner,pending,7/22/2023
+891,658,Blockchain technology,Intermediate,Not Approved,5/2/2023
+892,548,Google Cloud Platform,Intermediate,Approved,5/3/2023
+893,483,Microservices architecture,Beginner,pending,2/13/2024
+894,670,ServiceNow,Advanced,pending,11/10/2023
+895,955,Prototyping,Intermediate,Not Approved,10/24/2023
+896,916,SEO (Search Engine Optimization),Intermediate,Not Approved,11/13/2023
+897,900,Cryptocurrency,Beginner,Approved,6/2/2023
+898,777,Kanban,Advanced,Approved,7/9/2023
+899,492,Machine learning,Intermediate,pending,11/12/2023
+900,166,Angular,Intermediate,pending,11/21/2023
+901,1000,Identity and access management (IAM),Intermediate,Not Approved,5/29/2023
+902,243,PowerShell scripting,Intermediate,Not Approved,8/5/2023
+903,951,Usability testing,Advanced,Approved,4/8/2023
+904,851,API design and management,Advanced,Not Approved,1/4/2024
+905,456,Bash scripting,Intermediate,pending,9/22/2023
+906,186,Mobile app development (iOS,Beginner,Not Approved,7/11/2023
+907,761,Technical writing,Advanced,Not Approved,5/2/2023
+908,127,IoT (Internet of Things),Beginner,pending,6/19/2023
+909,994,Identity and access management (IAM),Advanced,pending,9/30/2023
+910,955,C++ programming,Intermediate,Approved,9/17/2023
+911,392,Microservices architecture,Beginner,Not Approved,12/19/2023
+912,15,NoSQL database management,Advanced,Approved,7/29/2023
+913,241,Version control systems (e.g.,Advanced,Approved,8/8/2023
+914,866,Cryptography,Advanced,pending,10/13/2023
+915,279,Process improvement,Beginner,pending,11/22/2023
+916,472,Disaster recovery planning,Beginner,pending,9/19/2023
+917,736,Social media management,Advanced,Approved,4/22/2023
+918,420,JavaScript programming,Advanced,Not Approved,9/14/2023
+919,637,Android),Advanced,pending,5/8/2023
+920,910,Conflict resolution,Beginner,Approved,10/5/2023
+921,49,Network administration,Beginner,Not Approved,2/27/2024
+922,955,Microservices architecture,Beginner,Not Approved,11/24/2023
+923,437,Agile methodologies,Advanced,pending,9/12/2023
+924,197,Agile methodologies,Intermediate,Not Approved,11/15/2023
+925,845,Business continuity planning,Beginner,Not Approved,5/5/2023
+926,837,Business analysis,Beginner,pending,4/10/2023
+927,684,Process improvement,Beginner,Not Approved,1/5/2024
+928,343,Network security,Advanced,Approved,1/2/2024
+929,907,AWS cloud computing,Beginner,Approved,6/26/2023
+930,327,Jira),Advanced,pending,10/30/2023
+931,396,Deep learning,Beginner,pending,2/14/2024
+932,399,Continuous integration (CI),Advanced,pending,7/7/2023
+933,135,Kubernetes orchestration,Beginner,Not Approved,7/22/2023
+934,279,Data analysis,Intermediate,Not Approved,12/28/2023
+935,266,IoT (Internet of Things),Intermediate,Approved,11/29/2023
+936,45,Agile methodologies,Intermediate,Not Approved,11/12/2023
+937,380,Scrum,Beginner,pending,5/18/2023
+938,358,Google Cloud Platform,Intermediate,Approved,5/21/2023
+939,537,Software testing,Beginner,pending,1/20/2024
+940,489,Disaster recovery planning,Advanced,Approved,2/3/2024
+941,377,Agile methodologies,Intermediate,Not Approved,2/19/2024
+942,558,Technical writing,Beginner,Approved,7/13/2023
+943,875,Cybersecurity,Beginner,Not Approved,3/11/2024
+944,82,RESTful APIs,Advanced,Approved,5/8/2023
+945,669,Continuous integration (CI),Beginner,Approved,8/9/2023
+946,317,Version control systems (e.g.,Intermediate,Not Approved,12/11/2023
+947,501,PowerShell scripting,Advanced,Approved,8/29/2023
+948,777,Presentation skills,Intermediate,Approved,7/18/2023
+949,292,Data analysis,Intermediate,Approved,1/29/2024
+950,397,UI/UX design,Advanced,Not Approved,1/13/2024
+951,425,Disaster recovery planning,Beginner,pending,12/26/2023
+952,915,Risk assessment and management,Advanced,pending,6/14/2023
+953,850,Risk assessment and management,Beginner,Approved,11/16/2023
+954,211,PowerShell scripting,Intermediate,Approved,1/8/2024
+955,946,Linux system administration,Beginner,Approved,1/24/2024
+956,189,Data visualization,Advanced,Approved,4/24/2023
+957,571,Data visualization,Beginner,pending,11/4/2023
+958,929,Artificial intelligence,Beginner,Approved,9/22/2023
+959,819,NoSQL database management,Beginner,Not Approved,4/5/2024
+960,566,Risk assessment and management,Advanced,Not Approved,10/12/2023
+961,359,Linux system administration,Intermediate,Not Approved,1/17/2024
+962,598,Social media management,Advanced,pending,11/19/2023
+963,334,Java programming,Intermediate,Approved,8/23/2023
+964,457,SQL database management,Beginner,Approved,5/8/2023
+965,144,SVN),Beginner,pending,12/7/2023
+966,432,API design and management,Advanced,Approved,11/15/2023
+967,693,Google Cloud Platform,Intermediate,pending,4/2/2024
+968,992,Technical documentation,Beginner,Not Approved,5/7/2023
+969,101,Active listening.,Intermediate,Approved,7/9/2023
+970,335,Web services,Advanced,pending,8/30/2023
+971,425,Sales and negotiation,Advanced,Not Approved,11/13/2023
+972,870,SQL database management,Intermediate,pending,11/5/2023
+973,489,Time management,Advanced,Approved,11/10/2023
+974,405,Problem-solving,Intermediate,Not Approved,8/17/2023
+975,275,Wireframing,Beginner,Not Approved,2/14/2024
+976,408,Adaptability,Advanced,Approved,7/20/2023
+977,283,Deep learning,Intermediate,Approved,4/23/2023
+978,802,IT asset management,Intermediate,Not Approved,10/7/2023
+979,940,Process improvement,Beginner,Approved,8/8/2023
+980,805,Incident response,Intermediate,Approved,7/23/2023
+981,646,Continuous integration (CI),Beginner,Not Approved,10/28/2023
+982,630,Continuous integration (CI),Beginner,Not Approved,8/29/2023
+983,151,AWS cloud computing,Beginner,pending,2/5/2024
+984,800,Data visualization,Advanced,Approved,6/6/2023
+985,433,Google Cloud Platform,Beginner,Approved,4/22/2023
+986,491,Incident response,Advanced,pending,9/5/2023
+987,33,Google Cloud Platform,Beginner,Not Approved,10/10/2023
+988,985,Presentation skills,Advanced,Not Approved,11/28/2023
+989,684,Computer vision,Intermediate,Not Approved,9/29/2023
+990,113,Business analysis,Intermediate,Approved,6/8/2023
+991,975,Artificial intelligence,Intermediate,Not Approved,9/8/2023
+992,8,Technical writing,Intermediate,Not Approved,4/18/2023
+993,335,Enterprise integration,Beginner,Not Approved,3/24/2024
+994,760,Vue.js),Advanced,pending,11/9/2023
+995,100,Test-driven development (TDD),Intermediate,pending,7/24/2023
+996,100,Data modeling,Intermediate,pending,7/21/2023
+997,562,IT project management,Beginner,Approved,6/21/2023
+998,589,Customer relationship management (CRM),Intermediate,Not Approved,1/26/2024
+999,526,Creativity and innovation,Intermediate,Approved,11/25/2023
+1000,31,Microservices architecture,Advanced,Approved,1/27/2024

@@ -1,0 +1,65 @@
+.form-head {
+  margin-top: 40px;
+  padding: 5%;
+  background-color: #ffffff;
+  border-radius: 0;
+  overflow: hidden; /* Ensure full-width */
+}
+
+.login-head {
+  font-size: 35px;
+  color: #333333;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  border: none;
+  border-bottom: 1px solid #dddddd;
+  border-radius: 0;
+  outline: none;
+  box-shadow: none;
+  width: 100%;
+}
+.skill-section {
+  margin-bottom: 20px;
+}
+
+.skill-name {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.centered-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Adjust as needed */
+}
+
+.project-certification-label {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.button-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button-container button {
+  margin-right: 10px;
+}
+
+@media screen and (min-width: 576px) {
+  .form-head {
+      width: 80%;
+      margin: auto;
+  }
+}

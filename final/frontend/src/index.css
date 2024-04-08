@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* index.css */
+.sidebar-wrapper {
+  width: 200px; /* Adjust width as needed */
+  float: left;
+}
+
+.content-wrapper {
+  margin-left: 200px; /* Adjust margin to avoid overlap with sidebar */
+  /* Add any additional styling as needed */
+}

@@ -1,0 +1,64 @@
+.div1 {
+  margin: 20px;
+  position: relative; /* Ensure relative positioning for child elements */
+}
+
+.userD {
+  text-align: center;
+}
+
+.table-container {
+  overflow-x: auto; /* Enable horizontal scrolling */
+}
+
+.table-scroll {
+  max-width: 100%; /* Ensure the table can scroll horizontally */
+}
+
+.table-header {
+  background-color: #19105B;
+  color: white;
+}
+
+td {
+  background-color: #c3e3f0;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.approve {
+  background-color: #FF6196;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .div1 {
+    padding: 10px;
+  }
+
+  .userD {
+    padding-left: 0;
+  }
+
+  .table-header {
+    font-size: 12px;
+  }
+
+  td {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 576px) {
+  .table-header {
+    font-size: 10px;
+  }
+
+  td {
+    font-size: 10px;
+  }
+}
